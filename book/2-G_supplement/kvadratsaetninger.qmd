@@ -1,0 +1,49 @@
+# Kvadratsætninger
+
+$$
+\begin{gather}
+& (a+b)^2=a^2+b^2+2ab \\
+& (a-b)^2=a^2+b^2-2ab \\
+& (a+b)(a-b)=a^2-b^2
+\end{gather}
+$$
+
+## 
+Brug en kvadratsætning til at fjerne parentesen/erne, og reducer.
+
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ (p+q)^2 \\
+&\text{b.} \ (p-q)^2 \\
+&\text{c.} \ (p+q)(p-q) \\
+&\text{d.} \ (p-q)(p+q) \\
+&\text{e.} \ (x+4)^2 \\
+&\text{f.} \ (t-2)^2 \\
+&\text{g.} \ (5-p)^2 \\
+&\text{h.} \ (k-3)(k+3) \\
+&\text{i.} \ (a+4b)^2 \\
+&\text{j.} \ (2p-q)^2 \\
+&\text{k.} \ (2x-3y)^2 \\
+&\text{l.} \ (2x-p)(2x+p) \\
+&\text{m.} \ (p+q)^2-q^2 \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \ (a+b)^2-2ab \\
+&\text{o.} \ (x-2y)^2-2xy \\
+&\text{p.} \ (2p+q)^2-2p^2+pq \\
+&\text{q.} \  \\
+&\text{r.} \  \\
+&\text{s.} \  \\
+&\text{t.} \  \\
+&\text{u.} \  \\
+&\text{v.} \  \\
+&\text{w.} \  \\
+&\text{x.} \  \\
+&\text{y.} \  \\
+&\text{z.} \  \\
+\end{aligned}
+\end{gather}
+$$

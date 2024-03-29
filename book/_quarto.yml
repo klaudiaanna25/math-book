@@ -36,6 +36,20 @@ book:
         - 2-G_supplement/kombinatorik.qmd
         - 2-G_supplement/enhedscirklen.qmd
         - 2-G_supplement/ligningsloesning.qmd
+        - 2-G_supplement/faktorisering.qmd
+        - 2-G_supplement/potenser_og_roedder.qmd
+        - 2-G_supplement/sandsynlighed.qmd
+        - 2-G_supplement/reduktion.qmd
+        - 2-G_supplement/kvadratsaetninger.qmd
+        - 2-G_supplement/lineaere_funktioner.qmd
+        - 2-G_supplement/procent.qmd
+        - 2-G_supplement/vektorer.qmd
+        - 2-G_supplement/toligninger.qmd
+        - 2-G_supplement/eksponentiel_vaekst.qmd
+    - part: bilag/0.index.qmd
+      chapters:
+        - bilag/multiplikationstabel.qmd
+        - bilag/delelighedsregler.qmd
     
 
 bibliography: references.bib

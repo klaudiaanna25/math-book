@@ -1,0 +1,2 @@
+# Eksponentiel vækst
+En eksponentiel funktion er en funktion

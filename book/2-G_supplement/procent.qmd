@@ -1,0 +1,45 @@
+# Procentregning
+
+## Eksempel
+Vi ønsker at bestemme 20% af 500.
+
+Da 20% svarer til 0.2, har vi $0.2 \cdot 500=100$.
+
+## Eksempel
+Vi ønsker at lægge 20% til 800. 
+Vi bruger fremskrivningsfaktoren $1+0.20=1.20$.
+
+Vi multiplicerer de 800 med fremskrivningsfaktoren og får $800 \cdot 1.2 = 960$.
+
+Vi ønsker at trække 15% fra 800.
+Vi bruger fremskrivningsfaktoren $1-0.15=0.85$
+
+Vi multiplicerer de 800 med fremskrivningsfaktoren $800 \cdot 0.85 = 680$
+
+##
+Beregn i hånden. Hvad er
+
+a. 10% af 100?
+b. 20% af 700?
+c. 25% af 500?
+d. 7% af 200?
+
+##
+Beregn i hånden. Hvad får man, når man 
+
+a. lægger 10% til 500?
+b. lægger 20% til 1000?
+c. lægger 5% til en million?
+d. lægger 4% til 200?
+e. trækker 10% fra 100?
+f. trækker 10 fra 1200?
+g. trækker 30% fra 1200?
+h. trækker 9% fra 200?
+
+##
+Brug overslagsregning til at beregne et tilnærmet resultat.
+
+a. Et par bukser koster 490 kr. Hvad skal man ca. betale, hvis man får 30% rabat?
+b. En computer koster 12900 kr. Hvad skal man ca. betale hvis man får 10% rabat?
+c. En telefon koster 3900 kr. Hvad skal man ca. betale, hvis man får 20% i rabat?
+d. En glasramme koster 124.95 kr. Hvad skal man ca. betale, hvis man får 10% rabat?

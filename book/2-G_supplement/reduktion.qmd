@@ -1,0 +1,146 @@
+# Reduktion
+Husk at du ikke må sammenblande variable som $a, b, a^2$ osv.
+
+## Eksempel
+$3a-b+2a$ kan reduceres til $5a-b$.
+
+$3a-b+2a^2$ kan ikke reduceres.
+
+## Parenteser regneregler
+$$
+\begin{gather}
+& a(b+c)=ab+ac \\
+& (a+b)(c+d) = ac+ad+bc+bd
+\end{gather}
+$$
+
+##
+Reducer udtrykket mest muligt
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 3ab-6ab+b^2 \\
+&\text{b.} \ a^2-5b+11a^2+b \\
+&\text{c.} \ a+7b+6a+4ab \\
+&\text{d.} \ -2+3b-a^2+8-2a+7a^2 \\
+&\text{e.} \ 3(3p-q)-p(5+p)-p^2 \\
+&\text{f.} \ 2p^2-3q^2+4pq-2q(p+q) \\
+&\text{g.} \ p(q+2p)-q(q+2p) \\
+&\text{h.} \ 2(2+p^2)-6p^2+p(3p-2q) \\
+&\text{i.} \ (x+5)(x+2) \\
+&\text{j.} \ (x+y)(x+3y)-5xy+2x^2 \\
+&\text{k.} \ x^2+5xy-(x+3)(y-x) \\
+&\text{l.} \ (x+y)(x-y)+8x^2+y^2 \\
+&\text{m.} \ 5(2+3x)-10x \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \ x^2+5x-(2x^2-3x)+12 \\
+&\text{o.} \ (3x-4x^2)\cdot 3-(8x^2+x+1) \\
+&\text{p.} \ (a+2b)(b-3) \\
+&\text{q.} \ (1+a)(3a-5)-a^2 \\
+&\text{r.} \ 7b+(2a-b)(4b-a) \\
+&\text{s.} \ (a+b)^2-2ab \\
+&\text{t.} \ (2p-q)^2+q^2-5p^2 \\
+&\text{u.} \ 3q-(p-q)^2 \\
+&\text{v.} \ 3x+4y-2x+3x^2-y \\
+&\text{w.} \ p(q-3p)-5p^2+2pq \\
+&\text{x.} \ 8b-ba+3(2-b+ba) \\
+&\text{y.} \ (5-2t) \cdot 3+6t \\
+&\text{z.} \ (p+q)^2-pq \\
+\end{aligned}
+\end{gather}
+$$
+
+##
+Reducer mest muligt
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 2a^2+(2a-5)^2 \\
+&\text{b.} \ (5x+2y)^2-x^2-20xy \\
+&\text{c.} \ (t-2s)(t+2s)+4s^2 \\
+&\text{d.} \ 5(s-t)^2 \\
+&\text{e.} \ 2(p-2q)^2-2p^2 \\
+&\text{f.} \ 3(a-b)(a+b)-a^2+2b^2 \\
+&\text{g.} \ 2xy+4(y-3x)^2+y^2 \\
+&\text{h.} \  \\
+&\text{i.} \  \\
+&\text{j.} \  \\
+&\text{k.} \  \\
+&\text{l.} \  \\
+&\text{m.} \  \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \  \\
+&\text{o.} \  \\
+&\text{p.} \  \\
+&\text{q.} \  \\
+&\text{r.} \  \\
+&\text{s.} \  \\
+&\text{t.} \  \\
+&\text{u.} \  \\
+&\text{v.} \  \\
+&\text{w.} \  \\
+&\text{x.} \  \\
+&\text{y.} \  \\
+&\text{z.} \  \\
+\end{aligned}
+\end{gather}
+$$
+
+## Eksempel: Reduktion med brøker
+$$
+\frac{4 \cdot x^2 \cdot y^9}{2 \cdot x^2 \cdot y^4}
+= \frac{4}{2} \cdot \frac{x^2}{x^2} \cdot \frac{y^9}{y^4} 
+= 2 \cdot 1 \cdot y^{9-4} = 2y^5
+$$
+
+$$
+\frac{a^2+a\cdot b^2}{a^2}
+= \frac{a^2}{a^2} + \frac{a \cdot b^2}{a^2}
+= 1 + \frac{a \cdot b^2}{a \cdot a}
+= 1 + \frac{b^2}{a}
+$$
+
+##
+Reducer mest muligt
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ \frac{6 \cdot x^5}{3 \cdot x} \\
+&\text{b.} \ \frac{10 \cdot s^8 \cdot t}{5 \cdot s^4 \cdot t^{10}} \\
+&\text{c.} \ \frac{1500 \cdot p^{15} \cdot q}{500 \cdot p^2 \cdot q} \\
+&\text{d.} \ \left(\frac{a^3\cdot b^7}{a^5 \cdot b^3} \right)^2 \\
+&\text{e.} \ \frac{a+b}{a} \\
+&\text{f.} \ \frac{8x^2y^2 +4x^2}{2x^2} \\
+&\text{g.} \ \frac{p(q+p)}{p^2} \\
+&\text{h.} \ \frac{10 \cdot s^3 \cdot t^2 - 5 \cdot s^2 \cdot t}{5 \cdot s^2 \cdot t} \\
+&\text{i.} \  \\
+&\text{j.} \  \\
+&\text{k.} \  \\
+&\text{l.} \  \\
+&\text{m.} \  \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \  \\
+&\text{o.} \  \\
+&\text{p.} \  \\
+&\text{q.} \  \\
+&\text{r.} \  \\
+&\text{s.} \  \\
+&\text{t.} \  \\
+&\text{u.} \  \\
+&\text{v.} \  \\
+&\text{w.} \  \\
+&\text{x.} \  \\
+&\text{y.} \  \\
+&\text{z.} \  \\
+\end{aligned}
+\end{gather}
+$$

@@ -1,0 +1,7 @@
+---
+format: html
+---
+
+::: {.content-hidden}
+{{< include /qpreamble.sty >}}
+:::

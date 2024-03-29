@@ -1,0 +1,37 @@
+# Sandsynlighed
+Hvis alle udfald har samme sandsynlighed, kan sandsynligheden for en hændelse beregnes som
+$$
+P = \frac{\text{Antal gunstige udfald}}{\text{Antal mulige udfald}}
+$$
+
+## Eksempel
+Kast med en 6-sidet terning.
+
+Sandsynligheden for at få 1 er $P(1)= \frac{1}{6}$.
+
+Sandsynligheden for at få et lige tal er $P(lige) = \frac{3}{6}=\frac{1}{2}$.
+
+##
+Ved kast med en 10-sidet terning, hvad er da sandsynligheden for at få
+
+a. Udfaldet 5
+b. Et ulige tal
+c. Et tal mindre end 7
+d. Enten 6, 7 eller 10
+
+## 
+Der trækkes et kort fra et almindeligt kortspil uden jokere.
+
+a. Hvad er sandsynligheden for at få hjerter dame?
+b. Hvad er sandsynligheden for at få en spar?
+c. Hvad er sandsynligheden for at få en knægt?
+d. Hvad er sandsynligheden for enten en 5'er eller en 8'er?
+
+##
+Vi kaster med to 4-sidede terninger, og noterer summen af de to udfald.
+
+a. Hvad er de mulige udfald?
+b. Hvad er sandsynligheden for, at summen er 2?
+c. Hvad er sandsynligheden for, at summen er 3?
+d. Hvad er sandsynligheden for, at summen er større end 5?
+e. Hvad er sandsynligheden for, at summen er et lige tal?

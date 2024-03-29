@@ -1,0 +1,112 @@
+
+% vectors & matrices notations in text
+\newcommand{\vc}[1]{\mathbf{\underline{#1}}} % vector notation
+\newcommand{\vcconj}[1]{\overline{\mathbf{\underline{#1}}}} % vector conjugate notation
+\newcommand{\vcfunt}[2]{\mathbf{\underline{#1}}_{#2}(t)} % vector function of t
+\newcommand{\mt}[1]{\mathbf{\underline{\underline{#1}}}} % matrix notation
+
+% visual vectors
+\newcommand{\vcii}[2]{\begin{bmatrix} #1 \\ #2 \end{bmatrix}} % column vectors 2d
+\newcommand{\vciip}[2]{\begin{pmatrix} #1 \\ #2 \end{pmatrix}} % column vectors 2d
+\newcommand{\vciii}[3]{\begin{bmatrix} #1 \\ #2 \\ #3 \end{bmatrix}} % column vectors 3d
+\newcommand{\vciiip}[3]{\begin{pmatrix} #1 \\ #2 \\ #3 \end{pmatrix}} % column vectors 3d
+
+% systems of equations
+\usepackage{empheq} % used for the systems of equations
+
+% adjustable brackets, parentheses and braces
+\newcommand{\mf}[1]{\left(#1\right)} % Mathematical Function
+\newcommand{\mfb}[1]{\left[#1\right]} % Mathematical Function w/Brackets
+\newcommand{\mfbb}[1]{\left\{#1\right\}} % Mathematical Function w/Braces
+\newcommand{\mfabs}[1]{\left| #1 \right|} % absolute value
+
+% stacking elements
+\newcommand{\stackequal}[2]{\underset{#1}{\overset{#2}{=}}} % condition over and under = sign
+\newcommand{\stackx}[3]{\underset{#1}{\overset{#2}{#3}}} % stacking three elements
+
+% sub- and superscripts
+\newcommand{\power}[1]{^{#1}} % superscript
+\newcommand{\sub}[1]{_{#1}} %subscript/index
+\newcommand{\subtxt}[1]{_{\text{#1}}} %subscript with text
+
+% systems of equations
+\newcommand{\eqsysii}[2]{\begin{empheq}[left=\empheqlbrace]{equation} \begin{aligned} & #1 \\ & #2 \end{aligned} \end{empheq}} %system of equations with 2 equations
+\newcommand{\eqsysiii}[3]{\begin{empheq}[left=\empheqlbrace]{equation} \begin{aligned} & #1 \\ & #2 \\ & #3 \end{aligned} \end{empheq}} %system of equations with 3 equations
+
+%%%% boilerplates
+
+% complex numbers
+\newcommand{\bpcomplexp}{\lambda=a+i\omega} % lambda pos
+\newcommand{\bpcomplexm}{\lambda=a-i\omega} % labda neg
+\newcommand{\bpcomplexconjp}{\overline{\lambda}=a+i\omega} % conjugate lambda pos
+\newcommand{\bpcomplexconjm}{\overline{\lambda}=a-i\omega} % conjugate lambda neg
+
+% functions
+\newcommand{\bpexp}[1]{\exp^{#1}} % exponential function 
+\newcommand{\bpexpt}{\exp^{\lambda t}} % exponential lambda t
+\newcommand{\bpexpst}{\exp^{st}} % exponential s t
+
+% derivatives
+\newcommand{\bpyder}[1]{y^{(#1)}} % derivative of y of # order
+\newcommand{\bpxder}[2]{x^{(#1)}_{#2}} % derivative of x of # order
+\newcommand{\dert}[1]{\frac{\text{d}#1}{\text{d}t}} % frac derivative of # wrt t
+\newcommand{\derV}[1]{\frac{\text{d}#1}{\text{d}V}} % frac derivative of # wrt V
+\newcommand{\dertau}[1]{\frac{\text{d}#1}{\text{d}\tau}} % frac derivative of # wrt tau
+\newcommand{\der}[2]{\frac{\text{d}#1}{\text{d}#2}} % frac derivative of # wrt #2
+
+% functions
+\newcommand{\bpxt}[1]{x_{#1}(t)} % function x_n(t)
+\newcommand{\bput}[1]{u_{#1}(t)} % function u_n(t)
+
+% systems of equations
+\newcommand{\bpeqsyshom}{\vc{x}'=\mt{A}\vc{x}} % homogeneous system of diff.equations
+\newcommand{\bpeqsyshomt}{\vc{x}'(t)=\mt{A}\vc{x}(t)}
+\newcommand{\bpeqsysinhom}{\vc{x}'=\mt{A}\vc{x}+\vc{u}} % inhomogeneous system of diff.equations
+\newcommand{\bpeqsysinhomt}{\vc{x}(t)'=\mt{A}\vc{x}(t)+\vc{u}(t)} % inhomogeneous system of diff.equations
+
+% matrices
+\newcommand{\bpfundmat}{\mt{\Phi}(t)} % fundamental matrix
+\newcommand{\bpfundmattau}{\mt{\Phi}(\tau)} % fundamental matrix(tau)
+
+% sequences
+\newcommand{\bpseqxn}{\{x_n\}^\infty_{n=1}} % infinite sequence xn
+\newcommand{\bpseqyn}{\{y_n\}^\infty_{n=1}} % infinite sequence yn
+\newcommand{\seriessum}[2]{\sum^{#1}_{#2}} % sum expression
+\newcommand{\bpinfseran}{\sum^\infty_{n=1} a_n} % infinite series an
+\newcommand{\bpinfserano}{\sum^\infty_{n=0} a_n} % infinite series an with n=0
+\newcommand{\bpinfserbn}{\sum^\infty_{n=1} b_n} % infinite series bn
+\newcommand{\bpinfserxno}{\sum^\infty_{n=0} x^{n}} % infinite series x^n with n=0
+\newcommand{\bpinfser}{\sum^\infty_{n=1}} % infinite series with n=1
+\newcommand{\bpinfsero}{\sum^\infty_{n=0}} % infinite series with n=0
+\newcommand{\bpinfserfn}{\sum^\infty_{n=1} f(n)} % infinite series f(n)
+\newcommand{\bpaltser}{\sum^\infty_{n=1}(-1)^{n-1}b_n} % alternate series with sum to infinity
+\newcommand{\bpaltsern}{\sum^{N}_{n=1}(-1)^{n-1}b_n} % alternate series with sum to N
+\newcommand{\bppowerser}{\sum^\infty_{n=0}c_n x^n} % power series
+\newcommand{\bpsumo}{\sum^\infty_{n=0}}
+\newcommand{\bpsum}{\sum^\infty_{n=1}}
+\newcommand{\bpsuminf}{\sum^\infty_{n=-\infty}}
+\newcommand{\bpsumNN}{\sum^N_{n=-N}}
+
+% CRE
+\newcommand{\bpfao}{F_{A0}}
+\newcommand{\bpfbo}{F_{B0}}
+\newcommand{\bpfio}{F_{I0}}
+\newcommand{\bpfto}{F_{T0}}
+\newcommand{\bpyao}{y_{A0}}
+\newcommand{\bpybo}{y_{B0}}
+
+% calculus
+\newcommand{\summation}[2]{\sum^{#1}_{#2}} % summation sign with indexes
+\newcommand{\integration}[2]{\int^{#1}_{#2}} % integration with limits
+\newcommand{\bpint}[2]{\int^{#1}_{#2}} % integration with limits
+\newcommand{\bpdx}{\text{d}x}
+\newcommand{\bpdT}{\text{d}T}
+\newcommand{\bpdt}{\text{d}t}
+
+% misc
+\newcommand{\fractxt}[2]{\frac{\text{#1}}{\text{#2}}} % fraction with pure text
+\newcommand{\unit}[1]{\ \text{#1}\ } % text with spaces for units in equations
+\newcommand{\deg}{^{\circ}\text{C}} % degrees celcius
+\newcommand{\ten}[1]{10^{#1}} % ten to the power of #
+\newcommand{\delhrx}{\Delta H_{Rx}} % reaction enthalpy
+\newcommand{\dotw}{\dot{W}} % work

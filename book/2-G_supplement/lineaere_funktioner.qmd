@@ -1,0 +1,50 @@
+# Lineære funktioner
+
+Funktioner ved forskrift af typen $f(x)=ax+b$ kaldes lineære funktioner. 
+Grafen for en lineær funktion er en ret linje med hældningskoefficient, som skærer y-aksen i punktet (0,b).
+
+## Definition
+Hældningskoefficient for en lineær funktion der går igennem to punkter $P_1(x_1,y_1)$ og $P_2(x_2,y_2)$ bestemmes ved:
+$$
+a = \frac{y_2-y_1}{x_2-x_1}
+$$
+
+![](grafer/h%C3%A6ldningskoefficient.png)
+
+##
+Angiv hældningskoefficient og koordinaterne til grafens skæringspunkt med y-aksen for følgende lineære funktioner.
+
+a. $f_1(x)=2x-3$
+b. $f_2(x)=-4x-1$
+c. $f_3(x)=-5x+11$
+d. $f_4(x)=9+3x$
+
+##
+Beregn hældningskoefficienten for følgende fire forskellige lineære funktioner. Hældningskoefficienten er et heltal, eller en brøk.
+
+a. Grafen for $g_1(x)$ går igennem punkterne (1,5) og (7,11).
+b. Grafen for $g_2(x)$ går igennem punkterne (-3,4) og (15,9).
+c. Grafen for $g_3(x)$ går igennem punkterne (2,-5) og (-3,8).
+d. Om $g_4$ ved vi, at $g_4(x)=ax+4$, og at grafen går igennem punktet (5,-1).
+
+##
+Tegn i hånden graferne for følgende fire lineære funktioner.
+
+a. $f_1(x)=2x+3$
+b. $f_2(x)=-x+10$
+c. $f_3(x)=-\frac{1}{3}x+4$
+d. $f_4(x)=9-3x$
+
+## 
+Graferne for 3 forskellige lineære funktioner går igennem punkterne som angivet nedenfor. Bestem en regneforskrift  for hver af funktionerne. Koefficienterne $a$ og $b$ er heltal.
+
+a. Grafen for $h_1(x)$ går igennem punkterne (1,-1) og (5,7).
+b. Grafen for $h_2(x)$ går igennem punkterne (3,7) og (5,11).
+c. Grafen for $h_3(x)$ går igennem punkterne (-4,-8) og (0,-4).
+
+##
+Indfør passende variable og opstil en model der beskriver situationen.
+
+a. En tur med cykeltaxa koster 25 kroner i startgebyr og derefter 60 kroner pr 10 minutter.
+b. En sportsklub har 1000 medlemmer i år 1990. Årene efter voksede antallet af medlemmer med 35 om året.
+c. I et land koster strømmen 2 kr. pr. kWh, og 1000 kr. i fast årlig afgift.

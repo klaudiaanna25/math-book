@@ -2,3 +2,5 @@
 /_book
 *.pdf
 *.tex
+*.html
+/qpreamble_files

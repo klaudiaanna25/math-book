@@ -1,0 +1,5 @@
+# Bilag
+
+Indeholder nyttige ting.
+1. [Multiplikationstabel](multiplikationstabel.qmd)
+2. [Delelighedsregler](delelighedsregler.qmd)

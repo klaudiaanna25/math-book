@@ -1,0 +1,56 @@
+# To ligninger med to ubekendte
+{{< include /qpreamble.qmd >}}
+
+## Eksempel
+Vi ønsker at løse et ligningssystem bestående af de to ligninger:
+$$
+\eqsysii{
+    l_1: 2x-2y-4=0
+}{
+    l_2: -4x+3y+5=0
+}
+$$
+
+$x$ isoleres i $l_1$:
+$$
+\begin{aligned}
+2x-2y-4&=0 \\
+2x&=2y+4 \\
+x&=y+2
+\end{aligned}
+$$
+
+og derefter indsættes i $l_2$, hvor vi kan nu isolere $y$:
+$$
+\begin{aligned}
+-4(y+2)+3y+5&=0 \\
+-4y-8+3y+5&=0 \\
+-y-3&=0 \\
+-3&=y
+\end{aligned}
+$$
+
+Værdien for $x$ findes ved at indsætte den fundne $y$-værdi i en af ligningerne.
+$$
+x=y+2=-3+2=1
+$$
+
+Løsningen er altså $x=1$ og $y=-3$.
+
+Vi kunne naturligvis også have valgt at isolere y først, eller starte med den anden ligning. 
+Det ville have givet andre mellemregningerne, men samme facit.
+
+##
+Løs nedenstående ligningssystemer. Løsningerne er heltal eller brøker.
+
+a. $\eqsysii{3x+y-7=0}{-2x+y-2=0}$ 
+b. $\eqsysii{3x-y+7=0}{x-2y+4=0}$
+c. $\eqsysii{2x+3y-18=0}{-x+3y=0}$ 
+d. $\eqsysii{5s+t=6}{-s+t=0}$
+e. $\eqsysii{4s-2t=6}{6s-t=1}$
+f. $\eqsysii{2p+5q=15}{4p+5q=35}$
+g. $\eqsysii{2x=5y-2}{3x-5y=1}$
+h. $\eqsysii{8a-4b=12}{5b=a-2}$
+i. $\eqsysii{2t-s+5=0}{2s=5t}$
+
+

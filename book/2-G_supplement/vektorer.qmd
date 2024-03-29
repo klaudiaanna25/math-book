@@ -1,0 +1,75 @@
+{{< include /qpreamble.qmd >}}
+
+# Vektorer
+
+Vektor $\vc{a}$ og $\vc{b}$ er givet ved koordinaterne 
+$$
+\begin{gather}
+& \vc{a} = \vciip{a_1}{a_2}
+& \vc{b} = \vciip{b_1}{b_2}
+\end{gather}
+$$
+
+og $k$ er et tal
+
+## Regneregler
+
+| Operation | Regel | Eksempel |
+| --- | --- | --- | 
+| Længden af en vektor | $\mfabs{\vc{a}} = \sqrt{a_1^2+a_2^2}$ | $\vc{v} = \vciip{3}{9}$, $\mfabs{\vc{v}} = \sqrt{3^2+9^2}=9.49$|
+| Sum af to vektorer | $\vc{a} + \vc{b} = \vciip{a_1+b_1}{a_2+b_2}$ | $\vciip{5}{3}+\vciip{6}{-2} = \vciip{5+6}{3-2} = \vciip{11}{1}$ |
+| Konstant gange vektor | $k\vc{a} = \vciip{ka_1}{ka_2}$ | $5\cdot \vciip{4}{2}= \vciip{4\cdot 5}{2\cdot 5} = \vciip{20}{10}$ |
+| Vektor mellem 2 punkter | $\vc{AB} = \vciip{x_2-x_1}{y_2-y_1}$ | $A(2,6)$ og $B(8,-3)$ $\vc{AB}=\vciip{8-2}{-3-6} = \vciip{6}{-9}$|
+
+##
+Beregn længden af vektorerne
+
+a. $\vc{a}=\vciip{3}{4}$
+b. $\vc{b}=\vciip{-2}{7}$
+c. $\vc{v}=\vciip{5}{-3}$
+
+##
+Beregn
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ \vciip{3}{7} + \vciip{5}{10} \\
+&\text{b.} \ \vciip{7}{2} - \vciip{-2}{11} \\
+&\text{c.} \ 3 \cdot \vciip{12}{-4} \\
+&\text{d.} \ 5 \cdot \vciip{4}{10} - \vciip{3}{8} \\
+&\text{e.} \ -3 \cdot \vciip{4}{7} + 2 \cdot \vciip{2}{1} \\
+&\text{f.} \ 10 \cdot \vciip{2}{-3} - 3 \cdot \vciip{4}{2} + \vciip{5}{5} \\
+&\text{g.} \  \\
+&\text{h.} \  \\
+&\text{i.} \  \\
+&\text{j.} \  \\
+&\text{k.} \  \\
+&\text{l.} \  \\
+&\text{m.} \  \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \  \\
+&\text{o.} \  \\
+&\text{p.} \  \\
+&\text{q.} \  \\
+&\text{r.} \  \\
+&\text{s.} \  \\
+&\text{t.} \  \\
+&\text{u.} \  \\
+&\text{v.} \  \\
+&\text{w.} \  \\
+&\text{x.} \  \\
+&\text{y.} \  \\
+&\text{z.} \  \\
+\end{aligned}
+\end{gather}
+$$
+
+##
+Bestem koordinaterne til vektorer mellem punkterne.
+
+a. A(3, 8) og B(1, 5)
+b. P(-2, 5) og Q(10, 3)
+c. C(1, 7) og D(-3, -5)

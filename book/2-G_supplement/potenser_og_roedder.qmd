@@ -1,0 +1,94 @@
+# Potenser og rødder
+
+## Regneregler:
+$$
+\begin{gather}
+& a^0=1
+& a^r \cdot a^s = a^{r+s}
+& \frac{a^r}{a^s} = a^{r-s}
+& a^{-r} = \frac{1}{a^r} \\
+& a^{\frac{1}{r}} = \sqrt[r]{a}
+& (a^n)^m = a^{n \cdot m}
+& \frac{a^r}{b^r} = \left( \frac{a}{b}\right)^r
+& (a \cdot b)^r = a^r \cdot b^r
+\end{gather}
+$$
+
+## 
+Udregn tallene nedenfor i hånden. Brug evt. multiplikationstabellen.
+
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 5^3 \\
+&\text{b.} \ 3^5 \\
+&\text{c.} \ 2^{-2} \\
+&\text{d.} \ 3^3+3^2+3^1 \\
+&\text{e.} \ 500^0 \\
+&\text{f.} \ \sqrt{3^2+4^2} \\
+&\text{g.} \ \sqrt{25} \\
+&\text{h.} \ \sqrt[3]{27}\\
+&\text{i.} \ \sqrt[5]{32}\\
+&\text{j.} \ 2^2 \cdot 2^3 \\
+&\text{k.} \ 6^{-3} \cdot 6^2 \\
+&\text{l.} \ \frac{7^{10}}{7^8} \\
+&\text{m.} \ 16^{1/2} \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \ 8^{1/3} \\
+&\text{o.} \ 9^{1/2} \cdot 9^{1/2}  \\
+&\text{p.} \ (2^2)^2 \\
+&\text{q.} \ (2 \cdot 3)^3 \\
+&\text{r.} \ \left( \frac{1}{2}\right)^2\\
+&\text{s.} \ 4^3 \\
+&\text{t.} \ 2^8 \\
+&\text{u.} \ 5^{-1} \\
+&\text{v.} \ 3 \cdot 10^2 \\
+&\text{w.} \ 4.7 \cdot 10^5 \\
+&\text{x.} \ 2 \cdot 10^3 + 5 \cdot 10^2 + 3 \cdot 10^1 + 7\cdot 10^0 \\
+&\text{y.} \ \sqrt{81} \\
+&\text{z.} \ \sqrt[3]{1000} \\
+\end{aligned}
+\end{gather}
+$$
+
+## 
+Udregn tallene nedenfor i hånden. Brug evt. multiplikationstabellen.
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ \sqrt[7]{128} \\
+&\text{b.} \ 2^2 \cdot 2^6 \\
+&\text{c.} \ 6^{100} \cdot 6^{-98} \\
+&\text{d.} \ \frac{500^4}{500^3} \\
+&\text{e.} \ 36^{1/2} \\
+&\text{f.} \ 27^{1/3} \\
+&\text{g.} \ 16^{1/2} \cdot 16^{1/2} \\
+&\text{h.} \  \\
+&\text{i.} \  \\
+&\text{j.} \  \\
+&\text{k.} \  \\
+&\text{l.} \  \\
+&\text{m.} \  \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \ \\
+&\text{o.} \ \\
+&\text{p.} \ \\
+&\text{q.} \ \\
+&\text{r.} \ \\
+&\text{s.} \ \\
+&\text{t.} \ \\
+&\text{u.} \ \\
+&\text{v.} \ \\
+&\text{w.} \ \\
+&\text{x.} \ \\
+&\text{y.} \ \\
+&\text{z.} \ \\
+\end{aligned}
+\end{gather}
+$$

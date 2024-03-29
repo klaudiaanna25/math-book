@@ -1,0 +1,43 @@
+# Faktorisering
+Et andengradspolynomium $p(x)=ax^2+bx+c$ kan skrives på faktoriseret form $p(x)=a(x-r_1)(x-r_2)$, hvor $r_1$ og $r_2$ er polynomiets rødder, dvs. løsningnerne til den tilhørende andengradsligning $ax^2+bx+c=0$.
+Løsningerne til andengradsligningen kan findes med formlen
+$$
+r= \frac{-b \pm \sqrt{d}}{2a}
+$$
+
+hvor 
+$$
+d=b^2-4ac
+$$
+
+Hvis den tilhørende andengradsligning ikke har løsninger, kan polynomiet ikke faktoriseres.
+
+## Eksempel
+Andengradspolynomiet $p(x)=2x^2+6x-8$ kan skrives på den faktoriserede form $p(x)=2(x+4)(x-1)$ fordi den har rødderne $r_1=-4$ og $r_2=1$.
+
+##
+Angiv rødderne til følgende faktoriserede andengradspolynomier.
+
+a. $p_1(x)=15(x-4)(x-2)$
+b. $p_2(x)=3(x+3)(x-10)$
+c. $p_3(x)=5(x-3)(x+2)$
+d. $p_4(x)=-10(x+5)(x+7)$
+e. $p_5(x)=-2(x+5)^2$
+
+##
+Opskriv følgende andengradspolynomier på faktoriseret form
+
+a. $p_1(x)=-x^2+7x-12$
+b. $p_2(x)=2x^2+2x-12$
+c. $p_3(x)=2x^2+16x-30$
+d. $p_4(x)=x^2+5x$
+e. $p_5(x)=-x^2-10x+25$
+
+##
+Kan nedenstående andengradspolynomier faktoriseres eller ej?
+
+a. $p_1(x)=x^2-x-6$
+b. $p_2(x)=x^3-3x-2$
+c. $p_3(x)=-x^2-3x-4$
+d. $p_4(x)=3x^2+18x+27$
+e. $p_5(x)=2x^2-4x+4$
