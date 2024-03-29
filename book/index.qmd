@@ -10,3 +10,6 @@ Grundig gennemgang af fundamentale koncepter som bruges i Mat C på stx, komplet
 
 Overskueligt gennemgang af Mat C pensum med noter, definitioner og opgaver.
 
+## Mat B træning
+[Mat B træning](2-G_supplement/0.index.qmd)
+
