@@ -19,4 +19,5 @@ Indeholder regneregler, definitioner og opgaver indenfor:
 16. [Procentregning](procent.qmd)
 17. [Vektorer](vektorer.qmd)
 18. [To ligninger med to ubekendte](toligninger.qmd)
-19. [Eksponentiel vækst](eksponentiel_vaekst.qmd)
+19. [Eksponentiel vækst](eksponentiel_vaekst.qmd) 
+20. []()
