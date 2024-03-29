@@ -1,0 +1,19 @@
+# Modeller og variable
+
+## Definitioner
+
+**Variabel** - en variabel er en størrelse, som kan antage forskellige værdier.
+
+## Modelleringsprocess
+Det er en god idé at lade $x$ betegne den størrelse, man skal bestemme.
+```{mermaid}
+flowchart TB
+    id1["Problemstilling"]
+    id2["Matematisk beskrivelse ligning med x"]
+    id3["Matematisk løsning - talværdi af x"]
+    id4["Tolkning af x i forhold til problemstillingen"]
+
+    id1 --> id2
+    id2 --> id3
+    id3 --> id4
+```

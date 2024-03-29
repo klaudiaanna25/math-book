@@ -1,0 +1,28 @@
+[project]
+name = "math-book"
+version = "0.1.0"
+description = "Add your description here"
+dependencies = [
+    "sympy>=1.12",
+    "nbclient>=0.10.0",
+    "jupyter>=1.0.0",
+    "nbformat>=5.10.3",
+    "seaborn>=0.13.2",
+]
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+virtual = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/math_book"]

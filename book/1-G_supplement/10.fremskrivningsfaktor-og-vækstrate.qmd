@@ -1,0 +1,92 @@
+# Fremskrivningsfaktor og vækstrate
+
+## Definition
+**Fremskrivningsfaktor** $(1+r)$ er den faktor, man skal gange med for at lægge $r \cdot 100\%$ til.
+
+Tallet $r$ kaldes **vækstraten**. Hvis der skal trækkes $r\cdot 100\%$ fra, er $r$ negativ.
+
+## Opgaver
+
+### Bestem vækstraten, når fremskrivningsfaktoren er
+$$ 
+\begin{gather}
+& 
+\begin{aligned}
+&\text{a.} \ 1.03 \\
+&\text{b.} \ 1.06 \\
+&\text{c.} \ 1.23 \\
+&\text{d.} \ 1.38 \\
+&\text{e.} \ 1.82 \\
+&\text{f.} \ 0.50 \\
+&\text{g.} \ 0.24 \\
+&\text{h.} \ 1.81 \\
+&\text{i.} \ 1.04 \\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{j.} \ 1.09 \\ 
+&\text{k.} \ 1.43 \\
+&\text{l.} \ 1.98 \\
+&\text{m.} \ 1.84 \\
+&\text{n.} \ 0.90 \\
+&\text{o.} \ 0.84 \\
+&\text{p.} \ 2.84 \\
+&\text{q.} \ 1.96 \\
+&\text{r.} \ 2.04 \\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{s.} \ 0.77 \\
+&\text{t.} \ 1.25 \\
+&\text{u.} \ 1.02 \\
+&\text{v.} \ 1.50 \\
+&\text{w.} \ 1.685 \\
+&\text{x.} \ 1.06 \\
+&\text{y.} \ 0.91 \\
+&\text{z.} \ 1.21 \\
+\end{aligned}
+\end{gather}
+$$
+
+### Bestem fremskrivningsfaktoren, når vækstraten er
+$$ 
+\begin{gather}
+& 
+\begin{aligned}
+&\text{a.} \ 0.31 \\
+&\text{b.} \ 0.15 \\
+&\text{c.} \ 0.71 \\
+&\text{d.} \ -0.20 \\
+&\text{e.} \ 0.98 \\
+&\text{f.} \ 0.07 \\
+&\text{g.} \ 0.33 \\
+&\text{h.} \ -0.02 \\
+&\text{i.} \ 0.32 \\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{j.} \ 0.12 \\ 
+&\text{k.} \ 77\% \\
+&\text{l.} \ -29\% \\
+&\text{m.} \ 0.05 \\
+&\text{n.} \ 45\% \\
+&\text{o.} \ 75.5\% \\
+&\text{p.} \ -0.03 \\
+&\text{q.} \ 0.125 \\
+&\text{r.} \ 52\% \\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{s.} \ -0.01 \\
+&\text{t.} \ -2.5\% \\
+&\text{u.} \ 13\% \\
+&\text{v.} \ -3\% \\
+&\text{w.} \ 8.4\% \\
+&\text{x.} \ 100\% \\
+&\text{y.} \ 17\% \\
+&\text{z.} \ 0.096\% \\
+\end{aligned}
+\end{gather}
+$$
+
+

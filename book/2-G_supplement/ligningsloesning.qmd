@@ -1,0 +1,40 @@
+# Ligningsløsning
+Andengradsligningen $ax^2+bx+c=0$ har løsningerne $x=\frac{-b\pm \sqrt{d}}{2a}$, hvor $d=b^2-4ac$.
+
+Hvis $d$ er negativ, er der ingen løsning. Hvis $d=0$, er der kun én løsning. Hvis $d$ er positiv, er der to løsninger. Tallet $d$ kaldes diskriminanten, og løsningsmetoden kaldes ofte for diskriminantsmetoden.
+
+## Eksempel
+Vi vil løse $2x^2+6x-8=0$.
+
+Først beregnes diskriminanten: $d=b^2-4ac = 6^2 - 4\cdot 2 \cdot (-8)= 36+64=100$. Der er altså 2 løsninger. 
+$$
+x = \frac{-6\pm \sqrt{100}}{2 \cdot 2}
+= \frac{-6 \pm 10}{4} 
+=
+\begin{cases}
+& \frac{-6-10}{4} = \frac{-16}{4} = -4 \\
+& \frac{-6+10}{4} = \frac{4}{4} = 1
+\end{cases}
+$$
+
+De to løsninger er $x=-4$ og $x=1$.
+
+##
+Beregn diskriminanten, og angiv antallet af løsninger for nedenstående andengradsligninger.
+
+a. $2x^2-8x+3=0$
+b. $x^2-7x+4=0$
+c. $x^2+6x+9=0$
+d. $2x^2-6x+7=0$
+
+##
+Løs følgende andengradsligninger med diskriminantmetoden
+
+a. $x^2-3x+2=0$
+b. $x^2-3x-4=0$
+c. $2x^2+2x-12=0$
+d. $x^2+8x+16=0$
+e. $3x^2-9x+6=0$
+f. $x^2+7x+10=0$
+g. $x^2+6x+9=0$
+h. $-x^2+2x=0$

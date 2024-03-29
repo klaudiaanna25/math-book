@@ -1,0 +1,53 @@
+project:
+  type: book
+
+book:
+  title: "Matematik Notesamling og Øvelser"
+  author: "Klaudia Anna Kacperska"
+  date: "01/17/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+    - part: første-g.qmd
+      chapters:
+        - 1-G_supplement/1.pemdas.qmd
+        - 1-G_supplement/2.ligninger.qmd
+        - 1-G_supplement/3.Reduktion.qmd
+        - 1-G_supplement/4.parenteser.qmd
+        - 1-G_supplement/5.brøker.qmd
+        - 1-G_supplement/6.kvadratsætninger.qmd
+        - 1-G_supplement/7.rødder-og-potenser.qmd
+        - 1-G_supplement/8.geometriske-formler.qmd
+        - 1-G_supplement/9.overslagsregning.qmd
+        - 1-G_supplement/10.fremskrivningsfaktor-og-vækstrate.qmd
+    - part: 1-G_book/0.index.qmd
+      chapters: 
+        - 1-G_book/1.modeller-og-variable.qmd
+    - part: 2-G_supplement/0.index.qmd
+      chapters:
+        - 2-G_supplement/fx_notation.qmd
+        - 2-G_supplement/parenteser.qmd
+        - 2-G_supplement/ligninger.qmd
+        - 2-G_supplement/funktioner.qmd
+        - 2-G_supplement/funktioner_og_grafer.qmd
+        - 2-G_supplement/pemdas.qmd
+        - 2-G_supplement/kombinatorik.qmd
+        - 2-G_supplement/enhedscirklen.qmd
+        - 2-G_supplement/ligningsloesning.qmd
+    
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    number-sections: true
+    code-fold: true
+    output: asis
+  pdf:
+    documentclass: scrreprt
+
+
+

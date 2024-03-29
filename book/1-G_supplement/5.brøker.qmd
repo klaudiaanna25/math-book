@@ -1,0 +1,282 @@
+# Brøker
+
+## Regneregler
+
+| Operation | Regel | Eksempel |
+| --- | --- | --- |
+| Forlænge | $\dfrac{a}{b}=\dfrac{k\cdot a}{k\cdot b}$ | $\dfrac{1}{2}=\dfrac{3 \cdot 1}{3\cdot 2} = \dfrac{3}{6}$ |
+| Forkorte | $\dfrac{a}{b}=\dfrac{a:k}{b:k}$ | $\dfrac{4}{8}=\dfrac{4:4}{8:4}=\dfrac{1}{2}$ |
+| Tal gange brøk | $k \cdot \dfrac{a}{b} = \dfrac{k\cdot a}{b}$ | $3 \cdot \dfrac{2}{5}=\dfrac{3 \cdot 2}{5}$ |
+| Brøk gange brøk | $\dfrac{a}{b} \cdot \dfrac{c}{d} = \dfrac{a \cdot c}{b \cdot d}$ | $\dfrac{2}{4} \cdot \dfrac{3}{5} = \dfrac{2 \cdot 3}{4 \cdot 5} = \dfrac{6}{20}=\dfrac{3}{10}$ |
+| Brøk divideret med brøk | $\dfrac{a}{b}:\dfrac{c}{d} = \dfrac{a}{b} \cdot \dfrac{d}{c} = \dfrac{a \cdot d}{b \cdot c}$ | $\dfrac{1}{2} : \dfrac{3}{4} = \dfrac{1}{2} \cdot \dfrac{4}{3} = \dfrac{4}{6} = \dfrac{2}{3}$ |
+| Tal divideret med brøk | $\dfrac{a}{\dfrac{b}{c}} = a \cdot \dfrac{c}{b}=\dfrac{a \cdot c}{b}$ | $4 : \dfrac{8}{9} = 4 \cdot \dfrac{9}{8} = \dfrac{36}{8} = \dfrac{9}{2}$ | 
+
+## Opgaver
+
+### Omskriv til decimaltal:
+$$
+\begin{gather}
+& 
+\begin{aligned}
+&\text{a.} \ \frac{5}{100} \\
+&\text{b.} \ \frac{24}{100} \\
+&\text{c.} \ \frac{5}{50} \\
+&\text{d.} \ \frac{2}{4} \\
+&\text{e.} \ \frac{30}{60} \\
+&\text{f.} \ \frac{30}{130} \\
+\end{aligned} 
+&
+\begin{aligned}
+&\text{g.} \ \frac{5}{20} \\
+&\text{h.} \ \frac{1}{4} \\
+&\text{i.} \ \frac{1}{2} \\
+&\text{j.} \ \frac{2}{5} \\
+&\text{k.} \ \frac{12}{50} \\
+\end{aligned}
+&
+\begin{aligned} 
+&\text{l.} \ \frac{3}{25} \\
+&\text{m.} \ \frac{40}{50} \\ 
+&\text{n.} \ \frac{33}{100} \\
+&\text{o.} \ \frac{2}{10} \\
+&\text{p.} \ \frac{34}{100} \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{q.} \ \frac{2}{10} \\
+&\text{r.} \ \frac{1}{5} \\
+&\text{s.} \ \frac{17}{10} \\
+&\text{t.} \ \frac{17}{50} \\
+&\text{u.} \ - \frac{3}{6} \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{v.} \ \frac{4}{5} \\ 
+&\text{w.} \ \frac{66}{200} \\
+&\text{x.} \ \frac{8}{50} \\
+&\text{y.} \ \frac{3}{100} \\
+&\text{z.} \ \frac{44}{50} \\
+\end{aligned}
+\end{gather}
+$$
+
+### Omskriv til decimaltal
+$$
+\begin{gather}
+&\text{a.} \ \frac{4}{1} 
+&\text{b.} \ \frac{62}{62}
+&\text{c.} \ \frac{3}{5}
+&\text{d.} \ \frac{12}{10} 
+&\text{e.} \ \frac{25}{100}
+\end{gather}
+$$
+
+### Forlæng brøkerne med 3:
+$$
+\begin{gather}
+&\text{a.} \ \frac{5}{50}
+&\text{b.} \ \frac{5}{20}
+&\text{c.} \ \frac{1}{4}
+&\text{d.} \ \frac{1}{2}
+\end{gather}
+$$
+
+### Forlæng brøkerne med 4:
+$$
+\begin{gather}
+&\text{a.} \ \frac{3}{15} 
+&\text{b.} \ \frac{1}{3}
+&\text{c.} \ \frac{2}{7}
+&\text{d.} \ \frac{4}{10} \\
+&\text{e.} \ \frac{1}{2}
+&\text{f.} \ \frac{3}{4}
+&\text{g.} \ \frac{12}{10}
+&\text{h.} \ \frac{2}{5} \\
+\end{gather}
+$$
+
+### Forlæng brøkerne med 5:
+$$
+\begin{gather}
+&\text{a.} \ \frac{4}{10} 
+&\text{b.} \ \frac{1}{20}
+&\text{c.} \ \frac{1}{2}
+\end{gather}
+$$
+
+### Forkort brøkerne med 2:
+$$
+\begin{gather}
+&\text{a.} \ \frac{24}{100}
+&\text{b.} \ \frac{4}{10}
+&\text{c.} \ \frac{10}{30}
+&\text{d.} \ \frac{2}{4} \\
+&\text{e.} \ \frac{30}{60}
+&\text{f.} \ \frac{16}{20}
+&\text{g.} \ \frac{2}{6}
+&\text{h.} \ \frac{20}{60} \\
+&\text{i.} \ \frac{2}{8}
+&\text{j.} \ \frac{4}{10}
+&\text{k.} \ \frac{10}{20}
+&\text{l.} \ \frac{8}{12} \\
+&\text{m.} \ \frac{12}{10}
+&\text{n.} \ \frac{20}{50}
+\end{gather}
+$$
+
+### Forkort brøkerne med 4:
+$$
+\begin{gather}
+&\text{a.} \ \frac{4}{12} 
+&\text{b.} \ \frac{16}{20}
+&\text{c.} \ \frac{8}{12}
+&\text{d.} \ \frac{12}{100}
+&\text{e.} \ \frac{16}{40}
+\end{gather}
+$$
+
+### Forkort brøkerne med 10:
+$$
+\begin{gather}
+&\text{a.} \ \frac{20}{220}
+&\text{b.} \ \frac{100}{400}
+&\text{c.} \ \frac{60}{120}
+\end{gather}
+$$
+
+### Udregn og forkort hvis muligt:
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 4 \cdot \frac{5}{100} \\
+&\text{b.} \ 8 \cdot \frac{7}{100} \\
+&\text{c.} \ 4 \cdot \frac{5}{50} \\
+&\text{d.} \ 2 \cdot \frac{5}{20} \\
+&\text{e.} \ 4 \cdot \frac{1}{4} \\
+&\text{f.} \ 4 \cdot \frac{2}{3} \\
+&\text{g.} \ 3 \cdot \frac{4}{10} \\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{h.} \ 5 \cdot \frac{1}{15} \\
+&\text{i.} \ 2 \cdot \frac{3}{11} \\
+&\text{j.} \ 7 \cdot \frac{1}{7} \\
+&\text{k.} \ 10 \cdot \frac{1}{4} \\
+&\text{l.} \ 2 \cdot \frac{3}{4} \\
+&\text{m.} \ 2 \cdot \frac{2}{4} \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \ 12 \cdot \frac{3}{36} \\
+&\text{o.} \ 8 \cdot \frac{1}{16} \\
+&\text{p.} \ 12 \cdot \frac{1}{10} \\
+&\text{q.} \ 2 \cdot \frac{5}{10} \\
+&\text{r.} \ 3 \cdot \frac{4}{7} \\
+&\text{s.} \ 32 \cdot \frac{1}{100} \\
+&\text{t.} \ 2 \cdot \frac{4}{20}
+\end{aligned}
+&
+\begin{aligned}
+&\text{u.} \ 4 \cdot \frac{3}{16} \\
+&\text{v.} \ 4 \cdot \frac{2}{12} \\
+&\text{w.} \ 3 \cdot \frac{6}{7} \\
+&\text{x.} \ 2 \cdot \frac{12}{15} \\
+&\text{y.} \ 3 \cdot \frac{55}{100} \\
+&\text{z.} \ 4 \cdot \frac{6}{20}
+\end{aligned}
+\end{gather}
+$$
+
+### Udregn og forkort hvis muligt:
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ \frac{4}{10} \cdot \frac{5}{4} \\
+&\text{b.} \ \frac{2}{3} \cdot \frac{5}{10} \\
+&\text{c.} \ \frac{4}{6} \cdot \frac{15}{20} \\
+&\text{d.} \ \frac{2}{4} \cdot \frac{3}{4} \\
+&\text{e.} \ \frac{4}{10} \cdot \frac{10}{4} \\
+&\text{f.} \ \frac{1}{2} \cdot \frac{10}{4}\\
+&\text{g.} \ \frac{4}{6} \cdot \frac{8}{4} \\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{h.} \ \frac{1}{6} \cdot \frac{28}{7}  \\
+&\text{i.} \ \frac{4}{4} \cdot \frac{12}{16}  \\
+&\text{j.} \ \frac{2}{6} \cdot \frac{1}{3} \\
+&\text{k.} \ \frac{4}{1} \cdot \frac{5}{20}  \\
+&\text{l.} \ \frac{1}{5} \cdot \frac{5}{25} \\
+&\text{m.} \ \frac{3}{2} \cdot \frac{2}{5} \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \ \frac{4}{10} : \frac{5}{4} \\
+&\text{o.} \ \frac{4}{10} : \frac{4}{10} \\
+&\text{p.} \ \frac{1}{4} : \frac{1}{2} \\
+&\text{q.} \ \frac{3}{8} : \frac{1}{4} \\
+&\text{r.} \ \frac{7}{4} : \frac{14}{2} \\
+&\text{s.} \ \frac{4}{5} : \frac{2}{3} \\
+&\text{t.} \ \frac{6}{10} : \frac{1}{5}
+\end{aligned}
+&
+\begin{aligned}
+&\text{u.} \ \frac{8}{12} : \frac{1}{2}  \\
+&\text{v.} \ \frac{1}{5} : \frac{2}{3}  \\
+&\text{w.} \ \frac{9}{10} : \frac{2}{4} \\
+&\text{x.} \ \frac{4}{10} : \frac{1}{5}  \\
+&\text{y.} \ \frac{1}{2} : \frac{1}{10}  \\
+&\text{z.} \ \frac{1}{5} : \frac{2}{3} 
+\end{aligned}
+\end{gather}
+$$
+
+### Udregn og forkort mest muligt
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ \frac{3}{5} : \frac{6}{2} \\
+&\text{b.} \ 4 : \frac{2}{3} \\
+&\text{c.} \ 5 : \frac{6}{2} \\
+&\text{d.} \ \frac{2}{3} : 4 \\
+&\text{e.} \ \frac{6}{2} : 3 \\
+&\text{f.} \ 3 \cdot \frac{4}{6} \\
+&\text{g.} \ 2 \cdot \frac{3}{2} \\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{h.} \ 40 \cdot \frac{1}{5} \\
+&\text{i.} \ 10 \cdot \frac{2}{5} \\
+&\text{j.} \ 6 \cdot \frac{2}{3} \\
+&\text{k.} \ 0.1 \cdot \frac{10}{2} \\
+&\text{l.} \ \frac{3}{2} \cdot \frac{2}{5} \\
+&\text{m.} \ \frac{20}{5} \cdot \frac{1}{5} \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \ \frac{2}{3} \cdot \frac{3}{4} \\
+&\text{o.} \ \frac{2}{3} : \frac{6}{5} \\
+&\text{p.} \ \frac{1}{3} : \frac{2}{4} \\
+&\text{q.} \ \frac{2}{1} : \frac{3}{5} \\
+&\text{r.} \ \frac{1}{1} : \frac{3}{2} \\
+&\text{s.} \ \frac{2}{1} : \frac{6}{3} \\
+&\text{t.} \ \frac{2}{1} : \frac{5}{2}
+\end{aligned}
+&
+\begin{aligned}
+&\text{u.} \ \frac{2}{1} : \frac{4}{3} \\
+&\text{v.} \ \frac{8}{1} : \frac{6}{5} \\
+&\text{w.} \ 3 \cdot \frac{6}{9} \\
+&\text{x.} \ 2 \cdot \frac{9}{18} \\
+&\text{y.} \ 10 \cdot \frac{3}{2} \\
+&\text{z.} \ 2 \cdot \frac{2}{10}
+\end{aligned}
+\end{gather}
+$$
+
+### Udtryk følgende med brøker:
+a. "En halv er, tænk nu aparte, to tredjedele af tre kvarte". Piet Hein.
+b. Halvdelen af halvdelen er en kvart.
+c. En sjettedel af en halv er en tolvtdel.

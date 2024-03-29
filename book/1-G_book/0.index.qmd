@@ -1,0 +1,80 @@
+# Mat C pensum
+
+1. Modeller og variable
+    - ligninger og deres løsninger
+    - overslagsregning og principskitser
+    - modeller med to variable
+
+2. Lineære funktioner
+    - beregning af $a$ og $b$ i forskriften $f(x)=ax+b$
+    - lineære modeller
+    - lineær regression
+    - lineær regression og residualplot
+
+3. Statistik
+    - Ikke-grupperede observationer
+    - Diagrammer og kvartilsæt
+    - Boksplot
+    - Grupperede observationer
+    - Diagrammer for grupperede observationer
+
+4. Sandsynlighedsregning
+    - Kombinatorik - tællemetoder
+    - Permutationer
+    - Kombination og binomialkoefficient
+    - Sandsynlighedsregning
+    - Sandsynlighedsfelt
+    - Multiplikations- og additionsprincippet
+
+5. Vektorer
+    - Vektorers koordinater
+    - Vektorregneregler
+    - Længde af vektor
+    - skalarprodukt
+    - tværvektor og determinant
+
+6. Procent
+    - procentregning og indekstal
+    - beregning af start- og slutkapital
+    - beregning af renter $r$ og terminer $n$
+
+7. Eksponentielle funktioner
+    - beregning af $a$ og $b$ i forskriften $f(x) = b \cdot a^x$
+    - halverings- og fordoblingskonstant
+    - eksponentielle vækstmodeller
+
+8. Proportionalitet
+    - ligefrem proportionalitet
+    - omvendt proportionalitet
+
+9. Potensfunktioner
+    - Beregning af $a$ og $b$ i forskriften $f(x)=b \cdot x^a$
+    - potensregression og modeller
+    - vækst i procent for både $x$ og $y$
+
+10. Vektorer og trigonometri
+    - polære koordinater og retningsvinkel
+    - vinkler mellem to vektorer
+    - projektion
+    - determinant af et vektorpar
+    - arealer og sinusrelationer
+    - cosinus relationer
+
+11. Funktionsteori
+    - ekstrema
+    - monotoniforhold
+    - tangenters hældning
+    - stykkevist definerede funktioner og parallelforskydning.
+
+12. Andengradspolynomier og logaritmer
+    - andengradspolynomier
+    - logartimefunktioner
+    - anvendelse af logaritmer
+
+13. Lån og opsparing
+    - opsparingsannuitet
+    - terminsindbetaling, rente og antal terminer
+    - annuitetslån og dens hovedstol, antal terminer og rentefod
+    - frem- og tilbage skrivning
+    - gennemsnitlig rente
+    - nominel og effektiv rente

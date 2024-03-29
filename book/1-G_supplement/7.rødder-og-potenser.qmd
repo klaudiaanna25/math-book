@@ -1,0 +1,279 @@
+#  Rødder og potenser
+
+## Definition
+Potensen $a^n$ betyder, at der er $n$ faktorer med a:
+$$
+a^n = \overbrace{ a \cdot a \cdot a \cdot \dots \cdot a}^{\text{n mange}}
+$$
+
+## Regneregler
+$$
+\begin{gather}
+& a^0=1
+& a^r \cdot a^s = a^{r+s}
+& \frac{a^r}{a^s} = a^{r-s}
+& a^{-r} = \frac{1}{a^r} \\
+& a^{\frac{1}{r}} = \sqrt[r]{a} 
+& (a^n)^m = a^{n\cdot m}
+& \frac{a^r}{b^r} = \left(\frac{a}{b} \right)^r
+& (a\cdot b)^r = a^r \cdot b^r
+\end{gather}
+$$
+
+## Eksempler
+$3^{-2}=\frac{1}{3^2}$
+
+$4^3 \cdot 4^{-3} = 4^3 \cdot \frac{1}{4^3} = 1$
+
+$16^{-\frac{1}{4}} = \frac{1}{16^{\frac{1}{4}}} = \frac{1}{\sqrt[4]{16}} = \frac{1}{2}$
+
+$(3^4)^{\frac{1}{2}} = 3^{4 \cdot \frac{1}{2}} = 3^2 = 9$
+
+## Opgaver
+
+### Udregn tallet
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 5^3 \\
+&\text{b.} \ 3^4 \\
+&\text{c.} \ 4^1 \\
+&\text{d.} \ 5^2+5^0 \\
+&\text{e.} \ 10^1 \\
+&\text{f.} \ 0^3 \\
+&\text{g.} \ 7^2 \\
+&\text{h.} \ 1^8 \\
+&\text{i.} \ \frac{5^2}{5^1} \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{j.} \ 6^0 \\
+&\text{k.} \ (2+1)^2 \\
+&\text{l.} \ (1+3)^1 \\
+&\text{m.} \ 5^3 \\
+&\text{n.} \ 2^4 \\
+&\text{o.} \ 4^{-1} \\
+&\text{p.} \ 4^3 \cdot 4^{-2} \\
+&\text{q.} \ 1^{-5} \\
+&\text{r.} \ \frac{5^2}{5^1} \\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{s.} \ a^0 \\
+&\text{t.} \ a^2 \cdot a^{-2} \cdot a^3 \\
+&\text{u.} \ 3a^2 \cdot a^{-2} \\
+&\text{v.} \ 4 \cdot 2^{-1} \\
+&\text{w.} \ a^0 \cdot a^{-2} \cdot a^4  \\
+&\text{x.} \ 4b^3 \cdot b^{-2} \\
+&\text{y.} \ 7^2 \cdot 7^{-2} \\
+&\text{z.} \ 10^{-1} \\
+\end{aligned}
+\end{gather}
+$$
+
+### Udregn tallet
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 1^3 \\
+&\text{b.} \ 6^0 \\
+&\text{c.} \ a^2 \cdot a^{-2} \\
+&\text{d.} \ b^3 \cdot b^{-2} \\
+&\text{e.} \ 10^{-1} \cdot 10^2 \cdot a^4 \\
+&\text{f.} \ 5a^2 \cdot 10^{-1} \\
+&\text{g.} \ 10^{-2} \\
+&\text{h.} \ 3 \cdot 10^{-3} \\
+&\text{i.} \ 20 \cdot 10^{-4} \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{j.} \ 2^4\\
+&\text{k.} \ 3^{-3} \\
+&\text{l.} \ 4^{-2} \\
+&\text{m.} \ 4^5 \cdot 4^{-2} \\
+&\text{n.} \ 2^5 \cdot 2^{-3} \\
+&\text{o.} \ \frac{4^4}{4^3} \\
+&\text{p.} \ 9^6 \cdot 9^{-4} \\
+&\text{q.} \ 2^9 \cdot 2^{-5} \\
+&\text{r.} \ \frac{10^7}{10^5}\\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{s.} \ x^8 \cdot x^{-6} \\
+&\text{t.} \ \frac{x^7}{x^3} \\
+&\text{u.} \ \frac{a^7}{a^0}\\
+&\text{v.} \ 7^3 \cdot 7^{-2}\\
+&\text{w.} \ 10^4 \cdot 10^{-2}\\
+&\text{x.} \ 3^4 \cdot 3^{-1}\\
+&\text{y.} \ 5^2 \cdot 5^{-1}\\
+&\text{z.} \ 2^3 \cdot 2^{-3}\\
+\end{aligned}
+\end{gather}
+$$
+
+### Udregn tallet
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ \frac{3^7}{3^4} \\
+&\text{b.} \ a^6 \cdot a^{-3} \\
+&\text{c.} \ b^8 \cdot b^{-5} \\
+&\text{d.} \ \frac{a^7}{a^5} \\
+&\text{e.} \ \sqrt{81} \\
+&\text{f.} \ \sqrt{7^2} \\
+&\text{g.} \ \sqrt[3]{8} \\
+&\text{h.} \ \sqrt[3]{27} \\
+&\text{i.} \ \sqrt[3]{125} \\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{j.} \ \sqrt[4]{16} \\
+&\text{k.} \ \sqrt[2]{64} \\
+&\text{l.} \ \sqrt[5]{1} \\
+&\text{m.} \ \sqrt[5]{32} \\
+&\text{n.} \ \sqrt[2]{100} \\
+&\text{o.} \ \sqrt[3]{1000} \\
+&\text{p.} \ \sqrt[6]{64} \\
+&\text{q.} \  2^5\\
+&\text{r.} \  3^4\\
+\end{aligned}
+&
+\begin{aligned}
+&\text{s.} \ 5^{-1} \\
+&\text{t.} \ 5\cdot 5^{-3} \\
+&\text{u.} \ 1^{-6} \\
+&\text{v.} \ \frac{12^3}{12^2}\\
+&\text{w.} \ 10^{-1} \\
+&\text{x.} \ x^2 \cdot x^{-2} \cdot x^3\\
+&\text{y.} \ 5x^2 \cdot x^{-2}\\
+&\text{z.} \ 9 \cdot 3^{-1}\\
+\end{aligned}
+\end{gather}
+$$
+
+### Brug potensregneregler til at reducere udtrykkerne mest muligt:
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 4^0 \cdot 4^{-2} \cdot 4^4 \\
+&\text{b.} \ 4x^3 \cdot x^{-1} \\
+&\text{c.} \ 4^2 \cdot 4^{-2} \\
+&\text{d.} \ 100^{-1}\\
+&\text{e.} \ 1^6\\
+&\text{f.} \ 8^0 \\
+&\text{g.} \ a^5 \cdot a^{-5}\\
+&\text{h.} \ a^4 \cdot a^{-2} \\
+&\text{i.} \ 1000^{-1} \\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{j.} \ 10 \cdot 10^{-2} \cdot a^3 \\
+&\text{k.} \ 30a^2 \cdot 10^{-1} \\
+&\text{l.} \ 100^{-2} \\
+&\text{m.} \ 5 \cdot 10^{-2} \\
+&\text{n.} \ 2 \cdot 10^{-3} \\
+&\text{o.} \ 4^{-2} \\
+&\text{p.} \ 4 \cdot 2^{-2} \\
+&\text{q.} \ 5 \cdot 10^{-1}\\
+&\text{r.} \ 10^{-2}\\
+\end{aligned}
+&
+\begin{aligned}
+&\text{s.} \ 4 \cdot 10^{-2}\\
+&\text{t.} \ 50 \cdot 10^{-1} \\
+&\text{u.} \ 16^{-2}\\
+&\text{v.} \ 20 \cdot 10^{-2}\\
+&\text{w.} \ 10^{-3} \cdot 100 \\
+&\text{x.} \ 9^{\frac{1}{2}}\\
+&\text{y.} \ 25^{-\frac{1}{2}}\\
+&\text{z.} \ 8^{\frac{1}{3}}\\
+\end{aligned}
+\end{gather}
+$$
+
+### Brug potensregneregler til at reducere udtrykkerne mest muligt:
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 27^{\frac{1}{3}} \\
+&\text{b.} \ 8^{-\frac{1}{3}} \\
+&\text{c.} \ 125^{\frac{1}{3}} \\
+&\text{d.} \ 49^{-\frac{1}{2}} \\
+&\text{e.} \ 64^{-\frac{1}{2}} \\
+&\text{f.} \ 5 \cdot 5^{-1} \\
+&\text{g.} \ \frac{4^3}{4^2} \\
+&\text{h.} \ \frac{3^4}{3^2} \\
+&\text{i.} \ \frac{2^6}{2^3} \\
+&\text{j.} \ \frac{7^3}{7^2} \\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{k.} \ \frac{3^7}{3^6} \\
+&\text{l.} \ \frac{2^{10}}{2^8} \\
+&\text{m.} \ 7^3 \cdot 7^2 \\
+&\text{n.} \ 3^7 \cdot 3^6 \\
+&\text{o.} \ 2^{10} \cdot 2^8 \\
+&\text{p.} \ 2^4\cdot \left(\frac{1}{2}\right)^4 \\
+&\text{q.} \ 5^3\cdot \left(\frac{1}{5}\right)^3 \\
+&\text{r.} \ 2^3\cdot \left(\frac{3}{6}\right)^3 \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{s.} \ 2^4 \cdot \left(\frac{2}{4} \right)^4 \\
+&\text{t.} \ 4^3 \cdot \left(\frac{2}{8} \right)^3 \\
+&\text{u.} \ 10^2 \cdot \left(\frac{1}{10} \right)^2 \\
+&\text{v.} \ 5^3 \cdot \left(\frac{1}{5} \right)^3 \\
+&\text{w.} \ 5^4 \cdot 0.2^4 \\
+&\text{x.} \ 4^8 \cdot 0.25^8 \\
+&\text{y.} \ 16^{\frac{1}{2}} \\
+&\text{z.} \ 36^{-\frac{1}{2}} \\
+\end{aligned}
+\end{gather}
+$$
+
+
+### Brug potensregneregler til at reducere udtrykkerne mest muligt:
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 125^{\frac{1}{3}} \\
+&\text{b.} \ 8^{\frac{1}{3}} \\
+&\text{c.} \ 8^{-\frac{1}{3}} \\
+&\text{d.} \ 1000^{\frac{1}{3}} \\
+&\text{e.} \ 81^{-\frac{1}{2}} \\
+&\text{f.} \ 100^{-\frac{1}{2}}\\
+&\text{g.} \ 14 \cdot 7^{-1} \\
+&\text{h.} \ \frac{7^3}{7^2} \\
+&\text{i.} \ \frac{2^4}{2^2} \\
+&\text{j.} \ \frac{4^6}{4^3} \\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{k.} \ \frac{1^3}{1^2} \\
+&\text{l.} \ \frac{10^7}{10^6} \\
+&\text{m.} \ \frac{2^15}{2^13} \\
+&\text{n.} \ 3^{2} \cdot 2^{2} \\
+&\text{o.} \ 2^{4} \cdot 2^{4} \\
+&\text{p.} \ 2^{10} \cdot 2^{-8} \\
+&\text{q.} \ 10^8 \cdot 0.1^8 \\
+&\text{r.} \ 8^4 \cdot 0.125^4 \\
+&\text{s.} \ 5^4 \cdot \left(\frac{1}{5}\right)^4 \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{t.} \ 8^3 \cdot \left(\frac{2}{16}\right)^3 \\
+&\text{u.} \ 6^3 \cdot \left(\frac{2}{12}\right)^3 \\
+&\text{v.} \ 3^4 \cdot \left(\frac{6}{18}\right)^4 \\
+&\text{w.} \ 4^{11} \cdot \left(\frac{2}{8}\right)^{11} \\
+&\text{x.} \ 9^{\frac{1}{2}} \\
+&\text{y.} \ 64^{\frac{1}{3}} \\
+&\text{z.} \ 49^{-\frac{1}{2}} \\
+\end{aligned}
+\end{gather}
+$$

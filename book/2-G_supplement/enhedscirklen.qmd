@@ -1,0 +1,25 @@
+# Enhedscirklen, sinus og cosinus
+
+Enhedscirklen er en cirkel med centrum i punktet (0,0) og med radius 1. De trignometriske størrelser *sinus* og *cosinus* er defineret ud fra *enhedscirklen*. Vinklen $v$ er vinklen mellem førsteaksen og en radius afsat i cirklen. Punktet, hvor den afsatte radius rammer cirklen, kaldes retningspunktet $P_v$. Sinus til $v$ er defineret som retningspunktets y-koordinat, og cosinus til $v$ er defineret som retningspunktets x-koordinat. Se figuren.
+
+![](grafer/enhedscirklen.jpg)
+
+Nogle af værdierne af sinus og cosinus kan aflæses direkte fra enhedscirklen. For eksempel kan man se, at $\sin(90^{\circ})=1$ og $\cos(90^{\circ})=0$
+
+## Udfyld et skema som det nedenstående uden brug af CAS
+| $v$ | $-90^{\circ}$ | $0$ | $90^{\circ}$ | $180^{\circ}$ | $270^{\circ}$ | $360^{\circ}$ |
+| --- | --- | --- | --- | --- | --- | --- | 
+| $\sin(v)$ | | | | | | |
+| $\cos(v)$ | | | | | | |
+
+## Udfyld et skema som det nedenstående ved hjælp af CAS
+| $v$ | $-25^{\circ}$ | $5^{\circ}$ | $40^{\circ}$ | $75^{\circ}$ | $100^{\circ}$ | $110^{\circ}$ | $140^{\circ}$ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| $\sin(v)$ | | | | | | | |
+| $\cos(v)$ | | | | | | | |
+
+## Løs følgende ligninger med CAS. Find kun løsninger i intervallet $0 \leq v \leq 90$
+a. $\sin(v)=0.8$
+b. $\sin(v)=0.3$
+c. $\cos(v)=0.1$
+d. $\cos(v)=0.5$

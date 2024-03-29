@@ -1,0 +1,12 @@
+# Mat B træning
+
+Indeholder regneregler, definitioner og opgaver indenfor:
+1. [f(x) notation](fx_notation.qmd)
+2. [Parenteser](parenteser.qmd)
+3. [Ligninger](ligninger.qmd)
+4. [Funktioner](funktioner.qmd)
+5. [Funktioner og grafer](funktioner_og_grafer.qmd)
+6. [Regnearternes hierarki](pemdas.qmd)
+7. [Kombinatorik](kombinatorik.qmd)
+8. [Enhedscirklen, sinus og cosinus](enhedscirklen.qmd)
+9. [Ligningsløsning](ligningsloesning.qmd)

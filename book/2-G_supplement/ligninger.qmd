@@ -1,0 +1,67 @@
+# Ligninger
+Husk at lighedstegnet udtrykker en balance mellem talstørrelserne på hver sit side.
+
+## Eksempel
+Løsning af ligningen $2x+10=2\cdot(3x-1)$
+$$
+\begin{gather}
+&
+\begin{aligned}
+2x+10&=6x-2 \\
+2x+10-2x&=6x-2-2x \\
+10&=4x-2 \\
+10+2&=4x-2+2 \\
+12&=4x \\
+12/4&=x \\
+x&=3
+\end{aligned}
+&
+\begin{aligned}
+& \text{2 er ganget ind i parentesen} \\
+& \text{2x er trukket fra på begge sider} \\
+& \text{Ligningen er reduceret} \\
+& \text{2 er lagt til på begge sider} \\
+& \text{Ligningen er reduceret} \\
+& \text{Begge sider er divideret med 4} \\
+& \text{Løsningen er 3}
+\end{aligned}
+\end{gather}
+$$
+
+## Løs ligningerne
+$$
+\begin{gather}
+&
+\begin{aligned}
+& \text{a.} \ x+10=18 \\
+& \text{b.} \ x-3=-8 \\
+& \text{c.} \ 5x=20 \\
+& \text{d.} \ 3x=-9 \\
+& \text{e.} \ 4x-7=13 \\
+& \text{f.} \ 5x+8=-12 \\
+& \text{g.} \ 22=2-4x \\
+& \text{h.} \ 3x-5=-17 \\
+& \text{i.} \ 2x-7=28-5x \\
+& \text{j.} \ 5x-5=-3x-37 \\
+& \text{k.} \ 3x-7=-3x+23 \\
+& \text{l.} \ 9x+5=2x+40 \\
+& \text{m.} \ 3(x-10)=60\\
+\end{aligned}
+&
+\begin{aligned}
+& \text{n.} \ 2(x+7)=26 \\
+& \text{o.} \ 10=-5(x+3) \\
+& \text{p.} \ 36=2(16+2x) \\
+& \text{q.} \ 3(x+4)=-2x+32 \\
+& \text{r.} \ 6(x-5)=4x-22 \\
+& \text{s.} \ 4(3+x)=-(x+13) \\
+& \text{t.} \ 6(x+2)=2(2x+10) \\
+& \text{u.} \ \\
+& \text{v.} \ \\
+& \text{w.} \ \\
+& \text{x.} \ \\
+& \text{y.} \ \\
+& \text{z.} \ \\
+\end{aligned}
+\end{gather}
+$$

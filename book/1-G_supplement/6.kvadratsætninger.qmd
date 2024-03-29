@@ -1,0 +1,67 @@
+# Kvadratsætninger
+
+## Definition
+$$
+(a+b)^2 = a^2+b^2+2ab
+\tag{K.1}
+$$
+
+$$
+(a-b)^2 = a^2+b^2-2ab
+\tag{K.2}
+$$
+
+$$
+(a+b)(a-b) = a^2-b^2
+\tag{K.3}
+$$
+
+## Eksempel
+
+$$(a-3)^2 = a^2 + 3^2 - 2\cdot 3a = a^2-6a+9$$
+
+## Opgaver
+
+### Udregn:
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ (3+b)^2 \\
+&\text{b.} \ (a+2)^2 \\
+&\text{c.} \ (x-1)^2 \\
+&\text{d.} \ (4+x)^2 \\
+&\text{e.} \ (3+b)^2 \\
+&\text{f.} \ (a+2)^2 \\
+&\text{g.} \ (x+1)(x-1) \\
+&\text{h.} \ (a+3)(a-3) \\
+&\text{i.} \ (x+5)^2 \\ 
+&\text{j.} \ (3-x)(3+x) \\
+&\text{k.} \ 2(x-1)^2 \\
+&\text{l.} \ (x-7)^2 \\
+&\text{m.} \ 2(x-2)^2 \\
+\end{aligned}
+& 
+\begin{aligned}
+&\text{n.} \ (y+3)(y-3) \\
+&\text{o.} \ (2-a)^2 \\
+&\text{p.} \ (a+4)^2 \\
+&\text{q.} \ (a+c)² \\
+&\text{r.} \ (x-c)(x+c) \\
+&\text{s.} \ (2x-5)^2 \\
+&\text{t.} \ (2a+a)^2 \\
+&\text{u.} \ (2a+2c)^2 \\
+&\text{v.} \ (2x-4)(2x+4) \\
+&\text{w.} \ (x-5)^2 \\
+&\text{x.} \ (2a+1)^2 \\
+&\text{y.} \ (a+2c)^2 \\
+&\text{z.} \ (x-2c)(x+2c) \\
+\end{aligned}
+\end{gather}
+$$
+
+### Beskriv fejlen og skriv udregningen korrekt:
+a. $(x-6)^2 = x^2-6x+36$
+b. $(x+10)(x-10) = x^2 - 20x - 100$
+c. $(x-2)(x+2)=x^2+4x+4$
+d. $(2-x)^2=2^2-x^2-2\cdot 2x=4-x^2-4x$

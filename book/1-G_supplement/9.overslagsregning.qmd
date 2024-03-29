@@ -1,0 +1,59 @@
+# Overslagsregning
+
+## Gode råd
+
+Når du adderer eller multiplicerer to tal - rund den ene op, og det andet ned.
+
+Når du subtraherer eller dividerer - rund begge op eller begge ned.
+
+## Eksempler
+
+- 443+254
+    - første led rundes op, det andet rundes ned, så vi har 450+250 = 700
+- $45 \cdot 68$
+    - første faktor rundes ned, den anden rundes op, så vi har $40 \cdot 70 = 2800$
+- 842-336
+    - begge rundes op, så vi har 850-350=500
+- $\dfrac{653}{9}$
+    - begge rundes op, så vi har $\dfrac{700}{10}=7$
+
+## Opgaver
+
+### Udregn et overslag på
+$$
+\begin{gather}
+& 
+\begin{aligned}
+&\text{a.} \ 65+14 \\ 
+&\text{b.} \ 562+246 \\ 
+&\text{c.} \ 143+856 \\ 
+&\text{d.} \ 196-145 \\ 
+&\text{e.} \ 1954-589 \\
+&\text{f.} \ 512-156 \\ 
+&\text{g.} \ 6.6+1.9 \\ 
+&\text{h.} \ 5.62+2.44 
+\end{aligned}
+& 
+\begin{aligned}
+&\text{i.} \ 0.143+0.856 \\
+&\text{j.} \ 0.496-0.189 \\
+&\text{k.} \ 19.54-4.29 \\
+&\text{l.} \ 50900-30756 \\
+&\text{m.} \ 61 \cdot 18 \\
+&\text{n.} \ 134 \cdot 107 \\
+&\text{o.} \ 947 \cdot 11 \\
+&\text{p.} \ 324:31
+\end{aligned}
+& 
+\begin{aligned}
+&\text{q.} \ 890:98 \\
+&\text{r.} \ 7647:104 \\
+&\text{s.} \ 6.22 \cdot 1.81 \\
+&\text{t.} \ 12.8 \cdot 10.4 \\
+&\text{u.} \ 9390 \cdot 110 \\
+&\text{v.} \ 33.4:3.1 \\
+&\text{w.} \ 96.6:9.8 \\
+&\text{x.} \ 16.33:4.13
+\end{aligned}
+\end{gather}
+$$

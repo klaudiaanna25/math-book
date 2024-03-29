@@ -1,0 +1,119 @@
+# Reduktion
+Husk, at du ikke må sammenblande de variable som $a,b,a^2$ osv.
+
+## Eksempel
+
+$3a-b+2a$ kan reduceres til $5a-b$.
+
+$3a-b+2a^2$ kan ikke reduceres.
+
+## Opgaver
+
+### Reducer udtrykket mest muligt:
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 2a+b-b+2 \\
+&\text{b.} \ ab-b+2ab \\
+&\text{c.} \ 2a+b-a^2-b^2+2b \\
+&\text{d.} \ 4-2a+b+3 \\
+&\text{e.} \ 5a-b+c-3a-c \\
+&\text{f.} \ 2a-b-a+a^2 \\
+&\text{g.} \ 4-3a+2+a+b \\
+&\text{h.} \ 3-a-b+2a+4-b \\
+&\text{i.} \ 3a+2b-a+b \\
+&\text{j.} \ ab-b+2a+b \\
+&\text{k.} \ 2a+b^2+2b \\
+&\text{l.} \ 4-2(a+b)+2a \\
+&\text{m.} \ 3a-3+c-3a+c \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \ 2a^2-b-a+a^2 \\
+&\text{o.} \ 3a+3+a+a^2 \\
+&\text{p.} \ -a+b+2a+4-b-2^2 \\
+&\text{q.} \ 2a+b+b+2 \\
+&\text{r.} \ ab+b+2ab \\
+&\text{s.} \ 2a+b-a^2-b^2+2b \\
+&\text{t.} \ 4-2a+b+3 \\
+&\text{u.} \ 5x-y+x-3y-4x \\
+&\text{v.} \ x(2-x)+x^2 \\
+&\text{w.} \ 2-3x+2+5(1-x) \\
+&\text{x.} \ 3(2-x)+2x^2+4-x \\
+&\text{y.} \ 3x-y+2x-2y-3x \\
+&\text{z.} \ y(1-y)-y^2
+\end{aligned}
+\end{gather}
+$$
+
+### Reducer udtrykket mest muligt:
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ x-3x+x(1-x) \\
+&\text{b.} \ 2(4-x)+x^2-8-x \\
+&\text{c.} \ 2x-y+2x-3y \\
+&\text{d.} \ y(2-y)+y^2 \\
+&\text{e.} \ 2-4x+2+5(1+x) \\
+&\text{f.} \ 3(a-b)+2a^2-b+a \\
+&\text{g.} \ a+2b-2a(b+2)+a \\
+&\text{h.} \ a-ab-(b+2a) \\
+&\text{i.} \ b^2+b-2a^2-(b^2+2b) \\
+&\text{j.} \ 5+a(2+a)+2a^2 \\
+&\text{k.} \ 3x-(y+2x-2)+y \\
+&\text{l.} \ y(1-y)+2y^2 \\
+&\text{m.} \ x-(3x+2)-x \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \ x(4-x)+x^2-8-x \\
+&\text{o.} \ 2x-x^2+2x-3x^2 \\
+&\text{p.} \ a(2-a)+a^2-2a \\
+&\text{q.} \ x^2+4(x+2)-5x(1+x) \\
+&\text{r.} \ a(b-a)+2a^2-b+a \\
+&\text{s.} \ a-2b+3(b-1) \\
+&\text{t.} \ a+ab-2a+b \\
+&\text{u.} \ a-b^2+b(1-b) \\
+&\text{v.} \ a-2a^2+a(1-b) \\
+&\text{w.} \ 2a-b+2(b-1) \\
+&\text{x.} \ a+2ab-a+b \\
+&\text{y.} \ a^2-b+b(1-b) \\
+&\text{z.} \ a-2a^2+a(1-a) \\
+\end{aligned}
+\end{gather}
+$$
+
+### Reducer udtrykket mest muligt:
+
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ b+2b(b-1) \\
+&\text{b.} \ a-ab+3a+2ab \\
+&\text{c.} \ a-ab+b(a-b) \\
+&\text{d.} \ x+2x^2+x(1-x) \\
+&\text{e.} \ -2b-b^2+b(2+b) \\
+&\text{f.} \ a^2+2ab-2a(1-b) \\
+&\text{g.} \ a-ab^2+b(1-ab) \\
+&\text{h.} \ a+3a^2+a(1-a) \\
+&\text{i.} \ -2b+3(b-2) \\
+&\text{j.} \ 2a+ax-2(a-x) \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{k.} \ x-y^2+y(1+y) \\
+&\text{l.} \ -2ab-2a^2+a(1+2b) \\
+&\text{m.} \ x-2b+3(x-b) \\
+&\text{n.} \ a+4ab-2a+3b \\
+&\text{o.} \ ab-b^2+2b(1-4b) \\
+&\text{p.} \ 3a-a^2+a(1-2a) \\
+&\text{q.} \ x-2x+3(x-1)+3 \\
+&\text{r.} \ a+ab-2a+b-a(b+1) \\
+&\text{s.} \ a-b^2+(1-b)^2 \\
+&\text{t.} \ a+2(a-b)^2+a(1-b) \\
+\end{aligned}
+\end{gather}
+$$

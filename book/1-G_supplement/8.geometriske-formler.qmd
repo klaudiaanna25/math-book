@@ -1,0 +1,53 @@
+# Geometri 
+
+## Formler
+
+| Figur | Areal | Omkreds |
+| --- | --- | --- |
+| Cirkel med radius $r$ | $A=\pi \cdot r^2$ | $O=2\pi r$ |
+| Kvadrat med sidelængde $s$ | $A=s^2$ | $O=4s$ |
+| Rektangel med sidelængderne $l$ og $b$ | $A=l \cdot b$ | $O=2b+2l$|
+| Trekant med højde $h$ og grundlinje $g$ | $A=\dfrac{1}{2}h \cdot g$ | $O=s_1 + s_2 + s_3$ | 
+
+## Opgaver
+
+### Udregn arealet af
+a. en cirkel med radius 3
+b. en trekant, hvor $h=3$ og $g=6$
+c. et kvadrat, hvor $s=5$
+d. et rektangel med $l=3$ og $b=10$
+e. en cirkel med $r=5$
+f. en trekant, hvor $h=6$ og $g=3$
+g. et kvadrat, hvor $s=2$
+h. et rektangel med $l=2.5$ og $b=2$
+
+### Udregn omkredsen af
+a. en cirkel med $r=2$
+b. en trekant, hvor $s_1=3, s_2=4$ og $s_3=5$
+c. et kvadrat, hvor $s=5$
+d. et rektangel med $l=3$ og $b=10$
+e. en cirkel med $r=3$
+f. en trekant, hvor $s_1=1, s_2=2$ og $s_3=1.5$
+g. et kvadrat, hvor $s=2.25$
+h. et rektangel med $l=9$ og $b=12.5$
+
+### Udregn
+a. omkredsen af en cirkel, hvor $r=1$
+b. arealet af en trekant, hvor $h=6$ og $g=10$
+c. arealet af et kvadrat, hvor $s=1$
+d. omkredsen af en rektangel, hvor $l=2$ og $b=4$
+e. omkredsen af en cirkel, hvor $r=10$
+f. arealet af en trekant, hvor $h=60$ og $g=4$
+g. arealet af et kvadrat, hvor $s=8$
+h. omkredsen af et rektangel, hvor $l=4$ og $b=5$
+
+### Isoler
+a. $l$ i formlen $A=l \cdot b$
+b. $b$ i formlen $A=l \cdot b$
+c. $s$ i formlen $O=4\cdot s$
+d. $r$ i formlen $O=2\pi \cdot r$
+e. $\pi$ i formlen $O=2\pi \cdot r$
+f. $h$ i formlen $A=\dfrac{1}{2}h \cdot g$
+g. $g$ i formlen $A=\dfrac{1}{2}h \cdot g$
+h. $r^2$ i formlen $A=\pi\cdot r^2$
+i. $s_2$ i formlen $O=s_1+s_2+s_3$

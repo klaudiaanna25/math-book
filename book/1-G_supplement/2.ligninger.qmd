@@ -1,0 +1,354 @@
+# Ligninger
+
+## Definition
+Husk at lighedstegnet udtrykker en balance mellem talstørrelserne på hver side af det.
+
+## Opgaver
+
+### Løs ligningerne:
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 2x+1=7 \\
+&\text{b.} \ 1+3x=4 \\
+&\text{c.} \ 3x+1=2-x \\
+&\text{d.} \ 3x+2=11 \\
+&\text{e.} \ 2x-2=8 \\
+&\text{f.} \ -6+4x=10 \\
+&\text{g.} \ 4x+3=11 \\
+&\text{h.} \ 5x-0.5=9.5 \\
+&\text{i.} \ 7-4x=15 \\
+&\text{j.} \ 2x+3=9 \\
+&\text{k.} \ 1+2x=11 \\
+&\text{l.} \ 3x=4-x \\
+&\text{m.} \ 4x+3=15 \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \ 5x-2=13 \\
+&\text{o.} \ -4+3x=11 \\
+&\text{p.} \ 7x+4=18 \\
+&\text{q.} \ 0.5x-2.5x=1.5 \\
+&\text{r.} \ -7-x=-15 \\
+&\text{s.} \ 3x+1=10 \\
+&\text{t.} \ 1-x=4 \\
+&\text{u.} \ 3(x+1)=0 \\
+&\text{v.} \ 2x-2 = 10 \\
+&\text{w.} \ x-2=-x \\
+&\text{x.} \ -3+3x = 0 \\
+&\text{y.} \ 2x+3=-x \\
+&\text{z.} \ 0.5x+4.5=5.5 
+\end{aligned}
+\end{gather}
+$$
+
+### Løs ligningerne:
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 2-x=x+4 \\
+&\text{b.} \ 4x-2=10 \\
+&\text{c.} \ 2-x=5 \\
+&\text{d.} \ 28(x-1)=0 \\
+&\text{e.} \ 2x+3=-x \\
+&\text{f.} \ x+4=5.3 \\
+&\text{g.} \ 2-5x=-6x+4 \\
+&\text{h.} \ 2x-1.2=4.8 \\
+&\text{i.} \ 8x-12=-4x \\
+&\text{j.} \ -3+3x = 3 \\
+&\text{k.} \ 2x-3=11 \\
+&\text{l.} \ 3x-2=-x \\
+&\text{m.} \ -2+2x=0
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \ 2y+3=-y \\
+&\text{o.} \ 0.5y+1.5=2 \\
+&\text{p.} \ 5+2x=x+4 \\
+&\text{q.} \ 2x+10=-3x \\
+&\text{r.} \ 2.3x+2.2=4.5 \\
+&\text{s.} \ 2+3x=x+1 \\
+&\text{t.} \ x-3x-2=8 \\
+&\text{u.} \ 5+x=6x \\
+&\text{v.} \ 2+3(x-1)=2 \\
+&\text{w.} \ 2+2x=2+x \\
+&\text{x.} \ 4x+4=5 \\
+&\text{y.} \ 2-3x=-2x+3 \\
+&\text{z.} \ 2(x-4)=-6
+\end{aligned}
+\end{gather}
+$$
+
+### Løs ligningerne:
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 8x-3=3x+2 \\
+&\text{b.} \ 1+3(x-2)=3 \\
+&\text{c.} \ 4(2-x)+3=6 \\
+&\text{d.} \ 4x+3 = x\\
+&\text{e.} \ 2 + 5x=17 \\
+&\text{f.} \ 5x+1=6+x \\
+&\text{g.} \ 6(x+0.5)=12 \\
+&\text{h.} \ -4+2x=8 \\
+&\text{i.} \ 2x+3=11-6x \\
+&\text{j.} \ 1.2x+1.1=3.4 \\
+&\text{k.} \ 7+2x=x+1 \\
+&\text{l.} \ 2x+1=4\\
+&\text{m.} \ 3+2x=5 \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \ 3x+1=7-3x \\
+&\text{o.} \ 4x+2=14 \\
+&\text{p.} \ 2x+1=17 \\
+&\text{q.} \ 6-4x=-10 \\
+&\text{r.} \ 5x+3=18 \\
+&\text{s.} \ 0.1x-0.5=1.5\\
+&\text{t.} \ 4(x-2)=4\\
+&\text{u.} \ 7+2x=7\\
+&\text{v.} \ 16=8-2x\\
+&\text{w.} \ 0.1x=3\\
+&\text{x.} \ \frac{5}{x} = -25\\
+&\text{y.} \ 3x+3=12\\
+&\text{z.} \ 2x-3=1+x 
+\end{aligned}
+\end{gather}
+$$
+
+### Find fejlen og skriv omformningen korrekt:
+
+$$
+\begin{gather}
+& 
+\begin{aligned}
+\text{a.} \ 3x+1&=8 \\
+    3x&=9 \\
+    x&=3 \\
+\text{b.} \ 1+x&=3 \\
+    1&=3+x \\
+    2&=x \\
+\text{c.} \ 3x+2&=1-x \\
+    2x+2&=1 \\
+    2x&=-1 \\
+\text{d.} \ 3x+5&=3 \\
+    3x&=8 \\
+    x&=\frac{8}{3} \\
+\text{e.} \ 7+2x&=1 \\
+    6&=2x \\
+    x&=3 \\
+\text{f.} \ 2x+3&=1+x \\
+    3x+3&=1 \\
+    3x&=-2 \\
+    x&=-\frac{2}{3} \\ 
+\text{g.} \ x+1&=8 \\
+    x&=9 \\
+\text{h.} \ 2x+1&=5 \\
+    2x&=6 \\
+    x&=3 \\
+\text{i.} \ 3x+1&=4-x \\
+    2x+1&=4 \\
+    2x&=3 \\
+    x&=\frac{3}{2} \\
+\text{j.} \ 3(x+2)&=6 \\
+    3x+3 &= 6 \\
+    3x&=3 \\
+\text{k.} \ 2(1+x)-x&=4 \\
+    2+2x-x&=4 \\
+    2+3x&=4 \\
+    3x&=2 \\
+    x&= \frac{2}{3} \\
+\text{l.}\ 5x+3 &= 1+x \\
+    6x+3 &=1 \\
+    6x &=-2 \\
+    x &= -\frac{1}{3} \\
+\text{m.} \ 3(x+1)&=-2x \\
+    3x+1&=-2x \\
+    3x&=-2x-1 \\
+    5x&=-1 \\
+    x&=-\frac{1}{5} \\
+\text{n.} \ 3-(x+1) &= 2+x \\
+    3-x+1 &=2+x \\
+    3+1&=2+2x \\
+    4&=2+2x \\
+    2&=2x \\
+    1&=x \\
+\end{aligned}
+&
+\begin{aligned}
+\text{o.} \ 2-(x-3) &=4+2x \\
+    2-x-3 &=4+2x \\
+    2-3x-3&=4 \\
+    3x&=5 \\
+    x&= \frac{3}{5} \\
+\text{p.} \ 3+3(x-1)&=2x-1 \\
+    3+3x-1&=2x-1 \\
+    2+3x&=2x-1 \\
+    2+x&=-1 \\
+    x&=-3 \\
+\text{q.} \ 2-x&=3(4-x) \\
+    2-x&=12-4x \\
+    3x&=10 \\
+    x&=\frac{10}{3}\\
+\text{r.} \ 0.2x +2 &=4 \\
+    0.2x-0.2+2&=4-0.2 \\
+    0.2x+1.8&=3.8 \\
+    0.2x&=4 \\
+    x&=20 \\
+\text{s.} \ 1+3x&=x \\
+    1+3x-x&=1 \\
+    1+2x-1&=1-1 \\
+    2x&=0 \\
+    x&=0 \\
+\text{t.} \ 4-x&=1-2x \\
+    2x+4-x-4&=1-2x-4 \\
+    x&=-2x-3 \\
+    3x&=-3 \\
+    x&=-1 \\
+\text{u.} \ 2(1-x)&=5 \\
+    2-x&=5 \\
+    -x&=3 \\
+    x&=-3 \\
+\text{v.} \ 3x-(1-x)&=3 \\
+    3x-1-x&=3 \\
+    2x-1&=3 \\
+    2x&=4 \\
+    x&=2 \\
+\text{w.} \ 2x-3&=6-x \\
+    2x&=3-x \\
+    3x&=3 \\
+    x&=1 \\
+\text{x.} \ 5&=2-(1+x) \\
+    5&=2-1-x \\
+    0&=-3-1-x \\
+    x&=4 \\
+\text{y.} \ x-3&=-x+3 \\
+    -2x&=6 \\
+    x&=-3 \\
+\text{z.} \ -5x-5&=3(x-1) \\
+    -5x&=3(x-1)-5 \\
+    -5x&=3x-3-5 \\
+    -5x&=3x-8 \\
+    -8x&=-8 \\
+    x&=1
+\end{aligned}
+\end{gather}
+$$
+
+### Find to fejl og skriv omformningen korrekt:
+$$
+\begin{gather}
+&
+\begin{aligned}
+\text{a.} \ 1-(2-x)&=4\\
+    1-2-x&=4 \\
+    -1-x&=4 \\
+    -x&=-5 \\
+    x&=5 \\
+\end{aligned}
+&
+\begin{aligned}
+\text{b.} \ 3-(2x-1)&=3-(x-2) \\
+    2-2x+1&=3-x-2 \\
+    4-2x&=1-x \\
+    4-3x&=1 \\
+    -3x&=-3 \\
+    x&=1 \\ 
+\end{aligned} \\
+&
+\begin{aligned}
+\text{c.} \ -3x-2&=-7(-2-x) \\
+    -3x-2&=-14+7x \\
+    4x-2&=-14 \\
+    4x&=-12 \\
+    x&=-4
+\end{aligned}
+\end{gather}
+$$
+
+### Isolér $n$ i nedenstående udtryk:
+$$
+\begin{aligned}
+&\text{a.} \ T= 3M+4n \\
+&\text{b.} \ U=\frac{1}{2}n + u \\
+&\text{c.} \ O=0.2n+10 \\
+&\text{d.} \ T=3n+4 \\
+&\text{e.} \ U=(7n+u) \\
+&\text{f.} \ O=\frac{4}{n} \\
+\end{aligned}
+$$
+
+### Isolér $M$ i nedenstående udtryk:
+$$
+\begin{aligned}
+&\text{a.} \ 2N = 0.3M \\
+&\text{b.} \ B = kM \\
+&\text{c.} \ O = 2\pi M
+\end{aligned}
+$$
+
+## Ligninger og parenteser
+**Eksempel:**
+$$
+\begin{gather}
+&
+\begin{aligned}
+3-2(2-x)&=5 \\
+3-4+2x&=5 \\
+-1+2x&=5 \\
+2x&=6 \\
+x&=3 \\
+\end{aligned}
+& 
+\begin{aligned}
+& \\
+&\text{-2 er ganget ind i parentesen.} \\ 
+&\text{Der regnes sammen for at få overblik.} \\
+&\text{Der er lagt 1 til på begge sider af lighedstegnet.} \\
+&\text{Der er divideret med 2 på begge sider af lighedstegnet.} \\
+\end{aligned}
+\end{gather}
+$$
+
+### Løs ligningerne
+og vis alle mellemregningerne, så det er tydeligt, hvordan du har tænkt.
+
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ 2(x-1)=4 \\
+&\text{b.} \ 1-x=-3x+3 \\
+&\text{c.} \ 2-(x-1)=4 \\
+&\text{d.} \ 5+3(6-x)=8 \\
+&\text{e.} \ 1-2(2-x)=x \\
+&\text{f.} \ 2-3(1+2x)=5 \\
+&\text{g.} \ 7-3(x-3)=2(1-x) \\
+&\text{h.} \ 6+4(3-2x)=4x \\
+&\text{i.} \ 9-3(2-x) = 2-3(1-x) \\
+&\text{j.} \ 3(x-2)=6 \\
+&\text{k.} \ 1-2x=-3x+1 \\
+&\text{l.} \ 2-(x-1)=6 \\
+&\text{m.} \ 5+3(3-x)=14 \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \ 1-3(2-x)=x \\
+&\text{o.} \ 2-3(1+2x)=5 \\
+&\text{p.} \ 8+3(x-1)=2(1-x) \\
+&\text{q.} \ 6+4(3+2x)=4+x \\
+&\text{r.} \ 4-3(1-x)=1+2(1-x) \\
+&\text{s.} \ x+3(x-2)=10 \\
+&\text{t.} \ 3-2x+1=2 \\
+&\text{u.} \ 4-2(x-1)=3 \\
+&\text{v.} \ 1+2(1-4x)=19 \\
+&\text{w.} \ 2-x(7-2) = 5x\\
+&\text{x.} \ -3(2-x)=2-x \\
+&\text{y.} \ 4-3(x-2)=7x \\
+&\text{z.} \ 6+2(7+x)=30 
+\end{aligned}
+\end{gather}
+$$

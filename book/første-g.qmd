@@ -1,0 +1,14 @@
+# Mat C træning 
+
+Indeholder regneregler, definitioner og opgaver indenfor:
+
+1. [Regnearternes hierarki](1-G_supplement/1.pemdas.qmd)
+2. [Ligninger](1-G_supplement/2.ligninger.qmd)
+3. [Reduktion](1-G_supplement/3.Reduktion.qmd)
+4. [Parenteser](1-G_supplement/4.parenteser.qmd)
+5. [Brøker](1-G_supplement/5.br%C3%B8ker.qmd)
+6. [Kvadratsætninger](1-G_supplement/6.kvadrats%C3%A6tninger.qmd)
+7. [Rødder og Potenser](1-G_supplement/7.r%C3%B8dder-og-potenser.qmd)
+8. [Geometri](1-G_supplement/8.geometriske-formler.qmd)
+9. [Overslagsregning](1-G_supplement/9.overslagsregning.qmd)
+10. [Fremskrivningsfaktor og vækstrate](1-G_supplement/10.fremskrivningsfaktor-og-v%C3%A6kstrate.qmd)
