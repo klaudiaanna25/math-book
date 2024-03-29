@@ -1,2 +1,99 @@
 # Eksponentiel vækst
-En eksponentiel funktion er en funktion
+En eksponentiel funktion er en funktion af typen $f(x)=b \cdot a^x$, hvor $a$ og $b$ skal være positive, og hvor $a$ ikke må være 1.
+Konstanten $a$ kaldes for *fremskrivningsfaktoren*. 
+Hvis $a$ er større end 1, er funktionen voksende.
+Hvis $a$ ligger mellem 0 og 1, er funktionen aftagende.
+Grafen for funktionen skærer y-aksen i (0,b). 
+Konstanten $b$ kaldes også *startværdien*m fordi $f(0)=b$.
+
+##
+Aflæs fremskrivningsfaktoren og grafens skæringspunkt med y-aksen for nedenstående eksponentielle funktioner. Angiv også, om funktionen er voksende, eller aftagende.
+
+a. $f_1(x)= 5 \cdot 2^x$
+b. $f_2(x)= 3 \cdot 1.2^x$
+c. $f_3(x)= 3 \cdot 0.8^x$
+d. $f_4(x)= 0.3 \cdot 4^x$
+
+## Vækstegenskaber - eksempler
+Funktionen $f_1(x)=3 \cdot 1.27^x$ *vokser* med 27%, hver gang $x$ vokser med 1, fordi fremskrivningsfaktoren er $1.27 = 1 + 0.27$.
+
+Funktionen $f_2(x) = 1000 \cdot 0.88^x$ *aftager* med 12% hver gang $x$ vokser med 1, fordi fremskrivningsfaktoren er $0.88 = 1 - 0.12$.
+
+##
+Hvor mange % vokser eller aftager nedenstående funktioner med, når $x$ vokser med 1?
+
+a. $g_1(x)= 5 \cdot 1.65^x$
+b. $g_2(x)= 10 000 \cdot 1.04^x$
+c. $g_3(x)= 5298 \cdot 0.73^x$
+d. $g_4(x)= 0.56 \cdot 2.1^x$
+
+##
+Opskriv forskriften for følgende eksponentielfunktioner.
+
+a. $f_1(x)$ vokser med 34% hver gang $x$ vokser med 1, og startværdien er 7
+b. $f_2(x)$ aftager med 17% hver gang $x$ vokser med 1, og startværdien er 500
+c. $f_3(x)$ aftager med 29% hver gang $x$ vokser med 1, og startværdien er 0.01254
+d. $f_4(x)$ vokser med 300% hver gang $x$ vokser med 1, og startværdien er 2
+
+## Fordobling- og halveringskonstant
+For en voksende eksponentielfunktion med forskrift $f(x)=b \cdot a^x$, fordoblingkonstanten beregnes ved:
+$$
+T_2 = \frac{\ln(2)}{\ln(a)}, \ a>1
+$$
+
+For en aftagende eksponentielfunktion med forskrift $f(x)=b \cdot a^x$, halveringskonstanten beregnes ved:
+$$
+T_{1/2} = \frac{\ln(1/2)}{\ln(a)}, \ 0<a<1
+$$
+
+## 
+Beregn fordoblings- eller halveringskonstant for funktionerne
+
+a. $h_1(x)= 100 \cdot 0.8^x$
+b. $h_2(x)= 2 \cdot 1.56^x$
+c. $h_3(x)= 0.34 \cdot 4.8^x$
+d. $h_4(x)= 3000 \cdot 1.0032^x$
+
+##
+Angiv fordoblingskonstanten for følgende funktioner
+
+a. $g_1(x)$ hvorom vi ved, at $g_1(5)=20$ og $g_1(10)=40$
+b. $g_2(x)$ hvorom vi ved, at $g_2(3)=80$ og $g_2(6)=160$
+c. $g_3(x)$ hvorom vi ved, at $g_3(10)=12$ og $g_3(20)=48$
+d. $g_4(x)$ hvorom vi ved, at $g_4(0)=2$ og $g_4(50)=64$
+
+Eksponentialfunktioner opskrives af og til på formen $f(x)= b \cdot e^{k \cdot x}$, hvor $e$ er en konstant der kaldes Eulers tal.
+I dette tilfælde er fremskrivningsfaktoren $a=e^k$.
+
+Hvis man kender fremskrivningsfaktoren og vil beregne $k$, kan det gøres med formlen $k=\ln(a)$. 
+
+Konstanten $b$ er stadig begyndelsesværdien. 
+Hvis $k$ er positiv, er funktionen voksende, og hvis $k$ er negativ, er funktionen aftagende.
+
+## Eksempler
+Funktionen $f(x)=2 e^{3x}$ har fremskrivningsfaktoren $a=e^3 = 20.0855$.
+
+Funktionen $h(x)=5 \cdot 1.45^x$ kan også skrives som $h(x) = 5e^{0.3716x}$, fordi $k=\ln(1.45) = 0.3716$
+
+##
+Beregn fremskrivningsfaktoren og fordoblings- eller halveringskonstant for funktionerne
+
+a. $f_1(x)= 3 \cdot e^{5x}$
+b. $f_2(x)= 1000 \cdot e^{0.00254x}$
+c. $f_3(x)= 2 \cdot e^{-0.3x}$
+d. $f_4(x)= 0.00045 \cdot e^{-4.67x}$
+
+##
+Omskriv eksponentialfunktionerne til formlen $g(x) = b \cdot e^{kx}$
+
+a. $g_1(x)= 10 \cdot 2^x$
+b. $g_2(x)= 10 \cdot 0.95^x$
+c. $g_3(x)= 5000 \cdot 1.93^x$
+d. $g_4(x)= 30 \cdot 0.1^x$
+
+##
+Indfør passende variable, og opstil en model, der beskriver situationen.
+
+a. Du indsætter 100 kroner på en konto, der giver rente på 3% pr. år.
+b. Der er 1000 bakterier i en petriskål. Populationen vokser med 8% pr. døgn.
+c. År 2012 kostede et bestemt solcelleanlæg 120 000 kr. Siden er prisen faldet med 15% pr. år.

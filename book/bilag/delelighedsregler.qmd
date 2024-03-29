@@ -1,0 +1,102 @@
+# Delelighedsregler
+
+- 2 går op i et tal, når sidste ciffer er lige tal, eller 0
+    - eksempel: 2977394
+        - den sidste ciffer er 4 - lige
+        - tallet er derfor deleligt med 2
+- 3 går op i et tal, når tallets tværsum er delelig med 3
+    - eksempel: 14625
+        - tværsum: $1+4+6+2+5=18$
+        - 18 er deleligt 3: $18:3=6$
+        - tallet er derfor deleligt med 3
+- 4 går op i et tal, når det tal, som udgøres af tallets 2 sidste cifre, er deleligt med 4
+    - eksempel: 274864
+        - tallet som udgøres af to sidste cifre er 64
+        - 64 er deleligt med 4: $64:4=16$
+        - tallet er derfor deleligt med 4
+- 5 går op i et tal, når tallets sidste ciffer er 0 eller 5
+    - eksempel: 430435
+        - sidste cifer: 5 
+        - tallet er derfor deleligt med 5
+- 6 går op i et tal, når betingelser for 2 og 3 er opfyldt
+    - eksempel: 286968
+        - betingelser for 2: 
+            - opfyldt, da den sidste cifer (8) er et lige tal
+        - betingelser for 3: 
+            - tværsum: $2+8+6+9+6+8=39$
+            - 39 er deleligt med 3: $39:3=13$
+        - da betingelser for både 2 og 3 er opfyldt, er tallet deleligt med 6
+- 7 - reglen nedenunder
+- 8 går op i et tal, når det tal, som udgøres af tallets sidste 3 cifre er deleligt med 8
+    - eksempel: 14912
+        - 3 sidste cifre: 912
+        - 912 er deleligt med 8: $912:8 =114$
+        - tallet er derfor deleligt med 8
+- 9 går op i et tal, når tallets tværsum er deleligt med 9
+    - eksempel: 11151
+        - tværsum: $1+1+1+5+1=9$
+        - 9 er deleligt med 9: $9:9=1$
+        - tallet er derfor deleligt med 9
+- 10 går op i et tal, når tallets sidste ciffer i tallet er 0
+    - eksempel: 1890280490
+        - sidste cifer: 0
+        - tallet er derfor deleligt med 10
+- 11 går op i et tal, når summen af hvert andet af tallets cifre (enerne, hundrede, titusinder, osv) minus summen af de øvrige (tiere, tusinder, osv) er deleligt med 11, eller er lig med 0
+    - eksempel: 146564
+        - summen af hvert andet af tallets cifre: $4+5+4=13$
+        - summen af de øvrige: $6+6+1=13$
+        - differencen: $13-13=0$
+        - tallet er derfor deleligt med 11
+- 12 går op i et tal, når betingelser for 3 og 4 er opfyldt
+    - eksempel: 47496
+        - betingelser for 3: 
+            - tværsum: $4+7+4+9+6=30$
+            - 30 er deleligt med 3: $30:3=10$
+            - tallet er derfor deleligt med 3
+        - betingelser for 4:
+            - 2 sidste cifre: 96
+            - 96 er deleligt med 4: $96:4=24$
+            - tallet er derfor deleligt med 4
+        - da betingelser for både 3 og 4 er opfyldt, er tallet deleligt med 12
+
+## 7 reglen
+
+```{mermaid}
+flowchart TB
+    id1["Tag tallets sidste ciffer, og gang det med 2"]
+    id2["Resultatet skal trækkes fra det originale tal MINUS den sidste ciffer"]
+    id3["Er tallet 0 eller et tocifret tal?"]
+    id4["Ja"]
+    id5["Nej"]
+    id6["Er tallet deleligt med 7?"]
+    id7["Ja"]
+    id8["Nej"]
+    id9["Tallet er deleligt med 7"]
+    id10["Tallet er ikke deleligt med 7"]
+
+    id1 --> id2
+    id2 --> id3
+    id3 --> id4
+    id3 --> id5
+    id5 --> id1
+    id4 --> id6
+    id6 --> id7
+    id6 --> id8
+    id7 --> id9
+    id8 --> id10
+
+```
+
+**Eksempel** Vi vil tjekke om tallet 5497555 er deleligt med 7
+![](bilag_fig/7-delelighedsregel.png)
+
+## Tværsum 
+Tværsum af et tal, er et sum af alle tallets cifre, fx:
+
+Tværsum for 1975824 beregnes som følgende:
+
+$1+9+7+5+8+2+4=36$
+
+## Lige kontra ulige tal
+- lige tal: 2, 4, 6, 8, 10, 12, 14, ...
+- ulige tal: 1, 3, 5, 7, 9, 11, 13, ...
