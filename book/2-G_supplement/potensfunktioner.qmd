@@ -1,0 +1,164 @@
+# Potensfunktioner
+Funktioner med forskrifter af typen $f(x)= b \cdot x^a$, hvor $b$ er et positivt tal, kaldes potensfunktioner. 
+Potensfunktioner er normalt kun defineret for positive værdier af $x$.
+
+Hvis eksponenten $a$ er negativ, er funktionen aftagende. 
+Hvis $a$ er positiv, men mindre end 1, er funktionen voksende, hældingen aftager (grafen "flader ud").
+Hvis $a$ er større end 1, vil hældningen vokse.
+
+Grafen viser tre funktioner med det samme $b$-værdi, men forskellige $a$-værdier for at vise påvirkningen af $a$
+```{python}
+import sympy as sp
+import seaborn as sns
+
+x=sp.symbols("x")
+
+sns.set()
+sns.set_style("whitegrid", {'grid.linestyle': '--'})
+p1 = sp.plot(
+    2*x**(-1),
+    xlim=[0,10],
+    ylim=[-1,30],
+    label=("2*x^(-1)"),
+    show=False,
+    legend=True
+)
+
+p2 = sp.plot(
+    2*x**(0.5),
+    show=False
+)
+
+p3 = sp.plot(
+    2*x**(2),
+    show=False
+)
+
+p1.append(p2[0])
+p1.append(p3[0])
+
+p1.show()
+
+pass
+```
+
+**Bemærk:** $g(x)=\sqrt{x}$ er en potensfunktion, da $x^{1/2}= \sqrt{x}$, $h(x)=\frac{1}{x}$ er også en potensfunktion, da $x^{-1}= \frac{1}{x}$
+
+##
+Tegn grafer for følgende potensfunktioner med CAS
+
+a. $f_1(x)= 3.2 \cdot x^{2.9}$
+b. $f_2(x)= 1.5 \cdot x^{-0.9}$
+c. $f_3(x)= 2 \cdot x^{-0.71}$
+
+##
+Beregn i hånden
+
+a. $g_1(4)$, når $g_1(x)= 3 \cdot x^{2}$
+b. $g_2(9)$, når $g_2(x)= 2 \cdot x^{0.5}$
+c. $g_3(5)$, når $g_3(x)= 3 \cdot x^{-1}$
+
+##
+Figuren viser graferne A, B og C for nedenstående tre potensfunktioner.
+Hvilken graf hører til hvilken funktion?
+
+```{python}
+sns.set()
+sns.set_style("whitegrid", {'grid.linestyle': '--'})
+p1 = sp.plot(
+    2*x**(-0.7),
+    xlim=[0,5],
+    ylim=[-1,4],
+    show=False,
+    label=("C"),
+    legend=True
+)
+
+p2 = sp.plot(
+    0.5*x**(2.3),
+    label=("A"),
+    show=False
+)
+
+p3 = sp.plot(
+    2*x**(0.4),
+    label=("B"),
+    show=False
+)
+
+p1.append(p2[0])
+p1.append(p3[0])
+
+p1.show()
+
+pass
+```
+
+a. $f_1(x)= 2 \cdot x^{-0.7}$
+b. $f_2(x)= 0.5 \cdot x^{2.3}$
+c. $f_3(x)= 2 \cdot x^{0.4}$
+
+## Vækstegenskab for potensvækst
+Om potensfunktioner $f(x)=b\cdot x^a$ gælder, at når $x$ ganges med en fremskrivningsfaktor $F_x = 1+r_x$, vil $f(x)$ ganges med en fremskrivningsfaktor $F_y=1+r_y$, hvor det gælder at $F_y=F_x^a$ eller $1+r_y=(1+r_x)^a$ og $1+r_x= \sqrt[a]{1+r_y}$.
+
+### Eksempel
+Vi betragter potensfunktionen $f(x)=2 \cdot x^{-0.7}$. 
+Hvis $x$ vokser med 24%, svarer det til, at $r_x=0.24$.
+Vi beregner fremskrivningsfaktoren for $f(x)$ som 
+$$
+1+r_y=(1+0.24)^{-0.7}=0.860
+$$
+
+Dvs. $r_y=0.860-1=-0.14=-14\%$.
+Når $x$ vokser med 24%, aftager $f(x)$ med 14%.
+
+### Eksempel
+Vi betragter funktionen $g(x)=5\cdot x^{1.5}$. Hvor meget skal $x$ vokse med, for at $g(x)$ vokser med 7%, svarende til at $r_y=0.07$?
+
+Det kan beregnes som 
+$$
+1+r_x = \sqrt[1.5]{1+0.7}
+=1.046
+$$
+
+Dvs. $r_x=1.046 -1 = 0.046 = 4.6\%$.
+For at $g(x)$ vokser med 7%, må $x$ vokse med 4.6%.
+
+##
+Lad $f(x)= 2 \cdot x^{2.7}$.
+Hvor meget vokser $f(x)$, hvos $x$ vokser med
+
+a. 5%
+b. 15%
+c. 100%
+
+##
+Lad $g(x)=5 \cdot x^{0.7}$.
+Hvor meget vokser eller aftager $g(x)$, hvis $x$ aftager med
+
+a. 9%
+b. 25%
+c. 50%
+
+##
+Lad $f(x)=10 \cdot x^{-3.4}$.
+Hvor meget skal x vokse eller aftage med, for at $f(x)$ vokser med
+
+a. 17%
+b. 3%
+c. 80%
+
+##
+Lad $h(x)=2.6 \cdot x^{0.5}$.
+Hvor meget skal $x$ vokse eller aftage med, for at $h(x)$ aftager med
+
+a. 5%
+b. 50%
+c. 95%
+
+##
+Svigningstiden for et pendul kan tilnærmelsesvist beskrives med funktionen $f(x)=2x^{0.5}$, hvor $x$ er snorens længde målt i meter, og $f(x)$ er svigningstiden i sekunder.
+
+a. Beregn svigningstiden af et pendul med en snorlængde på 2 meter.
+b. Hvor mange % øges svigningstiden, hvis snorlængden øges 50%?
+c. Hvor mange % skal snorlængden øges, hvis svigningstiden fordobles?

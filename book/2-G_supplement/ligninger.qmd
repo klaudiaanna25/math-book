@@ -200,3 +200,11 @@ d. $x^5-5x^4+10x^3-10x^2+15x-1=0$
 ## Vink
 En $n$-gradspolynomium har op til $n$ løsninger, altså andengradspolynomium har op til 2 løsninger, en tredjegradspolynomium har op til 3 løsninger, osv. 
 Graden for et polynomium bestemmes af den højeste potens i ligningen.
+
+##
+Parallelforskyd $f(x)=x^2$ for at opnå en andengradspolynomium, hvis graf har et toppunkt i 
+
+a. (2,7)
+b. (8,-4)
+c. (-3,5)
+d. (-1,-6)

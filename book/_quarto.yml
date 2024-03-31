@@ -42,10 +42,19 @@ book:
         - 2-G_supplement/reduktion.qmd
         - 2-G_supplement/kvadratsaetninger.qmd
         - 2-G_supplement/lineaere_funktioner.qmd
+        - 2-G_supplement/eksponentiel_vaekst.qmd
+        - 2-G_supplement/potensfunktioner.qmd
+        - 2-G_supplement/log_funktioner.qmd
         - 2-G_supplement/procent.qmd
         - 2-G_supplement/vektorer.qmd
+        - 2-G_supplement/skalarprodukt.qmd
+        - 2-G_supplement/tvaervektor.qmd
+        - 2-G_supplement/projektion.qmd
+        - 2-G_supplement/vektorer_opsum.qmd
         - 2-G_supplement/toligninger.qmd
-        - 2-G_supplement/eksponentiel_vaekst.qmd
+        - 2-G_supplement/diff_regning.qmd
+        - 2-G_supplement/tangent.qmd
+        - 2-G_supplement/monotoniforhold.qmd
     - part: bilag/0.index.qmd
       chapters:
         - bilag/multiplikationstabel.qmd

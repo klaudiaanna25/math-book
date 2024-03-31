@@ -1,0 +1,58 @@
+# Monotoniforhold
+Monotoniforhold for en funktion bestemmes ved at afledede den funktion, og finde rødder for den afledede funktion.
+
+## Eksempel
+Bestem monotoniforhold for funktionen $f(x) = 2x^3+5x^2-3x-6$:
+
+Vi starter med at differentiere funktionen:
+$$
+f'(x) = 2 \cdot 3x^2 + 5 \cdot 2x -3
+= 6x^2 + 10x -3
+$$
+
+Der findes rødder vha diskriminantmetoden:
+$$
+d = b^2 - 4ac 
+= 10^2 - 4 \cdot (-3) \cdot 6
+= 100 + 72
+= 172 
+$$
+
+$$
+x = \frac{-b \pm \sqrt{d}}{2a}
+= \frac{-10 \pm \sqrt{172}}{12}
+= \begin{cases}
+\frac{-10+13.11}{12} & \approx 0.26 \\
+\frac{-10-13.11}{12} & \approx -1.93
+\end{cases}
+$$
+
+Siden den afledede funktion er en andengradspolynomium med positiv $a$ (grafen er "smilende"), kan vi antage at grafen for $f'(x)$ er positiv for $]-\infty, -1.93[$, negativ for $]-1.93, 0.26[$ og igen positiv for $]0.26, \infty[$. 
+
+Udfra dette, kan vi konkludere, at funktionen $f(x)$ er 
+
+- voksende i intervallet $]-\infty, -1.93[$,
+- har toppunkt i $(-1.93, f(-1.93))$,
+- aftagende i intervallet $]-1.93, 0.26[$,
+- har toppunkt i $(0.26, f(0.26))$,
+- voksende i intervallet $]0.26, \infty[$. 
+
+Visuel repræsentation af monotoniforholdene:
+![](grafer/monotoniforhold.png)
+
+##
+Bestem, uden CAS, monotoniforholdene for funktionerne:
+
+a. $f_1(x)=2x^2-5x+2$
+b. $f_2(x)=-x^2+4x+1$
+c. $f_3(x)=6x^2-x-10$
+d. $f_4(x)=2x^3-3x^2$
+
+##
+Benyt differentialregning til at bestemme monotoniforholdene for nedenstående funktioner.
+Brug CAS som ligningsløser.
+
+a. $g_1(x)=x^3-x^2$
+b. $g_2(x)=0.3x^3-0.1x^2-x+1$
+c. $g_3(x)=x^3 \cdot e^x$
+d. $g_4(x)=3\sin(0.5x+4)+1, 0 \leq x \leq 10$

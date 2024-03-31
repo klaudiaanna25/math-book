@@ -1,0 +1,129 @@
+# Tværvektor, determinant og arealer
+{{< include /qpreamble.qmd >}}
+
+Vektor $\vc{a}$ og $\vc{b}$ gives ved koordinaterne:
+$$
+\begin{gather}
+& \vc{a} = \vciip{a_1}{a_2} 
+& \vc{b} = \vciip{b_1}{b_2}
+\end{gather}
+$$
+
+## Tværvektor
+Når en vektor $\vc{a}$ drejes $90^{\circ}$ i positiv omløbsretning, fremkommer dens **tværvektor** $\hat{\vc{a}} = \vciip{-a_2}{a_1}$.
+
+### Eksempel
+Ud fra vektor
+$$
+\vc{p} = \vciip{3}{5}
+$$
+
+kan vi danne tværvektoren
+$$
+\hat{\vc{p}} = \vciip{-5}{3}
+$$
+
+## Determinanten af to vektorer
+$$
+\det(\vc{a}, \vc{b})
+= \hat{\vc{a}} \cdot \vc{b}
+= 
+\begin{vmatrix}
+a_1 & b_1 \\ 
+a_2 & b_2
+\end{vmatrix}
+= a_1b_2 - a_2b_1
+$$
+
+### Eksempel
+Hvis $\vc{a} = \vciip{4}{2}$ og $\vc{b}=\vciip{7}{1}$, er determinanten:
+$$
+\det(\vc{a}, \vc{b}) = 
+\begin{vmatrix}
+4 & 7 \\
+2 & 1
+\end{vmatrix}
+= 4 \cdot 1 - 2 \cdot 7
+= 4 - 14
+= -10
+$$
+
+## Arealer:
+- Arealet A af det parallelogram, som to vektorer udspænder:
+$$
+A = \mfabs{\det(\vc{a}, \vc{b})}
+$$
+
+- Arealet T af det trekant to vektorer udpsænder:
+$$
+T= \frac{1}{2} \mfabs{\det(\vc{a}, \vc{b})}
+$$
+
+![](grafer/arealer.png)
+
+- Arealet $T_{ABC}$ af trekanten med hjørner i punkterne A, B og C: 
+$$
+T_{ABC} = \frac{1}{2} \mfabs{\det(\vc{AB}, \vc{AC})}
+$$
+
+![](grafer/arealer-ABC.png)
+
+## Parallele vektorer
+To egentlige vektorer $\vc{a}$ og $\vc{b}$ er parallele, hvis og kun hvis $\det(\vc{a}, \vc{b})=0$.
+
+##
+Angiv koordinaterne til tværvektorerne
+
+a. $\vc{a} = \vciip{9}{2}$
+b. $\vc{p} = \vciip{-5}{11}$
+c. $\vc{v} = \vciip{-4}{-7}$
+d. $\vc{w} = \vciip{0}{-100}$
+
+##
+Beregn determinanten af vektorerne
+
+a. $\vc{a}=\vciip{3}{6}$ og $\vc{b}=\vciip{3}{9}$
+b. $\vc{p}=\vciip{-2}{8}$ og $\vc{q}=\vciip{5}{9}$
+c. $\vc{c}=\vciip{10}{4}$ og $\vc{d}=\vciip{3}{1}$
+d. $\vc{v}=\vciip{5}{1}$ og $\vc{w}=\vciip{6}{-3}$
+
+##
+Beregn arealet af det parallelogram, vektorerne udspænder
+
+a. $\vc{a}=\vciip{1}{3}$ og $\vc{b}=\vciip{1}{5}$
+b. $\vc{p}=\vciip{4}{2}$ og $\vc{q}=\vciip{10}{9}$
+c. $\vc{c}=\vciip{3}{-2}$ og $\vc{d}=\vciip{2}{-4}$
+d. $\vc{v}=\vciip{4}{-2}$ og $\vc{w}=\vciip{1}{-4}$
+
+##
+Beregn arealet af den trekant, vektorerne udspænder
+
+a. $\vc{a}=\vciip{5}{2}$ og $\vc{b}=\vciip{3}{4}$
+b. $\vc{p}=\vciip{2}{-2}$ og $\vc{q}=\vciip{7}{4}$
+c. $\vc{c}=\vciip{3}{-1}$ og $\vc{d}=\vciip{1}{-3}$
+d. $\vc{v}=\vciip{3}{-4}$ og $\vc{w}=\vciip{-2}{-3}$
+
+##
+Beregn arealet af trekanten med hjørner i punkterne
+
+a. A(1,1), B(6,2) og C(3,9)
+b. A(-6,-9), B(-7,-4) og C(2,8)
+c. A(3,-6), B(-9,2) og C(1,1)
+d. A(-5,2), B(-9,-4) og C(1,-7)
+
+##
+Hvilke af de nedenstående vektorpar er parallelle?
+
+a. $\vc{a}=\vciip{2}{3}$ og $\vc{b}=\vciip{8}{12}$
+b. $\vc{p}=\vciip{9}{1}$ og $\vc{q}=\vciip{3}{4}$
+c. $\vc{c}=\vciip{-3}{1}$ og $\vc{d}=\vciip{3}{10}$
+d. $\vc{v}=\vciip{3}{-1}$ og $\vc{w}=\vciip{-6}{2}$
+
+##
+Bestem $k$ så vektorerne bliver parallelle. 
+Facit er heltal eller brøker.
+
+a. $\vc{a}=\vciip{k}{6}$ og $\vc{b}=\vciip{8}{2}$
+b. $\vc{p}=\vciip{9}{1}$ og $\vc{q}=\vciip{3}{k}$
+c. $\vc{c}=\vciip{-3}{k}$ og $\vc{d}=\vciip{3}{10}$
+d. $\vc{v}=\vciip{-3}{-4}$ og $\vc{w}=\vciip{k}{-8}$

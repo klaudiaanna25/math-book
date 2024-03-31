@@ -1,0 +1,68 @@
+# Logaritmefunktioner
+
+## 10-talslogartimen
+$$
+\begin{gather}
+& \log(10^x) = x
+& \text{og}
+& 10^{\log(x)} = x 
+\end{gather}
+$$
+
+### Eksempel
+$$
+\log(1000) = \log(10^3) = 3
+$$
+
+## Den naturlige logaritme
+$$
+\begin{gather}
+& \ln(e^x)=x
+& \text{og}
+& e^{\ln(x)} = x
+\end{gather}
+$$
+
+### Eksempel
+$$
+e^{\ln(9)}=9
+$$
+
+## 
+Bestem uden brug af CAS
+$$
+\begin{gather}
+&
+\begin{aligned}
+&\text{a.} \ \log(10^{5}) \\
+&\text{b.} \ \log(10^{-3}) \\
+&\text{c.} \ 10^{\log(2)} \\
+&\text{d.} \ 10^{\log(100)} \\
+&\text{e.} \ \ln(e^{5}) \\
+&\text{f.} \ \ln(e^{-10}) \\
+&\text{g.} \ \ln(e) \\
+&\text{h.} \ \ln(1) \\
+&\text{i.} \ \log(100) \\
+&\text{j.} \ \log(10000) \\
+&\text{k.} \ \log(0.01) \\
+&\text{l.} \ \log(0.000001) \\
+&\text{m.} \  \\
+\end{aligned}
+&
+\begin{aligned}
+&\text{n.} \  \\
+&\text{o.} \  \\
+&\text{p.} \  \\
+&\text{q.} \  \\
+&\text{r.} \  \\
+&\text{s.} \  \\
+&\text{t.} \  \\
+&\text{u.} \  \\
+&\text{v.} \  \\
+&\text{w.} \  \\
+&\text{x.} \  \\
+&\text{y.} \  \\
+&\text{z.} \  \\
+\end{aligned}
+\end{gather}
+$$

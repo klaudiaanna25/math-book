@@ -1,0 +1,35 @@
+# Projektion af vektor på vektor
+{{< include /qpreamble.qmd >}}
+
+## Definition
+Projektion af $\vc{a}$ på $\vc{b}$ beregnes ved:
+$$
+\vc{a}_{\vc{b}} = \frac{\vc{a} \cdot \vc{b}}{\mfabs{\vc{b}}^2} \vc{b}
+$$
+
+![](grafer/projektion.png)
+
+### Eksempel
+Projektionen af vektor $\vc{a}=\vciip{2}{3}$ på vektor $\vc{b}=\vciip{4}{-1}$:
+$$
+\begin{aligned}
+\vc{a}_{\vc{b}} &= \frac{\vciip{2}{3} \cdot \vciip{4}{-1}}{\sqrt{4^2+(-1)^2}^2} \cdot \vciip{4}{-1}
+= \frac{2 \cdot 4 + 3 \cdot (-1)}{16+1} \cdot \vciip{4}{-1}
+= \frac{5}{17} \vciip{4}{-1} \\
+&\approx \vciip{1.18}{-0.29}
+\end{aligned}
+$$
+
+##
+Beregn nedenstående projektioner uden hjælpemidler
+
+a. $\vc{a}=\vciip{14}{10}$ projiceret på $\vc{b}=\vciip{1}{0}$, dvs. vektor $\vc{a}_{\vc{b}}$
+b. $\vc{c}=\vciip{9}{-16}$ projiceret på $\vc{d}=\vciip{0}{1}$, dvs. vektor $\vc{c}_{\vc{d}}$
+c. $\vc{p}=\vciip{2}{10}$ projiceret på $\vc{q}=\vciip{1}{1}$, dvs. vektor $\vc{p}_{\vc{q}}$
+
+##
+Beregn nedenstående projektioner med hjælpemidler
+
+a. $\vc{a}=\vciip{4}{1}$ projiceret på $\vc{b}=\vciip{9}{5}$
+b. $\vc{c}=\vciip{8}{-5}$ projiceret på $\vc{d}=\vciip{5}{-9}$
+c. $\vc{p}=\vciip{10}{-6}$ projiceret på $\vc{q}=\vciip{-8}{-3}$

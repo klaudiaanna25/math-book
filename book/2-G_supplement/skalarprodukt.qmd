@@ -1,0 +1,102 @@
+# Skalarprodukt og vinkel mellem vektorer
+{{< include /qpreamble.qmd >}}
+
+Vektor $\vc{a}$ og $\vc{b}$ er givet ved koordinaterne
+$$
+\begin{gather}
+& \vc{a} = \vciip{a_1}{a_2}
+& \vc{b} = \vciip{b_1}{b_2}
+\end{gather}
+$$
+
+## Definition - skalarprodukt
+Skalarproduktet, også kaldes for prikproduktet, af to vektorer er defineret ved:
+$$
+\vc{a} \cdot \vc{b}
+= \vciip{a_1}{a_2} \cdot \vciip{b_1}{b_2}
+= a_1b_1 + a_2b_2
+$$
+
+### Eksempel
+$$
+\vciip{3}{-2} \cdot \vciip{9}{4}
+= 3 \cdot 9 + (-2) \cdot 4
+= 27 - 8
+= 19
+$$
+
+## Ortogonale vektorer
+Skalarproduktet mellem to egentlige vektorer er nul, hvis og kun hvis vektorerne er ortogonale.
+
+### Eksempel
+Vektorerne $\vc{v} = \vciip{5}{2}$ og $\vc{w} = \vciip{4}{-10}$ er ortogonale (de danner en $90^{\circ}$ vinkel) fordi
+$$
+\vc{v} \cdot \vc{w}
+= \vciip{5}{2} \cdot \vciip{4}{-10}
+= 5 \cdot 4 + 2 \cdot (-10)
+= 20 - 20
+= 0
+$$
+
+## Vinkel mellem to vektorer
+Vinklen $v$ mellem to vektorer kan beregnes med formlen:
+$$
+\cos(v) = \frac{\vc{a}\cdot \vc{b}}{\mfabs{\vc{a}} \cdot \mfabs{\vc{b}}}
+$$
+
+### Eksempel
+Vi vil beregne vinklen mellem vektorerne $\vc{c}=\vciip{1}{2}$ og $\vc{d}=\vciip{5}{-3}$:
+$$
+v=\cos^{-1} \mf{\frac{\vciip{1}{2} \cdot \vciip{5}{-3}}{\sqrt{1^2+2^2} \cdot \sqrt{5^2+(-3)^2}}}
+= 94.4^{\circ}
+$$
+
+### Eksempel
+To vektorer er givet ved koordinaterne $\vc{p}=\vciip{5}{t}$ og $\vc{q}=\vciip{6}{10}$. Hvad skal $t$ være, for at vektorerne er ortogonale? 
+Hvis prikproduktet er nul, er vektorerne ortogonale.
+Det giver os en ligning:
+$$
+\begin{aligned}
+\vc{p} \cdot \vc{q} &= 0 \\
+\vciip{5}{t} \cdot \vciip{6}{10} &= 0 \\
+5 \cdot 6 + t \cdot 10 &= 0 \\
+30 + 10t &= 0 \\
+10t &= -30 \\
+t &= -3
+\end{aligned}
+$$ 
+
+**Konklusion:** Vektorerne er ortogonale, når $t=-3$
+
+##
+Beregn skalarproduktet af vektorerne
+
+a. $\vc{a}=\vciip{3}{6}$ og $\vc{b}=\vciip{3}{9}$
+b. $\vc{a}=\vciip{-2}{8}$ og $\vc{b}=\vciip{5}{9}$
+c. $\vc{a}=\vciip{10}{4}$ og $\vc{b}=\vciip{3}{1}$
+d. $\vc{a}=\vciip{5}{1}$ og $\vc{b}=\vciip{6}{-3}$
+
+##
+Afgør, om vektorerne er ortogonale
+
+a. $\vc{a}=\vciip{1}{2}$ og $\vc{b}=\vciip{-2}{1}$
+b. $\vc{a}=\vciip{9}{8}$ og $\vc{b}=\vciip{10}{3}$
+c. $\vc{a}=\vciip{10}{1}$ og $\vc{b}=\vciip{1}{9}$
+d. $\vc{a}=\vciip{-9}{-6}$ og $\vc{b}=\vciip{2}{-3}$
+
+##
+Beregn vinklen mellem vektorerne
+
+a. $\vc{a}=\vciip{1}{6}$ og $\vc{b}=\vciip{-4}{4}$
+b. $\vc{a}=\vciip{9}{4}$ og $\vc{b}=\vciip{8}{8}$
+c. $\vc{a}=\vciip{6}{10}$ og $\vc{b}=\vciip{8}{-6}$
+d. $\vc{a}=\vciip{4}{7}$ og $\vc{b}=\vciip{9}{2}$
+
+##
+Bestem $t$, så vektorerne bliver ortogonale. Facit er er heltal eller brøker
+
+a. $\vc{a}=\vciip{3}{t}$ og $\vc{b}=\vciip{-6}{9}$
+b. $\vc{a}=\vciip{7}{2}$ og $\vc{b}=\vciip{6}{t}$
+c. $\vc{a}=\vciip{2t}{-9}$ og $\vc{b}=\vciip{8}{5}$
+d. $\vc{a}=\vciip{4}{7}$ og $\vc{b}=\vciip{2}{3t}$
+

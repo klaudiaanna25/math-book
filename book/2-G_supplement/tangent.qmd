@@ -1,0 +1,27 @@
+# Tangentensligning
+
+## Definition
+Tangent for en funktion $f$ i et punkt $P(x_0, f(x_0))$ bestemmes vha den følgende formel:
+$$
+y = f'(x_0) \cdot (x-x_0) + f(x_0)
+$$
+
+##
+Bestem, uden CAS, ligningen for tangenten i punktet $(x_0, f(x_0))$, når
+
+a. $f(x)=x^2$ og $x_0=1$
+b. $f(x)=2x^2-5$ og $x_0=2$
+c. $f(x)=\dfrac{1}{x}$ og $x_0=-1$
+d. $f(x)=\sqrt{x}$ og $x_0=4$
+e. $f(x)=x^3+3$ og $x_0=2$    
+f. $f(x)=\ln(x)$ og $x_0=1$    
+g. $f(x)=\dfrac{1}{x}+x^2$ og $x_0=2$    
+h. $f(x)=\sin(3x)$ og $x_0=0$    
+
+##
+Bestem, med CAS, ligningen for tangenten i punktet $(x_0, f(x_0))$, når
+
+a. $f(x)=2x^{0.3}$ og $x_0=5$
+b. $f(x)=0.5e^{0.2x}$ og $x_0=1$
+c. $f(x)=3\sin(5x-2)+4$ og $x_0=10$
+d. $f(x)=\dfrac{1}{x^3-x^2}$ og $x_0=2$

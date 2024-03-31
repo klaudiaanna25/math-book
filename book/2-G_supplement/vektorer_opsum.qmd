@@ -1,0 +1,38 @@
+# Vektorer - Blandet
+{{< include /qpreamble.qmd >}}
+
+![](grafer/vektor-opg.png)
+
+##
+I koordinatsystemet er der tegnet repræsentanter for vektorerne $\vc{a}$, $\vc{b}$, $\vc{c}$, $\vc{d}$, $\vc{e}$ og $\vc{f}$.
+Vektor $\vc{a}$'s koordinater kan aflæses til $\vc{a}= \vciip{2}{-4}$.
+
+a. Bestem resten af vektorernes koordinater.
+
+##
+Med de samme vektorer som ovenfor, beregn
+
+a. $\vc{a}+\vc{f}$
+b. $4\vc{b}$
+c. $\vc{c}-\vc{b}$
+d. $3\vc{a}+4\vc{b}-\vc{c}$
+e. $\vc{a} \cdot \vc{d}$
+f. $\vc{f} \cdot \vc{e}$
+g. $\det(\vc{c},\vc{b})$
+h. $\det(\vc{b}, \vc{a})$
+i. Længden af $\vc{d}$
+j. Længden af $\vc{a}$
+k. Vinklen mellem $\vc{f}$ og $\vc{b}$
+l. Vinklen mellem $\vc{a}$ og $\vc{c}$
+m. Arealet af parallelogrammet udspændt af $\vc{f}$ og $\vc{d}$
+n. Arealet af parallelogrammet udspændt af $\vc{c}$ og $\vc{a}$
+o. Arealet af trekanten udspændt af $\vc{f}$ og $\vc{e}$
+p. Arealet af trekanten udspændt af $\vc{d}$ og $\vc{a}$
+
+##
+Afgør vha. skalarproduktet eller determinanten,
+
+a. Er vektor $\vc{a}$ og $\vc{f}$ ortogonale?
+b. Er vektor $\vc{d}$ og $\vc{f}$ ortogonale?
+c. Er vektor $\vc{c}$ og $\vc{b}$ ortogonale?
+d. Er vektor $\vc{a}$ og $\vc{d}$ parallelle?
