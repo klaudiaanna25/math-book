@@ -3,9 +3,10 @@
 ## Definition
 Husk at lighedstegnet udtrykker en balance mellem talstørrelserne på hver side af det.
 
-## Opgaver
 
-### Løs ligningerne:
+
+##
+ Løs ligningerne:
 $$
 \begin{gather}
 &
@@ -43,7 +44,8 @@ $$
 \end{gather}
 $$
 
-### Løs ligningerne:
+##
+Løs ligningerne:
 $$
 \begin{gather}
 &
@@ -81,7 +83,8 @@ $$
 \end{gather}
 $$
 
-### Løs ligningerne:
+## 
+Løs ligningerne:
 $$
 \begin{gather}
 &
@@ -119,7 +122,8 @@ $$
 \end{gather}
 $$
 
-### Find fejlen og skriv omformningen korrekt:
+## 
+Find fejlen og skriv omformningen korrekt:
 
 $$
 \begin{gather}
@@ -238,7 +242,8 @@ $$
 \end{gather}
 $$
 
-### Find to fejl og skriv omformningen korrekt:
+##
+Find to fejl og skriv omformningen korrekt:
 $$
 \begin{gather}
 &
@@ -269,7 +274,8 @@ $$
 \end{gather}
 $$
 
-### Isolér $n$ i nedenstående udtryk:
+## 
+Isolér $n$ i nedenstående udtryk:
 $$
 \begin{aligned}
 &\text{a.} \ T= 3M+4n \\
@@ -281,7 +287,8 @@ $$
 \end{aligned}
 $$
 
-### Isolér $M$ i nedenstående udtryk:
+## 
+Isolér $M$ i nedenstående udtryk:
 $$
 \begin{aligned}
 &\text{a.} \ 2N = 0.3M \\
@@ -290,8 +297,7 @@ $$
 \end{aligned}
 $$
 
-## Ligninger og parenteser
-**Eksempel:**
+## Eksempel - Ligninger og parenteser
 $$
 \begin{gather}
 &
@@ -313,8 +319,8 @@ x&=3 \\
 \end{gather}
 $$
 
-### Løs ligningerne
-og vis alle mellemregningerne, så det er tydeligt, hvordan du har tænkt.
+## 
+Løs ligningerne og vis alle mellemregningerne, så det er tydeligt, hvordan du har tænkt.
 
 $$
 \begin{gather}

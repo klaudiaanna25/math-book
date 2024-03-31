@@ -20,7 +20,7 @@ $$
 \end{gather}
 $$
 
-## Eksempler
+### Eksempler
 $3^{-2}=\frac{1}{3^2}$
 
 $4^3 \cdot 4^{-3} = 4^3 \cdot \frac{1}{4^3} = 1$
@@ -29,9 +29,8 @@ $16^{-\frac{1}{4}} = \frac{1}{16^{\frac{1}{4}}} = \frac{1}{\sqrt[4]{16}} = \frac
 
 $(3^4)^{\frac{1}{2}} = 3^{4 \cdot \frac{1}{2}} = 3^2 = 9$
 
-## Opgaver
-
-### Udregn tallet
+##
+Udregn tallet
 $$
 \begin{gather}
 &
@@ -72,7 +71,8 @@ $$
 \end{gather}
 $$
 
-### Udregn tallet
+##
+Udregn tallet
 $$
 \begin{gather}
 &
@@ -113,7 +113,8 @@ $$
 \end{gather}
 $$
 
-### Udregn tallet
+##
+Udregn tallet
 $$
 \begin{gather}
 &
@@ -154,7 +155,8 @@ $$
 \end{gather}
 $$
 
-### Brug potensregneregler til at reducere udtrykkerne mest muligt:
+##
+Brug potensregneregler til at reducere udtrykkerne mest muligt:
 $$
 \begin{gather}
 &
@@ -195,7 +197,8 @@ $$
 \end{gather}
 $$
 
-### Brug potensregneregler til at reducere udtrykkerne mest muligt:
+##
+Brug potensregneregler til at reducere udtrykkerne mest muligt:
 $$
 \begin{gather}
 &
@@ -237,7 +240,8 @@ $$
 $$
 
 
-### Brug potensregneregler til at reducere udtrykkerne mest muligt:
+##
+Brug potensregneregler til at reducere udtrykkerne mest muligt:
 $$
 \begin{gather}
 &

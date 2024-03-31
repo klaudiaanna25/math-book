@@ -16,13 +16,12 @@ $$
 \tag{K.3}
 $$
 
-## Eksempel
+### Eksempel
 
 $$(a-3)^2 = a^2 + 3^2 - 2\cdot 3a = a^2-6a+9$$
 
-## Opgaver
-
-### Udregn:
+##
+Udregn:
 $$
 \begin{gather}
 &
@@ -60,7 +59,9 @@ $$
 \end{gather}
 $$
 
-### Beskriv fejlen og skriv udregningen korrekt:
+##
+Beskriv fejlen og skriv udregningen korrekt:
+
 a. $(x-6)^2 = x^2-6x+36$
 b. $(x+10)(x-10) = x^2 - 20x - 100$
 c. $(x-2)(x+2)=x^2+4x+4$

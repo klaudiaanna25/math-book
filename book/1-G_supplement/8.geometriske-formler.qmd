@@ -9,9 +9,9 @@
 | Rektangel med sidelængderne $l$ og $b$ | $A=l \cdot b$ | $O=2b+2l$|
 | Trekant med højde $h$ og grundlinje $g$ | $A=\dfrac{1}{2}h \cdot g$ | $O=s_1 + s_2 + s_3$ | 
 
-## Opgaver
+##
+Udregn arealet af
 
-### Udregn arealet af
 a. en cirkel med radius 3
 b. en trekant, hvor $h=3$ og $g=6$
 c. et kvadrat, hvor $s=5$
@@ -21,7 +21,9 @@ f. en trekant, hvor $h=6$ og $g=3$
 g. et kvadrat, hvor $s=2$
 h. et rektangel med $l=2.5$ og $b=2$
 
-### Udregn omkredsen af
+##
+Udregn omkredsen af
+
 a. en cirkel med $r=2$
 b. en trekant, hvor $s_1=3, s_2=4$ og $s_3=5$
 c. et kvadrat, hvor $s=5$
@@ -31,7 +33,9 @@ f. en trekant, hvor $s_1=1, s_2=2$ og $s_3=1.5$
 g. et kvadrat, hvor $s=2.25$
 h. et rektangel med $l=9$ og $b=12.5$
 
-### Udregn
+##
+Udregn
+
 a. omkredsen af en cirkel, hvor $r=1$
 b. arealet af en trekant, hvor $h=6$ og $g=10$
 c. arealet af et kvadrat, hvor $s=1$
@@ -41,7 +45,9 @@ f. arealet af en trekant, hvor $h=60$ og $g=4$
 g. arealet af et kvadrat, hvor $s=8$
 h. omkredsen af et rektangel, hvor $l=4$ og $b=5$
 
-### Isoler
+##
+Isoler
+
 a. $l$ i formlen $A=l \cdot b$
 b. $b$ i formlen $A=l \cdot b$
 c. $s$ i formlen $O=4\cdot s$

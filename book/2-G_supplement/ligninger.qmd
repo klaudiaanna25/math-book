@@ -67,83 +67,14 @@ $$
 \end{gather}
 $$
 
-##
-Løs følgende ligninger i hånden
-$$
-\begin{gather}
-&
-\begin{aligned}
-&\text{a.} \ 3(x+4)=-3x-6 \\
-&\text{b.} \ 4(x-4)+x=9 \\
-&\text{c.} \ \\
-&\text{d.} \ \\
-&\text{e.} \ \\
-&\text{f.} \ \\
-&\text{g.} \ \\
-&\text{h.} \ \\
-&\text{i.} \ \\
-&\text{j.} \ \\
-&\text{k.} \ \\
-&\text{l.} \ \\
-&\text{m.} \ \\
-\end{aligned}
-&
-\begin{aligned}
-&\text{n.} \ \\
-&\text{o.} \ \\
-&\text{p.} \ \\
-&\text{q.} \ \\
-&\text{r.} \ \\
-&\text{s.} \ \\
-&\text{t.} \ \\
-&\text{u.} \ \\
-&\text{v.} \ \\
-&\text{w.} \ \\
-&\text{x.} \ \\
-&\text{y.} \ \\
-&\text{z.} \ \\
-\end{aligned}
-\end{gather}
-$$
 
 ##
 Løs følgende andengradsligninger med diskriminantmetoden
-$$
-\begin{gather}
-&
-\begin{aligned}
-&\text{a.} \ x^2+8x+16=0 \\
-&\text{b.} \ 3x^2-3x-6=0 \\
-&\text{c.} \ x^2+6x+5=0 \\
-&\text{d.} \ x^2+8x-20=0 \\
-&\text{e.} \ \\
-&\text{f.} \ \\
-&\text{g.} \ \\
-&\text{h.} \ \\
-&\text{i.} \ \\
-&\text{j.} \ \\
-&\text{k.} \ \\
-&\text{l.} \ \\
-&\text{m.} \ \\
-\end{aligned}
-&
-\begin{aligned}
-&\text{n.} \ \\
-&\text{o.} \ \\
-&\text{p.} \ \\
-&\text{q.} \ \\
-&\text{r.} \ \\
-&\text{s.} \ \\
-&\text{t.} \ \\
-&\text{u.} \ \\
-&\text{v.} \ \\
-&\text{w.} \ \\
-&\text{x.} \ \\
-&\text{y.} \ \\
-&\text{z.} \ \\
-\end{aligned}
-\end{gather}
-$$
+
+a. $x^2+8x+16=0$
+b. $3x^2-3x-6=0$
+c. $x^2+6x+5=0$
+d. $x^2+8x-20=0$
 
 ## Eksempel - Tjek af løsningen
 Vi vil undersøge, om $x=2$ er løsning til tredjegradsligningen $x^3+9x^2+2x-48=0$.

@@ -9,7 +9,7 @@ $$
 a = \frac{y_2-y_1}{x_2-x_1}
 $$
 
-![](grafer/h%C3%A6ldningskoefficient.png)
+![](grafer/haeldning.png)
 
 ##
 Angiv hældningskoefficient og koordinaterne til grafens skæringspunkt med y-aksen for følgende lineære funktioner.

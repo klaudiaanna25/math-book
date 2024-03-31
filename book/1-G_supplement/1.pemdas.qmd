@@ -9,9 +9,9 @@
 - **A**ddition $a+b$
 - **S**ubtraktion $a-b$
 
-## Opgaver
 
-### Udregn:
+##
+ Udregn:
 $$ 
 \begin{gather}
 &
@@ -49,7 +49,8 @@ $$
 \end{gather}
 $$
 
-### Udregn:
+## 
+Udregn:
 $$
 \begin{gather}
 &

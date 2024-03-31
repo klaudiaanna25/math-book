@@ -40,29 +40,15 @@ $$
 &\text{d.} \ 10^{\log(100)} \\
 &\text{e.} \ \ln(e^{5}) \\
 &\text{f.} \ \ln(e^{-10}) \\
+\end{aligned}
+&
+\begin{aligned}
 &\text{g.} \ \ln(e) \\
 &\text{h.} \ \ln(1) \\
 &\text{i.} \ \log(100) \\
 &\text{j.} \ \log(10000) \\
 &\text{k.} \ \log(0.01) \\
 &\text{l.} \ \log(0.000001) \\
-&\text{m.} \  \\
-\end{aligned}
-&
-\begin{aligned}
-&\text{n.} \  \\
-&\text{o.} \  \\
-&\text{p.} \  \\
-&\text{q.} \  \\
-&\text{r.} \  \\
-&\text{s.} \  \\
-&\text{t.} \  \\
-&\text{u.} \  \\
-&\text{v.} \  \\
-&\text{w.} \  \\
-&\text{x.} \  \\
-&\text{y.} \  \\
-&\text{z.} \  \\
 \end{aligned}
 \end{gather}
 $$

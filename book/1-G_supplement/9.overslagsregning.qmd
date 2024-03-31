@@ -6,7 +6,7 @@ Når du adderer eller multiplicerer to tal - rund den ene op, og det andet ned.
 
 Når du subtraherer eller dividerer - rund begge op eller begge ned.
 
-## Eksempler
+### Eksempler
 
 - 443+254
     - første led rundes op, det andet rundes ned, så vi har 450+250 = 700
@@ -17,9 +17,10 @@ Når du subtraherer eller dividerer - rund begge op eller begge ned.
 - $\dfrac{653}{9}$
     - begge rundes op, så vi har $\dfrac{700}{10}=7$
 
-## Opgaver
 
-### Udregn et overslag på
+
+##
+Udregn et overslag på
 $$
 \begin{gather}
 & 

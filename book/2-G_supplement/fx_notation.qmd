@@ -6,22 +6,29 @@ $$
 f(3)= 3^2-1 = 9-1 = 8
 $$
 
-## Lad $f(x)=3x-2$. Beregn følgende funktionsværdier uden CAS
+## 
+Lad $f(x)=3x-2$. 
+Beregn følgende funktionsværdier uden CAS
+
 a. $f(1)$
 b. $f(5)$
 c. $f(-2)$
 d. $f(0)$
 
-## Lad $g(x)=3 \cdot x^2$. Beregn følgende funktionsværdier uden CAS
+## 
+Lad $g(x)=3 \cdot x^2$. 
+Beregn følgende funktionsværdier uden CAS
+
 a. $g(1)$
 b. $g(2)$
 c. $g(-1)$
 d. $g(5)$
 
-## Lad $h(x) = 2 \cdot (x-3)^2$. Beregn følgende funktionsværdier uden CAS
+## 
+Lad $h(x) = 2 \cdot (x-3)^2$. 
+Beregn følgende funktionsværdier uden CAS
+
 a. $h(0)$
 b. $h(1)$ 
 c. $h(3)$
 d. $h(-3)$
-
-## 

@@ -11,9 +11,8 @@
 | Brøk divideret med brøk | $\dfrac{a}{b}:\dfrac{c}{d} = \dfrac{a}{b} \cdot \dfrac{d}{c} = \dfrac{a \cdot d}{b \cdot c}$ | $\dfrac{1}{2} : \dfrac{3}{4} = \dfrac{1}{2} \cdot \dfrac{4}{3} = \dfrac{4}{6} = \dfrac{2}{3}$ |
 | Tal divideret med brøk | $\dfrac{a}{\dfrac{b}{c}} = a \cdot \dfrac{c}{b}=\dfrac{a \cdot c}{b}$ | $4 : \dfrac{8}{9} = 4 \cdot \dfrac{9}{8} = \dfrac{36}{8} = \dfrac{9}{2}$ | 
 
-## Opgaver
-
-### Omskriv til decimaltal:
+##
+Omskriv til decimaltal:
 $$
 \begin{gather}
 & 
@@ -60,7 +59,8 @@ $$
 \end{gather}
 $$
 
-### Omskriv til decimaltal
+##
+Omskriv til decimaltal
 $$
 \begin{gather}
 &\text{a.} \ \frac{4}{1} 
@@ -71,7 +71,8 @@ $$
 \end{gather}
 $$
 
-### Forlæng brøkerne med 3:
+##
+Forlæng brøkerne med 3:
 $$
 \begin{gather}
 &\text{a.} \ \frac{5}{50}
@@ -81,7 +82,8 @@ $$
 \end{gather}
 $$
 
-### Forlæng brøkerne med 4:
+##
+Forlæng brøkerne med 4:
 $$
 \begin{gather}
 &\text{a.} \ \frac{3}{15} 
@@ -95,7 +97,8 @@ $$
 \end{gather}
 $$
 
-### Forlæng brøkerne med 5:
+##
+Forlæng brøkerne med 5:
 $$
 \begin{gather}
 &\text{a.} \ \frac{4}{10} 
@@ -104,7 +107,8 @@ $$
 \end{gather}
 $$
 
-### Forkort brøkerne med 2:
+##
+Forkort brøkerne med 2:
 $$
 \begin{gather}
 &\text{a.} \ \frac{24}{100}
@@ -124,7 +128,8 @@ $$
 \end{gather}
 $$
 
-### Forkort brøkerne med 4:
+##
+Forkort brøkerne med 4:
 $$
 \begin{gather}
 &\text{a.} \ \frac{4}{12} 
@@ -135,7 +140,8 @@ $$
 \end{gather}
 $$
 
-### Forkort brøkerne med 10:
+##
+Forkort brøkerne med 10:
 $$
 \begin{gather}
 &\text{a.} \ \frac{20}{220}
@@ -144,7 +150,8 @@ $$
 \end{gather}
 $$
 
-### Udregn og forkort hvis muligt:
+##
+Udregn og forkort hvis muligt:
 $$
 \begin{gather}
 &
@@ -188,7 +195,8 @@ $$
 \end{gather}
 $$
 
-### Udregn og forkort hvis muligt:
+##
+Udregn og forkort hvis muligt:
 $$
 \begin{gather}
 &
@@ -232,7 +240,8 @@ $$
 \end{gather}
 $$
 
-### Udregn og forkort mest muligt
+##
+Udregn og forkort mest muligt
 $$
 \begin{gather}
 &
@@ -276,7 +285,9 @@ $$
 \end{gather}
 $$
 
-### Udtryk følgende med brøker:
+##
+Udtryk følgende med brøker:
+
 a. "En halv er, tænk nu aparte, to tredjedele af tre kvarte". Piet Hein.
 b. Halvdelen af halvdelen er en kvart.
 c. En sjettedel af en halv er en tolvtdel.

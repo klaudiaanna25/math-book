@@ -4,13 +4,17 @@ Hvis man både skal vælge blandt $n$ muligheder og bland $m$ muligheder, er der
 ## Eksempel
 En restaurant tilbyder 5 forskellige hovedretter og 3 forskellige desserter. En gæst har altså mulighed for at sammensætte hovedret og dessert på $5 \cdot 3 = 15$ forskellige måder.
 
-## Hvor mange forskellige måder kan retterne sammensættes, hvis...
+## 
+Hvor mange forskellige måder kan retterne sammensættes, hvis...
+
 a. en restaurant tilbyder 8 forskellige hovedretter og 2 forskellige desserter?
 b. en restaurant tilbyder 7 forskellige hovedretter og 5 forskellige desserter?
 c. en restaurant tilbyder 4 forskellige forretter og 2 forskellige hovedretter?
 d. en restaurant tilbyder 3 forskellige forretter, 4 forskellige hovedretter og 2 forskellig desserter?
 
-## Hvor mange forskellige kombinationsmuligheder er der?
+## 
+Hvor mange forskellige kombinationsmuligheder er der?
+
 a. En isbar tilbyder 20 slags is, 5 slags krymmel og 2 slags marmelade.
 b. En kodelås har 3 hjul, hver med mulighed for ét  af de 10 cifre: 0, 1, 2, 3, 4, 5, 6, 7, 8 og 9.
 c. En nummerplade har 2 bogstaver først og derefter 5 cifre.
@@ -20,12 +24,16 @@ c. En nummerplade har 2 bogstaver først og derefter 5 cifre.
 
 $6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1$ kan skrives som $6!$, der læses som "6 fakultet". 
 
-## Hvor mange mulige rækkefølger er der hvis:
+## 
+Hvor mange mulige rækkefølger er der hvis:
+
 a. 4 elever skal stille sig i en kø?
 b. 8 elever skal stille sig i en kø?
 c. 20 elever skal stille sig i en kø?
 
-## Hvor mange forskellige rækkefølger kan hundende komme i mål på, hvis:
+## 
+Hvor mange forskellige rækkefølger kan hundende komme i mål på, hvis:
+
 a. der er 5 hunde i et hundevæddeløb?
 b. der er 9 hunde i et hundevæddeløb?
 c. der er 30 hunde i et hundevæddeløb?

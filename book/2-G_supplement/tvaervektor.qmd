@@ -48,7 +48,7 @@ $$
 = -10
 $$
 
-## Arealer:
+## Arealer
 - Arealet A af det parallelogram, som to vektorer udspænder:
 $$
 A = \mfabs{\det(\vc{a}, \vc{b})}

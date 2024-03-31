@@ -7,20 +7,29 @@ Først beregnes $f(1)$ som $f(1) = -2 \cdot 1^2 + 4 = -2+4 = 2$.
 
 Dernæst beregnes $g(1)$ som $g(1) = 3 \cdot f(1) + 15 = 3 \cdot 2 + 15 = 6+15 = 21$.
 
-## Lad $f(x)=5x-3$. Beregn følgende uden CAS.
+## 
+Lad $f(x)=5x-3$. 
+Beregn følgende uden CAS.
+
 a. $f(1)+10$
 b. $f(-2)+14$ 
 c. $3 \cdot f(2)$ 
 d. $-2 \cdot f(1)$
 
-## Lad $f(x)=2x+11$, og lad $g(x)=f(x)+10$. Beregn følgende uden CAS.
+## 
+Lad $f(x)=2x+11$, og lad $g(x)=f(x)+10$. 
+Beregn følgende uden CAS.
+
 a. $g(1)$
 b. $g(-2)$
 c. $g(0)$
 d. $g(3)$
 
-## Lad $g(x)=2x^2-3$, og lad $f(x)=5 \cdot g(x)$. Beregn følgende uden CAS
-a.$f(0)$
-b.$f(1)$
-c.$f(2)$
-d.$f(-1)$
+## 
+Lad $g(x)=2x^2-3$, og lad $f(x)=5 \cdot g(x)$. 
+Beregn følgende uden CAS
+
+a. $f(0)$
+b. $f(1)$
+c. $f(2)$
+d. $f(-1)$

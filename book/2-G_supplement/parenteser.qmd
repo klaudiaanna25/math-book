@@ -25,29 +25,15 @@ $$
 & \text{d.} \ -3(5a+12b) \\
 & \text{e.} \ 2+(5+x) \\
 & \text{f.} \ 3-(y+12) \\
+\end{aligned}
+&
+\begin{aligned}
 & \text{g.} \ a+2(4-3a) \\
 & \text{h.} \ -4(2x+8y)+x-2y \\
 & \text{i.} \ 2(x+5y)-3(y-6x) \\
 & \text{j.} \ 2(x^2+4x)-x^2-12 \\
 & \text{k.} \ 2b-3(b+4)+12 \\
 & \text{l.} \ 3a+8b-2(15a+3) -7 \\
-& \text{m.} \ \\
-\end{aligned}
-&
-\begin{aligned}
-& \text{n.} \ \\
-& \text{o.} \ \\
-& \text{p.} \ \\
-& \text{q.} \ \\
-& \text{r.} \ \\
-& \text{s.} \ \\
-& \text{t.} \ \\
-& \text{u.} \ \\
-& \text{v.} \ \\
-& \text{w.} \ \\
-& \text{x.} \ \\
-& \text{y.} \ \\
-& \text{z.} \ \\
 \end{aligned}
 \end{gather}
 $$

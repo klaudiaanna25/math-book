@@ -16,7 +16,8 @@ pass
 
 Den blå linje på figuren viser grafen for funktionen $f$. På figuren kan man aflæse funktionsværdien $f(6)$ xed at finde $x=6$, bevæge sig op til grafen, og dernæst bevæge sig vandret hen til y-aksen.
 
-## Figuren viser grafen for funktionen $g$. Aflæs følgende funktionsværdier. Alle facit er heltal.
+## 
+Figuren viser grafen for funktionen $g$. Aflæs følgende funktionsværdier. Alle facit er heltal.
 
 ```{python}
 sns.set()
@@ -34,7 +35,8 @@ b. $g(0)$
 c. $g(6)$
 d. $g(8)$
 
-## Figuren viser grafen for funktionen $f$. Aflæs følgende funktionsværdier. Alle facit er heltal.
+## 
+Figuren viser grafen for funktionen $f$. Aflæs følgende funktionsværdier. Alle facit er heltal.
 ```{python}
 sns.set()
 sns.set_style("whitegrid", {'grid.linestyle': '--'})
@@ -51,7 +53,9 @@ b. $f(0)$
 c. $f(4)$
 d. $f(8)$
 
-## Lad $f(x)=3x-11$
+## 
+Lad $f(x)=3x-11$
+
 a. Udfyld nedenstående tabel uden CAS
 
 | x | -2 | 0 | 2 | 4 | 6 |
@@ -60,7 +64,9 @@ a. Udfyld nedenstående tabel uden CAS
 
 b. Plot punkterne i et koordinatsystem (i hånden), og tjek, at de ligger på en ret linje.
 
-## Figuren viser grafen for funktionen $h$. Løs følgende ligninger vha. grafen. Alle løsninger er et heltal.
+## 
+Figuren viser grafen for funktionen $h$. Løs følgende ligninger vha. grafen. 
+Alle løsninger er et heltal.
 ```{python}
 sns.set()
 sns.set_style("whitegrid", {'grid.linestyle': '--'})
@@ -77,7 +83,10 @@ b. $h(x)=5$
 c. $h(x)=-1$
 d. $h(x)=7$
 
-## Figuren viser grafen for funktionen $f$. Løs følgende ligninger ved hjælp af grafen. Alle løsninger er heltal. Nogle a ligningerne har mere en én løsning. Opskriv dem alle.
+## 
+Figuren viser grafen for funktionen $f$. Løs følgende ligninger ved hjælp af grafen. Alle løsninger er heltal. 
+Nogle a ligningerne har mere en én løsning. 
+Opskriv dem alle.
 ```{python}
 sns.set()
 sns.set_style("whitegrid", {'grid.linestyle': '--'})
@@ -94,7 +103,10 @@ b. $f(x)=2$
 c. $f(x)=5$
 d. Hvilken af de følgende ligninger har ingen løsning: $f(x)=0$, eller $f(x)=7$?
 
-## Figuren viser graferne for tre funktioner, $f$, $g$ og $h$. Løs nedenstående ligninger ud fra graferne. Løsningerne er et heltal.
+## 
+Figuren viser graferne for tre funktioner, $f$, $g$ og $h$. 
+Løs nedenstående ligninger ud fra graferne. 
+Løsningerne er et heltal.
 
 ```{python}
 sns.set()

@@ -5,9 +5,8 @@
 
 Tallet $r$ kaldes **vækstraten**. Hvis der skal trækkes $r\cdot 100\%$ fra, er $r$ negativ.
 
-## Opgaver
-
-### Bestem vækstraten, når fremskrivningsfaktoren er
+##
+Bestem vækstraten, når fremskrivningsfaktoren er
 $$ 
 \begin{gather}
 & 
@@ -48,7 +47,8 @@ $$
 \end{gather}
 $$
 
-### Bestem fremskrivningsfaktoren, når vækstraten er
+##
+Bestem fremskrivningsfaktoren, når vækstraten er
 $$ 
 \begin{gather}
 & 
@@ -88,5 +88,3 @@ $$
 \end{aligned}
 \end{gather}
 $$
-
-

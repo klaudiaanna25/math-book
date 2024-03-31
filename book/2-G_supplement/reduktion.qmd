@@ -63,31 +63,12 @@ $$
 &\text{b.} \ (5x+2y)^2-x^2-20xy \\
 &\text{c.} \ (t-2s)(t+2s)+4s^2 \\
 &\text{d.} \ 5(s-t)^2 \\
-&\text{e.} \ 2(p-2q)^2-2p^2 \\
-&\text{f.} \ 3(a-b)(a+b)-a^2+2b^2 \\
-&\text{g.} \ 2xy+4(y-3x)^2+y^2 \\
-&\text{h.} \  \\
-&\text{i.} \  \\
-&\text{j.} \  \\
-&\text{k.} \  \\
-&\text{l.} \  \\
-&\text{m.} \  \\
 \end{aligned}
 &
 \begin{aligned}
-&\text{n.} \  \\
-&\text{o.} \  \\
-&\text{p.} \  \\
-&\text{q.} \  \\
-&\text{r.} \  \\
-&\text{s.} \  \\
-&\text{t.} \  \\
-&\text{u.} \  \\
-&\text{v.} \  \\
-&\text{w.} \  \\
-&\text{x.} \  \\
-&\text{y.} \  \\
-&\text{z.} \  \\
+&\text{e.} \ 2(p-2q)^2-2p^2 \\
+&\text{f.} \ 3(a-b)(a+b)-a^2+2b^2 \\
+&\text{g.} \ 2xy+4(y-3x)^2+y^2 \\
 \end{aligned}
 \end{gather}
 $$
@@ -116,31 +97,13 @@ $$
 &\text{b.} \ \frac{10 \cdot s^8 \cdot t}{5 \cdot s^4 \cdot t^{10}} \\
 &\text{c.} \ \frac{1500 \cdot p^{15} \cdot q}{500 \cdot p^2 \cdot q} \\
 &\text{d.} \ \left(\frac{a^3\cdot b^7}{a^5 \cdot b^3} \right)^2 \\
+\end{aligned}
+&
+\begin{aligned}
 &\text{e.} \ \frac{a+b}{a} \\
 &\text{f.} \ \frac{8x^2y^2 +4x^2}{2x^2} \\
 &\text{g.} \ \frac{p(q+p)}{p^2} \\
 &\text{h.} \ \frac{10 \cdot s^3 \cdot t^2 - 5 \cdot s^2 \cdot t}{5 \cdot s^2 \cdot t} \\
-&\text{i.} \  \\
-&\text{j.} \  \\
-&\text{k.} \  \\
-&\text{l.} \  \\
-&\text{m.} \  \\
-\end{aligned}
-&
-\begin{aligned}
-&\text{n.} \  \\
-&\text{o.} \  \\
-&\text{p.} \  \\
-&\text{q.} \  \\
-&\text{r.} \  \\
-&\text{s.} \  \\
-&\text{t.} \  \\
-&\text{u.} \  \\
-&\text{v.} \  \\
-&\text{w.} \  \\
-&\text{x.} \  \\
-&\text{y.} \  \\
-&\text{z.} \  \\
 \end{aligned}
 \end{gather}
 $$

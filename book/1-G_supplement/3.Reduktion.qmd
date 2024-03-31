@@ -7,9 +7,9 @@ $3a-b+2a$ kan reduceres til $5a-b$.
 
 $3a-b+2a^2$ kan ikke reduceres.
 
-## Opgaver
 
-### Reducer udtrykket mest muligt:
+##
+Reducer udtrykket mest muligt:
 $$
 \begin{gather}
 &
@@ -47,7 +47,8 @@ $$
 \end{gather}
 $$
 
-### Reducer udtrykket mest muligt:
+##
+Reducer udtrykket mest muligt:
 $$
 \begin{gather}
 &
@@ -85,7 +86,8 @@ $$
 \end{gather}
 $$
 
-### Reducer udtrykket mest muligt:
+##
+Reducer udtrykket mest muligt:
 
 $$
 \begin{gather}
