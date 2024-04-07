@@ -1,0 +1,32 @@
+services:
+  math-book:
+    image: ...
+
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+
+    deploy:
+      replicas: 1
+
+      placement:
+        max_replicas_per_node: 1
+
+      labels:
+        traefik.enable: "true"
+
+        # Router Config
+        traefik.http.routers.klaudia__math_book.rule: "Host(`klaudia.roza.is`) && PathPrefix(`/math-book/`)"
+        traefik.http.routers.klaudia__math_book.entrypoints: "web,websecure"
+        traefik.http.routers.klaudia__math_book.service: "klaudia__math_book"
+        traefik.http.services.klaudia__math_book.loadbalancer.server.port: 8787
+
+        # SSL Config
+        traefik.http.routers.klaudia_math-book.tls: "true"
+        traefik.http.routers.klaudia_math-book.tls.certresolver: "letsencrypt"
+
+    networks:
+      - mesh_public
+
+networks:
+  mesh_public:
+    external: true
