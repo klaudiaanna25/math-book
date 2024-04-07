@@ -25,6 +25,8 @@ book:
     - part: 1-G_book/0.index.qmd
       chapters: 
         - 1-G_book/1.modeller-og-variable.qmd
+        - 1-G_book/2.lineaere-funktioner.qmd
+        - 1-G_book/3.statistik.qmd
     - part: 2-G_supplement/0.index.qmd
       chapters:
         - 2-G_supplement/fx_notation.qmd
@@ -55,6 +57,9 @@ book:
         - 2-G_supplement/diff_regning.qmd
         - 2-G_supplement/tangent.qmd
         - 2-G_supplement/monotoniforhold.qmd
+    - part: 3-G_supplement/0.index.qmd
+      chapters:
+        - 3-G_supplement/diff-regning.qmd
     - part: bilag/0.index.qmd
       chapters:
         - bilag/multiplikationstabel.qmd

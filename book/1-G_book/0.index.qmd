@@ -1,17 +1,17 @@
 # Mat C pensum
 
-1. Modeller og variable
+1. [Modeller og variable](1.modeller-og-variable.qmd) 
     - ligninger og deres løsninger
     - overslagsregning og principskitser
     - modeller med to variable
 
-2. Lineære funktioner
+2. [Lineære funktioner](2.lineaere-funktioner.qmd)
     - beregning af $a$ og $b$ i forskriften $f(x)=ax+b$
     - lineære modeller
     - lineær regression
     - lineær regression og residualplot
 
-3. Statistik
+3. [Statistik](3.statistik.qmd)
     - Ikke-grupperede observationer
     - Diagrammer og kvartilsæt
     - Boksplot

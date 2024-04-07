@@ -1,0 +1,44 @@
+# Statistik
+
+## Ikke-grupperede observationer
+
+### Definitioner 
+
+1. **Stikprøve**
+
+En stikprøve består af nogle elementer udvalgt fra en population. 
+Populationen er den mængde, der er genstand for undersøgelsen. 
+Samlingen af observationer i stikprøven kaldes et datasæt eller observationssæt. 
+I et ordnet observationssæt er observationerne ordnet i rækkefølge.
+
+2. **Ikke grupperet observationssæt**
+
+I et ikke-grupperet observationssæt beskrives observationerne med enkeltstående tal, farver, rejsemål eller lignende. 
+Ikke-grupperede observationer kan beskrives med forskellige tal, såkaldte statistiske deskriptorer. 
+Antallet af observationer kalde observationssættets størrelse, $N$. 
+Hvis alle observationerne er tal, er variations­bredden lig med forskellen på værdien af den største og mindste observation.
+
+3. **Hyppighed**
+
+Hyppigheden h(x) af en observation $x$ er det antal gange, som observationen forekommer i observationssættet, og frekvensen $f(x)$ er den brøkdel eller procentdel,hyppigheden udgør af hele observationssættets størrelse. 
+Den kumulerede hyppighed $H(x)$ og den kumulerede frekvens $F(x)$ af en observation $x$ er summen af hyppighederne eller frekvenserne af alle de observationer, der er mindre eller lig med $x$.
+
+4. **Typetal**
+
+Et observationssæts typetal er den observation, der optræder flest gange.
+
+5. **Gennemsnittet/middelværdien**
+
+Gennemsnittet, $\overline{x}$, er summen af observationerne divideret med observationssættets størrelse, $N$.
+
+## Diagrammer og kvartilsæt
+
+### Definitioner
+
+1. **Pindediagram**
+
+I et pindediagram vises observationernes hyppighed eller frekvens som længder af pinde. 
+
+2. **Prikdiagram**
+
+I et prikdiagram (eller punktdiagram) vises observationernes hyppigheder med prikker.

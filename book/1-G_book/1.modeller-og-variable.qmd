@@ -17,3 +17,36 @@ flowchart TB
     id2 --> id3
     id3 --> id4
 ```
+
+## Overslagsregning
+Overslagsregning handler om at regne sig frem til et kvalificeret gæt på størrelsen af noget uden at have adgang til hjælpemidler. 
+Man kan strukturere processen ved at:
+
+- vælge nogle størrelser, som man mener, svaret afhænger af
+- bygge en formel, som viser, hvordan man skal regne med disse størrelser
+- gætte kvalificeret på nogle afrundede værdier af hver størrelse
+- beregne et cirka-svar på spørgsmålet
+- vurdere svaret: Virker cirka-svaret fornuftigt i forhold til spørgsmålet, eller skal formlen og/eller nogle af de kvalificerede gæt på talværdierne laves anderledes?
+
+### Usikkerhedsvurdering
+Det er relativt let at give et bud på usikkerheden ved en overslagsberegning.
+Eksempelvis kan man regne casen igennem med let ændrede tal.
+
+### Principskitser
+En principskitse viser en overordnet sammenhæng mellem nogle størrelser.
+
+## Modeller med to variable
+
+### Definition - funktion
+En **funktion** er en sammenhæng mellem to variable størrelser: en uafhængig, som vi kalder x, og en, der afhænger af x, som vi kalder f(x) eller y.
+Sammenhængen beskrives med en regneforskrift, tabel, graf eller tekst. 
+Til ét x må kun være ét f(x).
+Grafen for en funktion er mængden af punkter (x,y), der opfylder, at y = f(x).
+Det betyder, at en given y-værdi fremkommer som funktion af en x-værdi.
+
+### Definition - koordinatsystem
+Et koordinatsystem består af to akser, en vandret (førsteaksen) og en lodret (andenaksen). 
+Normalt kaldes den vandrette akse x-aksen og den lodrette akse y-aksen.
+Akserne skærer hinanden i punktet (0,0) (også kaldes for origo), og akserne inddeler planen i fire kvadranter.
+
+![](figs/koordinatsystem.png)
