@@ -1,6 +1,6 @@
 services:
   math-book:
-    image: ...
+    image: ghcr.io/klaudiaanna25/math-book:main
 
     volumes:
       - /etc/localtime:/etc/localtime:ro
@@ -15,14 +15,29 @@ services:
         traefik.enable: "true"
 
         # Router Config
-        traefik.http.routers.klaudia__math_book.rule: "Host(`klaudia.roza.is`) && PathPrefix(`/math-book/`)"
-        traefik.http.routers.klaudia__math_book.entrypoints: "web,websecure"
+        traefik.http.routers.klaudia__math_book.rule: "Host(`klaudia.roza.is`) && PathPrefix(`/math-book`)"
+        traefik.http.routers.klaudia__math_book.tls: "true"
+        traefik.http.routers.klaudia__math_book.tls.certresolver: "letsencrypt"
+
         traefik.http.routers.klaudia__math_book.service: "klaudia__math_book"
+        #traefik.http.routers.klaudia__math_book.middlewares: "klaudia__math_book@docker"
+        traefik.http.routers.klaudia__math_book.entrypoints: "web,websecure"
+
+        # Service
         traefik.http.services.klaudia__math_book.loadbalancer.server.port: 8787
 
-        # SSL Config
-        traefik.http.routers.klaudia_math-book.tls: "true"
-        traefik.http.routers.klaudia_math-book.tls.certresolver: "letsencrypt"
+        # Middlewares
+        traefik.http.middlewares.klaudia__math_book.chain.middlewares: "strip-prefix-2"
+        traefik.http.middlewares.strip-prefix-2.redirectregex.regex: "^(https?://klaudia.roza.is/math-book)$$"
+        traefik.http.middlewares.strip-prefix-2.redirectregex.replacement: "$${1}/"
+        traefik.http.middlewares.strip-prefix-2.redirectregex.permanent: "true"
+
+        #traefik.http.middlewares.strip-prefix-1.redirectregex.regex: "^https?://klaudia.roza.is/(.+)$$"
+        #traefik.http.middlewares.strip-prefix-1.redirectregex.replacement: "https?://klaudia.roza.is/math-book/$${1}"
+        #traefik.http.middlewares.strip-prefix-1.redirectregex.permanent: "true"
+
+        #traefik.http.middlewares.strip-prefix-3.stripprefix.prefixes: "/math-book"
+
 
     networks:
       - mesh_public

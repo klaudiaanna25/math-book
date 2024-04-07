@@ -29,7 +29,7 @@ RUN . ../.venv/bin/activate && quarto render --to html
 # - Production
 ####################
 FROM ghcr.io/static-web-server/static-web-server:2
-COPY --from=0 /app/book/_book /app 
+COPY --from=0 /app/book/_book /app/math-book
 
 # Set Server Options
 ENV SERVER_PORT 8787
