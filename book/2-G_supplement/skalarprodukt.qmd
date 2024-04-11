@@ -9,6 +9,7 @@ $$
 \end{gather}
 $$
 
+::: {.callout-note}
 ## Definition - skalarprodukt
 Skalarproduktet, også kaldes for prikproduktet, af to vektorer er defineret ved:
 $$
@@ -16,7 +17,9 @@ $$
 = \vciip{a_1}{a_2} \cdot \vciip{b_1}{b_2}
 = a_1b_1 + a_2b_2
 $$
+:::
 
+::: {.callout-tip}
 ### Eksempel
 $$
 \vciip{3}{-2} \cdot \vciip{9}{4}
@@ -24,10 +27,14 @@ $$
 = 27 - 8
 = 19
 $$
+:::
 
+::: {.callout-note}
 ## Ortogonale vektorer
 Skalarproduktet mellem to egentlige vektorer er nul, hvis og kun hvis vektorerne er ortogonale.
+:::
 
+::: {.callout-tip}
 ### Eksempel
 Vektorerne $\vc{v} = \vciip{5}{2}$ og $\vc{w} = \vciip{4}{-10}$ er ortogonale (de danner en $90^{\circ}$ vinkel) fordi
 $$
@@ -37,20 +44,26 @@ $$
 = 20 - 20
 = 0
 $$
+:::
 
+::: {.callout-note}
 ## Vinkel mellem to vektorer
 Vinklen $v$ mellem to vektorer kan beregnes med formlen:
 $$
 \cos(v) = \frac{\vc{a}\cdot \vc{b}}{\mfabs{\vc{a}} \cdot \mfabs{\vc{b}}}
 $$
+:::
 
+::: {.callout-tip}
 ### Eksempel
 Vi vil beregne vinklen mellem vektorerne $\vc{c}=\vciip{1}{2}$ og $\vc{d}=\vciip{5}{-3}$:
 $$
 v=\cos^{-1} \mf{\frac{\vciip{1}{2} \cdot \vciip{5}{-3}}{\sqrt{1^2+2^2} \cdot \sqrt{5^2+(-3)^2}}}
 = 94.4^{\circ}
 $$
+:::
 
+::: {.callout-tip}
 ### Eksempel
 To vektorer er givet ved koordinaterne $\vc{p}=\vciip{5}{t}$ og $\vc{q}=\vciip{6}{10}$. Hvad skal $t$ være, for at vektorerne er ortogonale? 
 Hvis prikproduktet er nul, er vektorerne ortogonale.
@@ -67,6 +80,9 @@ t &= -3
 $$ 
 
 **Konklusion:** Vektorerne er ortogonale, når $t=-3$
+:::
+
+
 
 ##
 Beregn skalarproduktet af vektorerne

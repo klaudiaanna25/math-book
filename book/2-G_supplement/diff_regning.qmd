@@ -54,6 +54,7 @@ $$
 | Trigonometriske funktioner | $\cos(x)$ | $-\sin(x)$ | 
 | | $\sin(x)$ | $\cos(x)$ |
 
+::: {.callout-tip}
 ### Eksempel
 Hvis $f(x) = 5x^3-2x^2$, den afledede funktion er: 
 $$
@@ -61,7 +62,9 @@ f'(x) = (5x^3)' - (2x^2)'
 = 5 \cdot 3x^{3-1} - 2 \cdot 2x^{2-1}
 = 15x^2 - 4x 
 $$
+:::
 
+::: {.callout-tip}
 ### Eksempel
 Hvis $g(x)= x \cdot \ln(x)$, den afledede funktion er:
 $$
@@ -69,6 +72,9 @@ g'(x)= x' \cdot \ln(x) + x \cdot (\ln(x))'
 = 1 \cdot \ln(x) + x \cdot \frac{1}{x}
 = \ln(x) +1
 $$
+
+:::
+
 
 ##
 Differentier følgende funktioner i hånden

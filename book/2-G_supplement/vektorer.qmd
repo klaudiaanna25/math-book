@@ -10,7 +10,7 @@ $$
 \end{gather}
 $$
 
-
+::: {.callout-note}
 ## Regneregler
 
 | Operation | Regel | Eksempel |
@@ -19,6 +19,8 @@ $$
 | Sum af to vektorer | $\vc{a} + \vc{b} = \vciip{a_1+b_1}{a_2+b_2}$ | $\vciip{5}{3}+\vciip{6}{-2} = \vciip{5+6}{3-2} = \vciip{11}{1}$ |
 | Konstant gange vektor | $k\vc{a} = \vciip{ka_1}{ka_2}$ | $5\cdot \vciip{4}{2}= \vciip{4\cdot 5}{2\cdot 5} = \vciip{20}{10}$ |
 | Vektor mellem 2 punkter | $\vc{AB} = \vciip{x_2-x_1}{y_2-y_1}$ | $A(2,6)$ og $B(8,-3)$ $\vc{AB}=\vciip{8-2}{-3-6} = \vciip{6}{-9}$|
+:::
+
 
 ![](grafer/vektor.png)
 

@@ -1,5 +1,6 @@
 # Regnearternes hierarki
 
+::: {.callout-note}
 ## Huskeregel PEMDAS
 - **P**arenteser $(a+b)$
 - **E**ksponenter - potenser og rødder $a^n, \sqrt[n]{a}$
@@ -7,7 +8,9 @@
 - **D**ivision - dividere-stykker $\frac{a}{b}, a:b$
 - **A**ddition - plusstykker $a+b$
 - **S**ubtraktion - minusstykker $a-b$
+:::
 
+::: {.callout-tip}
 ## Eksempel
 Vi vil beregne udtrykket: $5^2+3\cdot (3-\sqrt{16})^2$.
 
@@ -31,10 +34,11 @@ $$
 &=28
 \end{aligned}
 $$
+:::
 
+::: {.callout-tip}
 Husk at rodtegn og brøker også tæller som parenteser.
 
-Eksempel
 $$
 \frac{5+3}{2}=\frac{8}{2} = 4
 $$
@@ -42,6 +46,8 @@ $$
 $$
 \sqrt{12-3} = \sqrt{9} = 3
 $$
+
+:::
 
 ## 
 Udregn

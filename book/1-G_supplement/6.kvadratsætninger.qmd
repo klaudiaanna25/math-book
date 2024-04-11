@@ -16,9 +16,14 @@ $$
 \tag{K.3}
 $$
 
+::: {.callout-tip}
 ### Eksempel
 
-$$(a-3)^2 = a^2 + 3^2 - 2\cdot 3a = a^2-6a+9$$
+$$
+(a-3)^2 = a^2 + 3^2 - 2\cdot 3a = a^2-6a+9
+$$
+
+:::
 
 ##
 Udregn:

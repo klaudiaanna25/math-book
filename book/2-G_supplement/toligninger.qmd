@@ -1,6 +1,7 @@
 # To ligninger med to ubekendte
 {{< include /qpreamble.qmd >}}
 
+::: {.callout-tip}
 ## Eksempel
 Vi ønsker at løse et ligningssystem bestående af de to ligninger:
 $$
@@ -39,6 +40,8 @@ Løsningen er altså $x=1$ og $y=-3$.
 
 Vi kunne naturligvis også have valgt at isolere y først, eller starte med den anden ligning. 
 Det ville have givet andre mellemregningerne, men samme facit.
+
+:::
 
 ##
 Løs nedenstående ligningssystemer. Løsningerne er heltal eller brøker.

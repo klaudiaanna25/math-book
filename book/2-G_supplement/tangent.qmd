@@ -1,10 +1,13 @@
 # Tangentensligning
 
+::: {.callout-note}
 ## Definition
 Tangent for en funktion $f$ i et punkt $P(x_0, f(x_0))$ bestemmes vha den følgende formel:
 $$
 y = f'(x_0) \cdot (x-x_0) + f(x_0)
 $$
+:::
+
 
 ##
 Bestem, uden CAS, ligningen for tangenten i punktet $(x_0, f(x_0))$, når

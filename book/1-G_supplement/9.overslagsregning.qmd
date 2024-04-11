@@ -1,11 +1,14 @@
 # Overslagsregning
 
+::: {.callout-note}
 ## Gode råd
 
 Når du adderer eller multiplicerer to tal - rund den ene op, og det andet ned.
 
 Når du subtraherer eller dividerer - rund begge op eller begge ned.
+:::
 
+::: {.callout-tip}
 ### Eksempler
 
 - 443+254
@@ -16,6 +19,10 @@ Når du subtraherer eller dividerer - rund begge op eller begge ned.
     - begge rundes op, så vi har 850-350=500
 - $\dfrac{653}{9}$
     - begge rundes op, så vi har $\dfrac{700}{10}=7$
+
+
+:::
+
 
 
 

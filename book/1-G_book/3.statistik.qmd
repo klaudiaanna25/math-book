@@ -2,7 +2,8 @@
 
 ## Ikke-grupperede observationer
 
-### Definitioner 
+::: {.callout-note}
+### Definitioner
 
 1. **Stikprøve**
 
@@ -30,9 +31,12 @@ Et observationssæts typetal er den observation, der optræder flest gange.
 5. **Gennemsnittet/middelværdien**
 
 Gennemsnittet, $\overline{x}$, er summen af observationerne divideret med observationssættets størrelse, $N$.
+:::
+
 
 ## Diagrammer og kvartilsæt
 
+::: {.callout-note}
 ### Definitioner
 
 1. **Pindediagram**
@@ -42,3 +46,4 @@ I et pindediagram vises observationernes hyppighed eller frekvens som længder a
 2. **Prikdiagram**
 
 I et prikdiagram (eller punktdiagram) vises observationernes hyppigheder med prikker.
+:::

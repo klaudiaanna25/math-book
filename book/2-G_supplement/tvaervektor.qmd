@@ -9,9 +9,12 @@ $$
 \end{gather}
 $$
 
+::: {.callout-note}
 ## Tværvektor
 Når en vektor $\vc{a}$ drejes $90^{\circ}$ i positiv omløbsretning, fremkommer dens **tværvektor** $\hat{\vc{a}} = \vciip{-a_2}{a_1}$.
+:::
 
+::: {.callout-tip}
 ### Eksempel
 Ud fra vektor
 $$
@@ -23,6 +26,9 @@ $$
 \hat{\vc{p}} = \vciip{-5}{3}
 $$
 
+:::
+
+::: {.callout-note}
 ## Determinanten af to vektorer
 $$
 \det(\vc{a}, \vc{b})
@@ -34,7 +40,9 @@ a_2 & b_2
 \end{vmatrix}
 = a_1b_2 - a_2b_1
 $$
+:::
 
+::: {.callout-tip}
 ### Eksempel
 Hvis $\vc{a} = \vciip{4}{2}$ og $\vc{b}=\vciip{7}{1}$, er determinanten:
 $$
@@ -47,7 +55,9 @@ $$
 = 4 - 14
 = -10
 $$
+:::
 
+::: {.callout-note}
 ## Arealer
 - Arealet A af det parallelogram, som to vektorer udspænder:
 $$
@@ -68,8 +78,13 @@ $$
 
 ![](grafer/arealer-ABC.png)
 
+:::
+
+::: {.callout-note}
 ## Parallele vektorer
 To egentlige vektorer $\vc{a}$ og $\vc{b}$ er parallele, hvis og kun hvis $\det(\vc{a}, \vc{b})=0$.
+:::
+
 
 ##
 Angiv koordinaterne til tværvektorerne

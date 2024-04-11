@@ -3,6 +3,7 @@ Andengradsligningen $ax^2+bx+c=0$ har løsningerne $x=\frac{-b\pm \sqrt{d}}{2a}$
 
 Hvis $d$ er negativ, er der ingen løsning. Hvis $d=0$, er der kun én løsning. Hvis $d$ er positiv, er der to løsninger. Tallet $d$ kaldes diskriminanten, og løsningsmetoden kaldes ofte for diskriminantsmetoden.
 
+::: {.callout-tip}
 ## Eksempel
 Vi vil løse $2x^2+6x-8=0$.
 
@@ -18,6 +19,8 @@ x = \frac{-6\pm \sqrt{100}}{2 \cdot 2}
 $$
 
 De to løsninger er $x=-4$ og $x=1$.
+:::
+
 
 ##
 Beregn diskriminanten, og angiv antallet af løsninger for nedenstående andengradsligninger.

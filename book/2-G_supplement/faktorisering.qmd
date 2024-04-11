@@ -12,8 +12,11 @@ $$
 
 Hvis den tilhørende andengradsligning ikke har løsninger, kan polynomiet ikke faktoriseres.
 
+::: {.callout-tip}
 ## Eksempel
 Andengradspolynomiet $p(x)=2x^2+6x-8$ kan skrives på den faktoriserede form $p(x)=2(x+4)(x-1)$ fordi den har rødderne $r_1=-4$ og $r_2=1$.
+:::
+
 
 ##
 Angiv rødderne til følgende faktoriserede andengradspolynomier.

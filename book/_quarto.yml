@@ -74,6 +74,7 @@ format:
     number-sections: true
     code-fold: true
     output: asis
+    page-layout: article
   pdf:
     documentclass: scrreprt
 

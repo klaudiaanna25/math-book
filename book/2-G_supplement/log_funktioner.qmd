@@ -1,5 +1,6 @@
 # Logaritmefunktioner
 
+::: {.callout-note}
 ## 10-talslogartimen
 $$
 \begin{gather}
@@ -8,12 +9,16 @@ $$
 & 10^{\log(x)} = x 
 \end{gather}
 $$
+:::
 
+::: {.callout-tip}
 ### Eksempel
 $$
 \log(1000) = \log(10^3) = 3
 $$
+:::
 
+::: {.callout-note}
 ## Den naturlige logaritme
 $$
 \begin{gather}
@@ -23,10 +28,15 @@ $$
 \end{gather}
 $$
 
+:::
+
+::: {.callout-tip}
 ### Eksempel
 $$
 e^{\ln(9)}=9
 $$
+:::
+
 
 ## 
 Bestem uden brug af CAS

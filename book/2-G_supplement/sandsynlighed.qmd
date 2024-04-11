@@ -4,12 +4,15 @@ $$
 P = \frac{\text{Antal gunstige udfald}}{\text{Antal mulige udfald}}
 $$
 
+::: {.callout-tip}
 ## Eksempel
 Kast med en 6-sidet terning.
 
 Sandsynligheden for at få 1 er $P(1)= \frac{1}{6}$.
 
 Sandsynligheden for at få et lige tal er $P(lige) = \frac{3}{6}=\frac{1}{2}$.
+:::
+
 
 ##
 Ved kast med en 10-sidet terning, hvad er da sandsynligheden for at få

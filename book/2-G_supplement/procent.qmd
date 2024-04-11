@@ -1,10 +1,13 @@
 # Procentregning
 
+::: {.callout-tip}
 ## Eksempel
 Vi ønsker at bestemme 20% af 500.
 
 Da 20% svarer til 0.2, har vi $0.2 \cdot 500=100$.
+:::
 
+::: {.callout-tip}
 ## Eksempel
 Vi ønsker at lægge 20% til 800. 
 Vi bruger fremskrivningsfaktoren $1+0.20=1.20$.
@@ -15,6 +18,9 @@ Vi ønsker at trække 15% fra 800.
 Vi bruger fremskrivningsfaktoren $1-0.15=0.85$
 
 Vi multiplicerer de 800 med fremskrivningsfaktoren $800 \cdot 0.85 = 680$
+:::
+
+
 
 ##
 Beregn i hånden. Hvad er

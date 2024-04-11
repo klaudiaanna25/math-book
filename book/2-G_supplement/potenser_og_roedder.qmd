@@ -1,5 +1,6 @@
 # Potenser og rødder
 
+::: {.callout-note}
 ## Regneregler:
 $$
 \begin{gather}
@@ -13,6 +14,8 @@ $$
 & (a \cdot b)^r = a^r \cdot b^r
 \end{gather}
 $$
+:::
+
 
 ## 
 Udregn tallene nedenfor i hånden. Brug evt. multiplikationstabellen.

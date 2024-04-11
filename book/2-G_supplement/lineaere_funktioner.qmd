@@ -3,6 +3,7 @@
 Funktioner ved forskrift af typen $f(x)=ax+b$ kaldes lineære funktioner. 
 Grafen for en lineær funktion er en ret linje med hældningskoefficient, som skærer y-aksen i punktet (0,b).
 
+::: {.callout-note}
 ## Definition
 Hældningskoefficient for en lineær funktion der går igennem to punkter $P_1(x_1,y_1)$ og $P_2(x_2,y_2)$ bestemmes ved:
 $$
@@ -10,6 +11,9 @@ a = \frac{y_2-y_1}{x_2-x_1}
 $$
 
 ![](grafer/haeldning.png)
+
+:::
+
 
 ##
 Angiv hældningskoefficient og koordinaterne til grafens skæringspunkt med y-aksen for følgende lineære funktioner.

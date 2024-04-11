@@ -2,6 +2,7 @@
 ## Regel
 $$a(b+c)=ab+ac$$
 
+::: {.callout-tip}
 ### Eksempler
 
 $$3(a+4)=3a+12$$
@@ -9,8 +10,15 @@ $$3(a+4)=3a+12$$
 $$-(a+4)=-a-4$$
 
 $$4-(a+4)=4-a-4=0$$
+:::
 
-**OBS**: Et minustegn foran en parentes betragtes som om at a i reglen $a(b+c)=ab+ac$ er lig med -1, altså $-(b+c)=-b-c$.
+::: {.callout-important}
+### OBS 
+Et minustegn foran en parentes betragtes som om at a i reglen $a(b+c)=ab+ac$ er lig med -1, altså $-(b+c)=-b-c$.
+:::
+
+
+
 
 ##
 Ophæv parenteserne:

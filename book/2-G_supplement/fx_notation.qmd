@@ -1,10 +1,14 @@
 # $f(x)$ - notation
 
+::: {.callout-tip}
 ## Eksempel
 For funktionen $f$ med forskriften $f(x)=x^2-1$ beregnes funktionsværdien $f(3)$ ved indsættelse:
 $$
 f(3)= 3^2-1 = 9-1 = 8
 $$
+:::
+
+
 
 ## 
 Lad $f(x)=3x-2$. 

@@ -1,10 +1,13 @@
 # Parenteser
 
+::: {.callout-note}
 ## Regel
 $$
 a(b+c) = ab + ac
 $$
+:::
 
+::: {.callout-tip}
 ## Eksempler
 $$
 5(11+2a)=5 \cdot 11 + 5 \cdot 2a = 55 + 10a
@@ -13,8 +16,11 @@ $$
 $$
 4-2(2x-4) = 4-(2 \cdot 2x - 2 \cdot 4) = 4-(4x-8) = 4-4x+80-4x+12
 $$
+:::
 
-## Ophæv parenteserne og reducer
+
+## 
+Ophæv parenteserne og reducer
 $$
 \begin{gather}
 &

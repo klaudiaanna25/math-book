@@ -1,4 +1,6 @@
 # Funktioner og grafer
+
+::: {.callout-tip}
 ## Eksempel:
 ```{python}
 import sympy as sp
@@ -15,6 +17,8 @@ pass
 ```
 
 Den blå linje på figuren viser grafen for funktionen $f$. På figuren kan man aflæse funktionsværdien $f(6)$ xed at finde $x=6$, bevæge sig op til grafen, og dernæst bevæge sig vandret hen til y-aksen.
+
+:::
 
 ## 
 Figuren viser grafen for funktionen $g$. Aflæs følgende funktionsværdier. Alle facit er heltal.

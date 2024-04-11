@@ -1,6 +1,7 @@
 # Ligninger
 Husk at lighedstegnet udtrykker en balance mellem talstørrelserne på hver sit side.
 
+::: {.callout-tip}
 ## Eksempel
 Løsning af ligningen $2x+10=2\cdot(3x-1)$
 $$
@@ -27,6 +28,9 @@ x&=3
 \end{aligned}
 \end{gather}
 $$
+:::
+
+
 
 ## 
 Løs følgende ligninger i hånden
@@ -76,6 +80,7 @@ b. $3x^2-3x-6=0$
 c. $x^2+6x+5=0$
 d. $x^2+8x-20=0$
 
+::: {.callout-tip}
 ## Eksempel - Tjek af løsningen
 Vi vil undersøge, om $x=2$ er løsning til tredjegradsligningen $x^3+9x^2+2x-48=0$.
 
@@ -103,6 +108,9 @@ $$
 $$
 
 Vi har vist, at $x=1$ *ikke* er en løsning
+:::
+
+
 
 ##
 Tjek ved indsættelse, hvilke af de nedenstående tal der er løsninger til ligningen $x^3+9x^2+6x-16=0$
@@ -128,9 +136,12 @@ b. $x^4+11x^3+14x^2-80x=0$
 c. $x^5+24x^4+171x^3+284x^2-480x=0$
 d. $x^5-5x^4+10x^3-10x^2+15x-1=0$
 
+::: {.callout-note}
 ## Vink
 En $n$-gradspolynomium har op til $n$ løsninger, altså andengradspolynomium har op til 2 løsninger, en tredjegradspolynomium har op til 3 løsninger, osv. 
 Graden for et polynomium bestemmes af den højeste potens i ligningen.
+:::
+
 
 ##
 Parallelforskyd $f(x)=x^2$ for at opnå en andengradspolynomium, hvis graf har et toppunkt i 

@@ -14,10 +14,14 @@ b. $f_2(x)= 3 \cdot 1.2^x$
 c. $f_3(x)= 3 \cdot 0.8^x$
 d. $f_4(x)= 0.3 \cdot 4^x$
 
-## Vækstegenskaber - eksempler
+::: {.callout-tip}
+### Vækstegenskaber - eksempler
 Funktionen $f_1(x)=3 \cdot 1.27^x$ *vokser* med 27%, hver gang $x$ vokser med 1, fordi fremskrivningsfaktoren er $1.27 = 1 + 0.27$.
 
 Funktionen $f_2(x) = 1000 \cdot 0.88^x$ *aftager* med 12% hver gang $x$ vokser med 1, fordi fremskrivningsfaktoren er $0.88 = 1 - 0.12$.
+:::
+
+
 
 ##
 Hvor mange % vokser eller aftager nedenstående funktioner med, når $x$ vokser med 1?
@@ -35,6 +39,7 @@ b. $f_2(x)$ aftager med 17% hver gang $x$ vokser med 1, og startværdien er 500
 c. $f_3(x)$ aftager med 29% hver gang $x$ vokser med 1, og startværdien er 0.01254
 d. $f_4(x)$ vokser med 300% hver gang $x$ vokser med 1, og startværdien er 2
 
+::: {.callout-note}
 ## Fordobling- og halveringskonstant
 For en voksende eksponentielfunktion med forskrift $f(x)=b \cdot a^x$, fordoblingkonstanten beregnes ved:
 $$
@@ -45,6 +50,9 @@ For en aftagende eksponentielfunktion med forskrift $f(x)=b \cdot a^x$, halverin
 $$
 T_{1/2} = \frac{\ln(1/2)}{\ln(a)}, \ 0<a<1
 $$
+:::
+
+
 
 ## 
 Beregn fordoblings- eller halveringskonstant for funktionerne
@@ -70,10 +78,14 @@ Hvis man kender fremskrivningsfaktoren og vil beregne $k$, kan det gøres med fo
 Konstanten $b$ er stadig begyndelsesværdien. 
 Hvis $k$ er positiv, er funktionen voksende, og hvis $k$ er negativ, er funktionen aftagende.
 
-## Eksempler
+::: {.callout-tip}
+### Eksempler
 Funktionen $f(x)=2 e^{3x}$ har fremskrivningsfaktoren $a=e^3 = 20.0855$.
 
 Funktionen $h(x)=5 \cdot 1.45^x$ kan også skrives som $h(x) = 5e^{0.3716x}$, fordi $k=\ln(1.45) = 0.3716$
+:::
+
+
 
 ##
 Beregn fremskrivningsfaktoren og fordoblings- eller halveringskonstant for funktionerne

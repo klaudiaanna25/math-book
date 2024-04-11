@@ -2,18 +2,24 @@
 
 ## Introduktion 
 
+::: {.callout-note}
 ### Definition
 En lineær funktion har en regneforskrift af typen $f(x)=ax+b$, hvor $a$ og $b$ er reelle tal.
+:::
 
+::: {.callout-note}
 ### Sætning
 I en lineær funktion vokser f(x) med et fast tal, hver gang x vokser med et fast tal.
 Grafen for en lineær funktion er en ret linje.
+:::
+
 
 ### Matematisk modellering af lineære forhold
 I situationer, hvor et eller andet vokser eller aftager med en bestemt værdi, når noget andet vokser med 1 (fx et beløb, der stiger, hver gang du køber en liter benzin mere, en afstand, der bliver større, hver gang du tager et skridt mere, osv.), kan situationen modelleres med den lineære funktion $f(x) = ax + b$.
 
 ## Beregning af $a$ og $b$ i forskriften $f(x)=ax+b$
 
+::: {.callout-note}
 ### Bestemmelse af hældningskoefficienten $a$
 Hvis to forskellige punkter $P_1(x_1,y_1)$ og $P_2(x_2,y_2)$ ligger på grafen for en lineær funktion $f(x)=ax+b$, kan hældningskoefficienten $a$ beregnes med formlen;
 $$
@@ -22,24 +28,18 @@ $$
 
 ![](figs/haeldning.png)
 
+:::
+
+::: {.callout-note}
 ### Bestemmelse af konstantleddet $b$
 Når $a$ er kendt, og punktet $(x_1,y_1)$ ligger på grafen for den lineære funktion $y=ax+b$, kan konstantleddet $b$ beregnes med formlen:
 $$
 b=y_1-ax_1
 $$
+:::
 
 
 ## Lineære modeller
 En lineær model kan tegnes som en ret linje og opskrives symbolsk som $y = ax + b$ eller $f(x) = ax + b$.
 
-## Lineær regression
 
-### Empiriske modeller
-En model, der opstilles på baggrund af målte data, kaldes en tilpasset model eller en empirisk model.
-En tilpasset model kan i nogle tilfælde bruges som en forenklet fremstilling af en sammenhæng mellem to variable.
-
-## Lineær regression og residualplot
-
-### Definition
-Forskellen mellem en faktisk målt værdi og den værdi, modellen forudsiger, kaldes et residual. 
-Et diagram over residualerne kaldes et residualplot. Det kan benyttes til at vurdere, om modellen er en rimelig tilnærmelse til data.

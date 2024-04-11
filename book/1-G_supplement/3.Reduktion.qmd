@@ -1,11 +1,15 @@
 # Reduktion
 Husk, at du ikke må sammenblande de variable som $a,b,a^2$ osv.
 
+::: {.callout-tip}
 ## Eksempel
 
 $3a-b+2a$ kan reduceres til $5a-b$.
 
 $3a-b+2a^2$ kan ikke reduceres.
+
+:::
+
 
 
 ##

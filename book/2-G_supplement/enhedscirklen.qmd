@@ -6,19 +6,25 @@ Enhedscirklen er en cirkel med centrum i punktet (0,0) og med radius 1. De trign
 
 Nogle af værdierne af sinus og cosinus kan aflæses direkte fra enhedscirklen. For eksempel kan man se, at $\sin(90^{\circ})=1$ og $\cos(90^{\circ})=0$
 
-## Udfyld et skema som det nedenstående uden brug af CAS
+## 
+Udfyld et skema som det nedenstående uden brug af CAS
+
 | $v$ | $-90^{\circ}$ | $0$ | $90^{\circ}$ | $180^{\circ}$ | $270^{\circ}$ | $360^{\circ}$ |
 | --- | --- | --- | --- | --- | --- | --- | 
 | $\sin(v)$ | | | | | | |
 | $\cos(v)$ | | | | | | |
 
-## Udfyld et skema som det nedenstående ved hjælp af CAS
+## 
+Udfyld et skema som det nedenstående ved hjælp af CAS
+
 | $v$ | $-25^{\circ}$ | $5^{\circ}$ | $40^{\circ}$ | $75^{\circ}$ | $100^{\circ}$ | $110^{\circ}$ | $140^{\circ}$ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | $\sin(v)$ | | | | | | | |
 | $\cos(v)$ | | | | | | | |
 
-## Løs følgende ligninger med CAS. Find kun løsninger i intervallet $0 \leq v \leq 90$
+## 
+Løs følgende ligninger med CAS. Find kun løsninger i intervallet $0 \leq v \leq 90$
+
 a. $\sin(v)=0.8$
 b. $\sin(v)=0.3$
 c. $\cos(v)=0.1$

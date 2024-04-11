@@ -297,6 +297,7 @@ $$
 \end{aligned}
 $$
 
+::: {.callout-tip}
 ## Eksempel - Ligninger og parenteser
 $$
 \begin{gather}
@@ -318,6 +319,9 @@ x&=3 \\
 \end{aligned}
 \end{gather}
 $$
+:::
+
+
 
 ## 
 Løs ligningerne og vis alle mellemregningerne, så det er tydeligt, hvordan du har tænkt.

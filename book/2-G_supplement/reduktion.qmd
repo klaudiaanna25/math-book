@@ -1,11 +1,17 @@
 # Reduktion
 Husk at du ikke må sammenblande variable som $a, b, a^2$ osv.
 
+::: {.callout-tip}
 ## Eksempel
+
 $3a-b+2a$ kan reduceres til $5a-b$.
 
 $3a-b+2a^2$ kan ikke reduceres.
+:::
 
+
+
+::: {.callout-note}
 ## Parenteser regneregler
 $$
 \begin{gather}
@@ -13,6 +19,8 @@ $$
 & (a+b)(c+d) = ac+ad+bc+bd
 \end{gather}
 $$
+:::
+
 
 ##
 Reducer udtrykket mest muligt
@@ -73,12 +81,14 @@ $$
 \end{gather}
 $$
 
-## Eksempel: Reduktion med brøker
+:::{.callout-tip}
+### Eksempel: Reduktion med brøker
 $$
 \frac{4 \cdot x^2 \cdot y^9}{2 \cdot x^2 \cdot y^4}
 = \frac{4}{2} \cdot \frac{x^2}{x^2} \cdot \frac{y^9}{y^4} 
 = 2 \cdot 1 \cdot y^{9-4} = 2y^5
 $$
+
 
 $$
 \frac{a^2+a\cdot b^2}{a^2}
@@ -86,6 +96,7 @@ $$
 = 1 + \frac{a \cdot b^2}{a \cdot a}
 = 1 + \frac{b^2}{a}
 $$
+:::
 
 ##
 Reducer mest muligt

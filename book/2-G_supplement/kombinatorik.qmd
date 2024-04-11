@@ -1,8 +1,11 @@
 # Kombinatorik
 Hvis man både skal vælge blandt $n$ muligheder og bland $m$ muligheder, er der i alt $n\cdot m$ muligheder.
 
+::: {.callout-tip}
 ## Eksempel
 En restaurant tilbyder 5 forskellige hovedretter og 3 forskellige desserter. En gæst har altså mulighed for at sammensætte hovedret og dessert på $5 \cdot 3 = 15$ forskellige måder.
+:::
+
 
 ## 
 Hvor mange forskellige måder kan retterne sammensættes, hvis...
@@ -19,10 +22,13 @@ a. En isbar tilbyder 20 slags is, 5 slags krymmel og 2 slags marmelade.
 b. En kodelås har 3 hjul, hver med mulighed for ét  af de 10 cifre: 0, 1, 2, 3, 4, 5, 6, 7, 8 og 9.
 c. En nummerplade har 2 bogstaver først og derefter 5 cifre.
 
+::: {.callout-tip}
 ## Eksempel
 6 elever skal stille sig i kø. Hvor mange forskellige rækkefølger kan de stille sig i? Til plads nummer 1 er der 6 muligheder, til plads nummer 2 er der 5 muligheder, til plads nummer 3 er der 4 muligheder, osv. I alt kan de stille sig i køen på $6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1 = 720$ forskellige måder. 
 
-$6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1$ kan skrives som $6!$, der læses som "6 fakultet". 
+$6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1$ kan skrives som $6!$, der læses som "6 fakultet".
+:::
+ 
 
 ## 
 Hvor mange mulige rækkefølger er der hvis:
@@ -38,6 +44,7 @@ a. der er 5 hunde i et hundevæddeløb?
 b. der er 9 hunde i et hundevæddeløb?
 c. der er 30 hunde i et hundevæddeløb?
 
+::: {.callout-tip}
 ## Eksempel - Udvælgelse hvor rækkefølgen er vigtig
 Der er 12 heste i et hestvæddeløb. 
 På hvor mange måder kan de første 3 pladser fordeles? 
@@ -48,12 +55,16 @@ Det kunne også være beregnet som
 $$
 \frac{12!}{(12-3)!}
 $$
+:::
 
+::: {.callout-note}
 ## Definition
 Antallet af måder, man kan udvælge $r$ elementer ud af en større gruppe med $n$ elementer, hvor *rækkefølgen er vigtig*, kan beregnes med formlen
 $$
 P(n,r) = \frac{n!}{(n-r)!}
 $$
+:::
+
 
 ##
 a. Der er 6 heste i et hestevæddeløb. På hvor mange måder kan de første 3 pladser fordeles?
@@ -62,6 +73,7 @@ c. Der er 10 hunde i et hundevæddeløb. På hvor mange måder kan de første 3 
 d. Der er 120 cykelryttere i et cykelløb. På hvor mange måder kan de første 20 pladser fordeles?
 e. Der er 10 gæster til en fest. På hvor mange måder kan vi fordele 7 forskellige festlige hatte? Ingen gæster får mere en en hat, men der er naturligvis ikke hatte til alle.
 
+::: {.callout-note}
 ## Definition - Udvælgelse hvor rækkefølgen er ligegyldig
 Antallet af måder, man kan udvælge $r$ elementer ud af en større gruppe med $n$ elementer, hvor *rækkefølgen er ligegyldig*, kan beregnes med formlen
 $$
@@ -69,13 +81,18 @@ K(n,r) = \frac{n!}{(n-r)!r!}
 $$
 
 $K(n,r)$ kaldes en binomialkoefficient, og skrives også nogle gange som $\begin{pmatrix} n \\ r \end{pmatrix}$
+:::
 
+::: {.callout-tip}
 ## Eksempel
 En isbutik har 21 forskellige smagsvarianter. Vi vil gerne have en is med 3 forskellige smagsvarianter. 
 Det giver os følgende antal kombinationsmuligheder:
 $$
 K(21,3) = \frac{21!}{(21-3)!\cdot 3!} = 1330
 $$
+:::
+
+
 
 ##
 Beregn følgende binomialkoefficienter vha formlen.

@@ -1,6 +1,7 @@
 # Monotoniforhold
 Monotoniforhold for en funktion bestemmes ved at afledede den funktion, og finde rødder for den afledede funktion.
 
+::: {.callout-tip}
 ## Eksempel
 Bestem monotoniforhold for funktionen $f(x) = 2x^3+5x^2-3x-6$:
 
@@ -39,6 +40,8 @@ Udfra dette, kan vi konkludere, at funktionen $f(x)$ er
 
 Visuel repræsentation af monotoniforholdene:
 ![](grafer/monotoniforhold.png)
+:::
+
 
 ##
 Bestem, uden CAS, monotoniforholdene for funktionerne:
