@@ -8,7 +8,9 @@ $$
 \vc{a}_{\vc{b}} = \frac{\vc{a} \cdot \vc{b}}{\mfabs{\vc{b}}^2} \vc{b}
 $$
 
-![](grafer/projektion.png)
+
+![](grafer/projektion.png){width=75%}
+
 :::
 
 ::: {.callout-tip}

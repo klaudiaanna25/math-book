@@ -2,7 +2,7 @@
 
 Enhedscirklen er en cirkel med centrum i punktet (0,0) og med radius 1. De trignometriske størrelser *sinus* og *cosinus* er defineret ud fra *enhedscirklen*. Vinklen $v$ er vinklen mellem førsteaksen og en radius afsat i cirklen. Punktet, hvor den afsatte radius rammer cirklen, kaldes retningspunktet $P_v$. Sinus til $v$ er defineret som retningspunktets y-koordinat, og cosinus til $v$ er defineret som retningspunktets x-koordinat. Se figuren.
 
-![](grafer/enhedscirklen.jpg)
+![Enhedscirklen](grafer/enhedscirklen.jpg){width=75%}
 
 Nogle af værdierne af sinus og cosinus kan aflæses direkte fra enhedscirklen. For eksempel kan man se, at $\sin(90^{\circ})=1$ og $\cos(90^{\circ})=0$
 

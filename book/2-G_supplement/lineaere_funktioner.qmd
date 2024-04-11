@@ -10,7 +10,7 @@ $$
 a = \frac{y_2-y_1}{x_2-x_1}
 $$
 
-![](grafer/haeldning.png)
+![](grafer/haeldning.png){width="75%"}
 
 :::
 

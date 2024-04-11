@@ -3,6 +3,7 @@
 ::: {.callout-tip}
 ## Eksempel:
 ```{python}
+
 import sympy as sp
 import seaborn as sns
 x=sp.symbols("x")

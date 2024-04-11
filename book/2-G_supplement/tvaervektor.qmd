@@ -69,14 +69,18 @@ $$
 T= \frac{1}{2} \mfabs{\det(\vc{a}, \vc{b})}
 $$
 
+:::{.column-margin}
 ![](grafer/arealer.png)
+:::
 
 - Arealet $T_{ABC}$ af trekanten med hjørner i punkterne A, B og C: 
 $$
 T_{ABC} = \frac{1}{2} \mfabs{\det(\vc{AB}, \vc{AC})}
 $$
 
+:::{.column-margin}
 ![](grafer/arealer-ABC.png)
+:::
 
 :::
 

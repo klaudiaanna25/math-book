@@ -73,8 +73,13 @@ format:
     theme: cosmo
     number-sections: true
     code-fold: true
+    code-block-border-left: false
     output: asis
     page-layout: article
+    fig-width: 6
+    fig-height: 4
+    fig-align: center
+    fig-cap-location: margin
   pdf:
     documentclass: scrreprt
 
