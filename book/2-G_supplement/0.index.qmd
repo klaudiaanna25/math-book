@@ -1,6 +1,7 @@
 # Mat B træning
 
 Indeholder regneregler, definitioner og opgaver indenfor:
+
 1. [f(x) notation](fx_notation.qmd)
 2. [Parenteser](parenteser.qmd)
 3. [Ligninger](ligninger.qmd)
