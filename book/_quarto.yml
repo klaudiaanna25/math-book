@@ -7,9 +7,6 @@ book:
   date: "01/17/2024"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
     - part: første-g.qmd
       chapters:
         - 1-G_supplement/1.pemdas.qmd
@@ -66,7 +63,6 @@ book:
         - bilag/delelighedsregler.qmd
     
 
-bibliography: references.bib
 
 format:
   html:
