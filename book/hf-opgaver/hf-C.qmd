@@ -1,0 +1,350 @@
+# Eksempelsamling for HF Mat C
+
+# Begreber og symboler 
+
+## Kende begrebsbetegnelser (ord og symboler) og betydning af begreber.
+
+### Opgave 6
+Bestem hældningskoefficienten for den rette linje, der er gar for den lineære funktion $f$, og går igennem punkterne (3,7) og (12,10).
+
+::: {.callout-tip}
+### Hældningskoefficient
+
+Hældningskoefficienten for en lineær funktion der går igennem to punkter $(x_1, y_1)$ og $(x_2,y_2)$ er givet ved
+$$
+a=\frac{y_2-y_1}{x_2-x_1}
+$$
+:::
+
+altså udfra koordinatsættet af de to givne punkter kan vi bestemme hældningskoefficientet således:
+$$
+a=\frac{10-7}{12-3} = \frac{3}{9} = \frac{1}{3}
+$$
+
+Altså er hældningskoefficienten for den lineære funktion som går igennem de to punkter $a=\frac{1}{3}$
+
+### Opgave 8
+I en model kan udviklingen i antallet af gymnasieelever i Danmark i perioden 2005-2012 beskrives ved:
+$$
+f(x) = 3679x+61112
+$$
+
+hvor $f(x)$ angiver antallet af gymnasieelever i Danmark til tiden $x$ år efter 2005.
+
+Det oplyses, at der var 89837 gymnasieelever i Danmark i år 2013.
+
+Bestem den relative afvigelse mellem det faktiske antal gymnasieelever og modellens bud på antal gymnasieelever.
+
+Ifølge modellen, det forventede antal gymnasieelever er 
+$$
+f(2013-2005) = f(8) = 3679 \cdot 8 + 61112 = 90544
+$$
+
+Det faktiske antal af gymnasieelever oplyses til at være 89837.
+
+::: {.callout-tip}
+### Den relative afvigelse
+Den relative afvigelse beregnes således
+$$
+100\% \cdot \frac{(\text{målt værdi - modelværdi})}{\text{modelværdien}}
+$$
+:::
+
+hvor den målte værdi er så 89837 og modelværdien er 90544.
+
+$$
+100\% \cdot \frac{(89837-90544)}{90544} = -0,78 \%
+$$
+
+Altså den relative afvigelse er -0,78%.
+
+## Indføre variabler og angive symbolske betegnelser
+
+### Opgave 11
+En bestemt population vokser eksponentielt med 30% om året.
+
+Indfør passende variable, og opstil en model for udviklingen af populationens størrelse.
+
+En eksponentiel vækst beskrives vha. en eksponentiel funktion med form $f(x) = b \cdot a^x$, hvor at b er startværdien, a er en fremskrivningsfaktor, og x er den termin populationen vokser i (her vil det være antal år).
+
+Hvis populationen skal vokse med 30% pr år, så skal fremskrivnings faktoren se således ud: 
+$$
+a = 1.30
+$$
+
+Med et ukendt startværdi for populationens størrelse vil modellen se således ud:
+$$
+f(x)=b \cdot 1.3^x
+$$
+
+# Formler og funktioner
+
+## Omskrive og reducere formler og udtryk med papir/ blyant og med CAS
+
+### Opgave 14
+Sæt tallet 3 uden for en parentes i udtrykket $15+3a$.
+
+For at kunne sætte tallet 3 uden for en parentes skal man se udtrykket som om den allerede er i en parentes, altså
+$$
+(15+3a)
+$$
+
+vi vil gerne sætte 3 uden for parantesen, og vil derfor dividere og gange udtrykket med 3, altså:
+$$
+3 \left(\frac{15+3a}{3} \right)
+$$
+
+på den måde beholder vi den algebraiske udtryk uden at ændre på værdien da gange og dividere ophæve hinanden.
+
+Brøken kan splittes ad:
+$$
+3 \left( \frac{15}{3} + \frac{3a}{3} \right)
+$$
+
+det gør at vi nu kan forkorte brøkkene:
+$$
+3 (5+a)
+$$
+
+hvilket er det endelige svar.
+
+## Indsætte konkrete værdier i formler (forskrifter) og tilskrive resultatet betydning
+
+### Opgave 18
+På figuren ses en retvinklet trekant, hvor nogle af sidelængderne er angivet.
+
+Bestem |BC|
+
+![Opgave 18](fig/opgave18.png){width="40%"}
+
+::: {.callout-tip}
+### Pythagoras sætning - sider af en retvinklet trekant
+Enhver retvinklet trekant, hvor kateterne (de sider der danner den rette vinkel) er navngivet a og b og hypotenusen (den lænste side af trekanten) er navngivet c har den følgende forhold:
+$$
+c^2 = a^2+b^2
+$$
+
+eller
+$$
+c=\sqrt{a^2+b^2}
+$$
+:::
+
+vi anvender pythaogras sætning til at finde |BC|:
+$$
+|BC|=\sqrt{10^2-8^2} = \sqrt{100-64} = \sqrt{36} = 6
+$$
+
+Altså er |BC|=6
+
+### Opgave 19
+På figuren ses to ensvinklede trekanter, hvor nogle af sidelængderne er angivet.
+Bestem |DE|
+
+![Opgave 19](fig/opgave19.png)
+
+Når to trekanter er ensvinklede, findes der en målestokforhold for deres tilsvarende sider, altså mht |AC|:|DF| gælder det at
+$$
+12:8 = 3:2 = 1.5:1
+$$
+
+Altså er trekanten DEF 1.5 gange større.
+
+Derfor kan vi beregne længden |DE| ved at at tage sidelængden |AB| og gange den med 1.5:
+$$
+|DE| = 10 \cdot 1.5 = 15
+$$
+
+Altså er |DE|=15
+
+### Opgave 20
+En lineær sammenhæng er givet ved
+$$
+y=-2x+5
+$$
+
+Bestem $y$ når $x=2.5$, og fortolk resultatet.
+
+$y$ bestemmes ved indsættelse af 2.5 på $x$'s plads i ligningen:
+$$
+y=-2 \cdot 2.5 + 5 =-5+5=0 
+$$
+
+Dette kan betyder at hvis man plottede en graf for linje $y=-2x+5$, så ville den have gået igennem et punkt (2.5, 0)
+
+### Opgave 23
+For planeterne i Solsystemet kan en planets gennemsnitstemperatur som funktion af planetens afstand til Solen beskrives ved:
+$$
+f(x) = 5244 \cdot x^{-0.55}
+$$
+
+hvor $f(x)$ angiver planetens gennemsnitstemperatur (målt i Kelvin), og $x$ angiver planetens afstand til Solen (målt i mio. km)
+
+Bestem $f(150)$ og fortolk resultatet.
+
+$f(150)$ bestemmes ved at tage funktionens forskrift og indsætte 150 på x's plads.
+$$
+f(150) = 5244 \cdot 150^{-0.55} = 333.28
+$$
+
+Ovenstående betyder at når man er 150 mio. km væk fra Solen, kan man forvente en temperatur på 333,28 Kelvin.
+
+## Aflæse indgående størrelser og tilskrive størrelserne betydning (matematisk og i kontekst)
+
+### Opgave 26
+Funktionen $f$ er givet ved
+$$
+f(x)=-3x+b
+$$
+
+Gør rede for betydningen af de to konstanter i forskriften.
+
+$f(x)$ er en lineær funktion med form $f(x) = ax+b$ hvor a= -3 og b=5.
+
+a er hældningskoefficienten for den lineære funktion $f(x)$.
+Den beskriver hvor meget y-værdien ændrer sig når x stiger med 1, altså med a=-3 kan vi sige at y aftager med -3  hver gang x stiger med 1.
+
+b er startværdien for den lineære funktion $f(x)$. 
+Altså for x=0 gælder det at y=b, og i denne tilfælde y=5.
+
+## Opstille formler og udtryk ud fra given oplysninger eller en sproglig beskrivelse
+
+### Opgave 31
+Tabellen viser prisen for en bluse før og efter et udsalg.
+
+| Pris før | Pris efter | 
+| --- | --- | 
+| 300 | 200 |
+
+Bestem den procentvise ændring af prisen på blusen.
+
+Den procentvise ændring af prisen beregnes ved
+$$
+\frac{\text{Pris før - Pris efter}}{\text{Pris før}} \cdot 100\%
+$$
+
+altså
+$$
+\frac{300-200}{300} \cdot 100\%
+= \frac{100}{300} \cdot 100\%
+= \frac{1}{3} \cdot 100\%
+= 33.33\%
+$$
+
+### Opgave 32
+Antallet af individer i en bestemt population vokser eksponentielt med 20% om måneden.
+
+Opsil en ligning til at bestemme hvor lang tid, der går, før antallet af insekter i populationen er fordoblet.
+
+Fordoblingstiden, eller fordoblingskonstanten for eksponentielle funktioner bestemmes ved:
+
+::: {.callout-tip}
+### Fordoblingskonstant
+For en eksponentiel funktion med forskrift $f(x)=b \cdot a^x$ gælder det at:
+$$
+T_2 = \frac{\log(2)}{\log(a)} = \frac{\ln(2)}{\ln(a)}
+$$
+:::
+
+Fordoblings tiden er derfor:
+$$
+T_2=\frac{\log(2)}{\log(1.2)} = 3,8
+$$
+
+udtrykt i måneder.
+
+# Ligningsløsning
+## Afgøre om et oplyst resultat er en løsning til en ligning med papir/blyant og med CAS
+
+### Opgave 35
+Undersøg om $x=7$ er løsning til ligningen
+$$
+15=3 \cdot 1.2^x
+$$
+
+7 sættes ind på x's plads:
+$$
+3 \dot 1.2^7 = 10.75
+$$
+
+Og vi kan nu se at 7 kan netop ikke opfylde ligningen
+$$
+15 \neq 3 \cdot 1.2^7
+$$
+
+## Algebraisk løsning af ligninger med papir/blyant og med CAS
+
+### Opgave 38
+Isoler R i ligningen
+$$
+\frac{U}{R} = I
+$$
+
+Først ganger vi ligningen med R på begge sider af lighedstegn:
+$$
+\begin{align}
+    & \frac{U}{R} \cdot R = I \cdot R \\
+    & U = I \cdot R
+\end{align}
+$$
+
+Så dividerer vi med I på begge sider af lighedstegn:
+$$
+\begin{align}
+    & \frac{U}{I} = \frac{I \cdot R}{I} \\
+    & \frac{U}{I} = R
+\end{align}
+$$
+
+Som gør at vi har isoleret R i ligningen.
+
+
+## Grafisk løsning af ligninger med papir/blyant og med matematisk værktøjsprogram
+
+### Opgave 41
+![Opgave 41](fig/opgave41.png)
+
+Figuren viser graferne for to lineære funktioner $f$ og $g$. 
+
+Bestem løsningen til ligningen $f(x)=g(x)$.
+
+Til at finde løsningen til ligningen skal vi aflæse koordinater for skæringspunktet mellem de to grafer.
+
+Til sådan en opgave vil der typisk være vedhæftet bilag hvor man tydeligt kan aflæse skæringspunktet.
+
+Skæringspunktet er (4, 2.2) som er løsningen til ligning $f(x)=g(x)$
+
+### Opgave 42
+Figuren viser graferne for to eksponentielle funktioner f og g. Bestem løsningen til ligningen $f(x) = g(x)$
+
+![Opgave 42](fig/opgave42.png)
+
+Som i den forrige opgave, skal vi aflæse koordinater for skæringspunktet mellem de to grafer, som er (4, 1)
+
+# Grafer og figurer
+## Tegne grafer og grafiske repræsentationer samt geometriske figurer med papir/blyant og med matematisk værktøjsprogram, herunder hensigtsmæssig valg af ’grafvindue’
+
+### Opgave 57
+For en trekant ABC er |BC|=5, |AC|=8 og |AB|=11.
+Konstruer en målfast tegning af trekanten ABC og forklar konstruktionen.
+
+![](fig/opgave57.PNG)
+
+Først starter jeg med en linje med punkt A. 
+Så tegner jeg en cirkel fra A med radius 11 - skæringspunktet mellem cirklen og linjen danner punkt B.
+Der tegnes efterfølgende 2 cirkler, en fra punkt A med radius 8, og en fra punkt B med radius 5 - skæringpunktet mellem de to cirkler danner punktet C.
+Til sidst tegner jeg tre segmenter mellem A, B og C som danner $\triangle ABC$.
+
+
+### Opgave 58
+For en trekant ABC er |BC|=5, |AC|=8 og $\angle$ C = 20.
+Konstruér en målfast tegning af trekanten ABC, og forklar konstruktionen.
+
+![](fig/opgave58.PNG)
+
+
+### Opgave 59
+For en trekant ABC er |BC|=5 , $\angle$ B=30 og $\angle$ C = 70.
+Konstruér en målfast tegning af trekanten ABC, og forklar konstruktionen.
+
+![](fig/opgave59.PNG)

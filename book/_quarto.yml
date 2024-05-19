@@ -57,6 +57,9 @@ book:
     - part: 3-G_supplement/0.index.qmd
       chapters:
         - 3-G_supplement/diff-regning.qmd
+    - part: hf-opgaver/hf-index.qmd
+      chapters: 
+        - hf-opgaver/hf-C.qmd
     - part: bilag/0.index.qmd
       chapters:
         - bilag/multiplikationstabel.qmd
